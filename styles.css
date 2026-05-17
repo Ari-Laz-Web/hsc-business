@@ -1,17 +1,17 @@
 :root {
-  --bg: #fbfaf7;
+  --bg: #f6f7f9;
   --bg-elev: #ffffff;
-  --ink: #1a1a1a;
-  --ink-soft: #4a4a4a;
-  --ink-muted: #8a8a8a;
-  --rule: #e8e4dc;
-  --rule-strong: #d4cfc4;
-  --accent: #8b2c2c;
-  --accent-soft: #f4ebeb;
-  --highlight: #fff6d6;
+  --ink: #14181f;
+  --ink-soft: #444b58;
+  --ink-muted: #858b96;
+  --rule: #e4e7ec;
+  --rule-strong: #cfd4dc;
+  --accent: #1e3a5f;
+  --accent-soft: #e7edf3;
+  --highlight: #fff4d6;
   --success: #2d5d3a;
-  --shadow-sm: 0 1px 2px rgba(20, 14, 4, 0.04);
-  --shadow-md: 0 4px 12px rgba(20, 14, 4, 0.06);
+  --shadow-sm: 0 1px 2px rgba(10, 15, 25, 0.04);
+  --shadow-md: 0 4px 12px rgba(10, 15, 25, 0.06);
 
   --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
   --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
