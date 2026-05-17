@@ -25,6 +25,36 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2022-q12",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an example of service differentiation?",
+              "options": [
+                "A car manufacturer supplies cars with premium tinted windows.",
+                "A chemist issues a patient with medication in exchange for a script.",
+                "A shoe store assistant spends varying amounts of time with customers.",
+                "A salesperson provides a receipt to a customer who has purchased a bed."
+              ],
+              "correct": "C",
+              "explanation": "Service differentiation involves varying the service experience to distinguish from competitors. Varying time spent with customers is a clear example. Option A is product differentiation, while B and D describe standard transactions."
+            },
+            {
+              "id": "ops-role-2022-q19",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A large cake business is going to offer a contract to another business to make their cake decorations. Which business functions would provide input into the contract details?",
+              "options": [
+                "Finance, operations and marketing",
+                "Finance, marketing and human resources",
+                "Operations, human resources and finance",
+                "Operations, marketing and human resources"
+              ],
+              "correct": "C",
+              "explanation": "Outsourcing decoration production primarily involves operations (quality/supply specifications), finance (cost and budget) and human resources (impact on staffing). Marketing is less directly involved in supplier contract details."
+            },
+            {
               "id": "ops-role-2023-q15",
               "year": 2023,
               "type": "mcq",
@@ -162,6 +192,36 @@
               "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
             },
             {
+              "id": "ops-infl-2022-q10",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A printing business uses chemicals in its production process. Which of the following factors has a legal regulation that affects the operations management of this business?",
+              "options": [
+                "Superannuation",
+                "Code of conduct",
+                "Union membership",
+                "Environmental protection"
+              ],
+              "correct": "D",
+              "explanation": "Environmental protection laws regulate the use and disposal of chemicals in production, directly affecting operations. Superannuation and union membership are HR-related, and codes of conduct are typically voluntary rather than legal regulations."
+            },
+            {
+              "id": "ops-infl-2022-q4",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A watch manufacturer uses price-skimming strategies and provides a lifetime warranty on their products. What would most likely have influenced the implementation of these strategies?",
+              "options": [
+                "Legal compliance",
+                "Quality expectations",
+                "Ethical responsibility",
+                "Cost-based competition"
+              ],
+              "correct": "B",
+              "explanation": "Price skimming (high initial price) and a lifetime warranty both signal premium quality, reflecting customer quality expectations. Legal compliance and ethical responsibility are not the primary drivers here, and cost-based competition would push for lower prices, not skimming."
+            },
+            {
               "id": "ops-infl-2023-q27",
               "year": 2023,
               "type": "extended",
@@ -268,6 +328,53 @@
           "id": "ops-processes",
           "name": "Operations processes",
           "questions": [
+            {
+              "id": "ops-proc-2022-q21c",
+              "year": 2022,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Michael is considering which process layout would be the most efficient for this restaurant. Compare each layout in terms of efficiency and profitability.\n\nOption 1: A narrow kitchen with the stove and raw meat refrigerator on one side, burger assembly station and finished burgers area on the other side, requiring employees to move back and forth. The seating area is larger with more tables and cash registers near the entrance.\n\nOption 2: A sequential kitchen layout where the raw meat refrigerator, stove, burger assembly station, and finished burgers area are arranged in a logical production line. The seating area is smaller with fewer tables.",
+              "stimulus": "Michael would like to open a new burger restaurant. He is considering two possible process layouts: Option 1 has a narrow kitchen requiring employees to move back and forth between stations, but offers a larger seating area with more tables. Option 2 has a sequential kitchen layout that allows employees to assemble burgers in a logical flow, but has a smaller seating area with fewer tables.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed similarities and differences across both efficiency and profitability for each layout, with clear application to the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides some similarities or differences across efficiency and profitability for both layouts."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about one aspect of one or both layouts."
+                }
+              ],
+              "exemplar": "Option 2 is more efficient in terms of production because its sequential layout allows burgers to be assembled in a logical flow — from raw meat refrigerator, to stove, to assembly station, to finished burgers. This reduces wasted employee movement, lowers the risk of workplace accidents, and shortens production time per burger. In contrast, Option 1's narrow kitchen forces employees to move back and forth between stations, creating bottlenecks and increasing the chance of collisions, which reduces efficiency and speed of service.\n\nHowever, Option 1 has greater profitability potential because it offers a larger seating area with more tables and cash registers, allowing the restaurant to serve more dine-in customers simultaneously and generate higher revenue. Option 2's smaller seating area limits the number of customers served at peak times, capping potential profitability. Therefore, while Option 2 maximises operational efficiency, Option 1 better maximises sales volume and revenue."
+            },
+            {
+              "id": "ops-proc-2022-q27",
+              "year": 2022,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain the importance to a business of having operations processes that can maintain a competitive advantage.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed explanation of why operations processes are important to competitive advantage. Integrates relevant case studies and contemporary issues. Sustained, cohesive response with strong terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes why operations processes/strategies are important to competitive advantage. Some reference to case studies and uses relevant terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to operations with basic terminology and minimal case study reference."
+                }
+              ],
+              "exemplar": "Operations processes — the transformation of inputs into outputs — are central to a business's ability to gain and maintain a competitive advantage. In increasingly globalised and competitive markets, operations directly determine cost structures, product quality, speed to market and the ability to differentiate. Businesses such as Toyota, Apple, McDonald's and Aldi have built sustained competitive advantage primarily through superior operations processes. This response explains the importance of inputs, transformation processes, and outputs in maintaining competitive advantage, supported by contemporary case studies and business issues.\n\nInputs are the resources that enter the transformation process and are categorised as transformed resources (materials, information, customers) and transforming resources (human resources and facilities). Effective management of inputs is critical to cost leadership. Aldi's global sourcing strategy — purchasing private-label goods in bulk directly from manufacturers — secures cheaper inputs than competitors like Coles and Woolworths, allowing Aldi to maintain its low-price competitive advantage. Similarly, Apple's tight supplier relationships, including its preferential access to Foxconn manufacturing capacity, secure both quality and cost advantages over competitors. Without strong input management, businesses cannot sustain price competitiveness or product quality.\n\nThe quality of transforming resources — particularly human resources and technology — also drives competitive advantage. Skilled, motivated employees produce higher-quality outputs more efficiently, while modern facilities and technology accelerate production and reduce error. Tesla's highly automated 'Gigafactories' demonstrate how investment in transforming resources can create cost and speed advantages that competitors struggle to replicate. Failure to invest in inputs and transforming resources leaves businesses vulnerable to disruption, as seen with traditional retailers unable to compete with Amazon's logistics infrastructure.\n\nThe transformation process — the conversion of inputs into outputs — is where most competitive advantage is built or lost. Several elements of transformation are critical. The 4Vs (volume, variety, variation in demand, visibility) shape how processes are designed. Toyota mastered high-volume, low-variety production through its famous Toyota Production System, achieving unmatched efficiency and quality. McDonald's manages high volume with low variety to deliver fast, consistent service globally — a key source of its competitive advantage. Businesses must align operations design with their 4V profile to remain competitive.\n\nSequencing and scheduling tools such as Gantt charts and critical path analysis (CPA) help businesses manage complex production schedules. Construction firms like Lendlease use CPA to identify the longest sequence of dependent tasks on a project, allowing them to deliver projects on time and within budget — critical to maintaining competitive advantage in contract bidding. Effective scheduling reduces idle time, optimises resource use and meets customer deadlines, directly affecting customer satisfaction and repeat business.\n\nTechnology, task design and process layout are major drivers of efficiency and differentiation. Investment in advanced technology — robotics, AI, automation — can dramatically reduce per-unit costs and improve quality consistency. Amazon's warehouse robotics, processing millions of orders per day, allow it to offer faster delivery at lower cost than competitors. Process layout decisions also affect efficiency: a product layout suits high-volume standardised production (car manufacturing), while a process layout suits customised production (custom furniture). Choosing and refining the right layout reduces movement, errors and bottlenecks, supporting competitive advantage in either cost leadership or differentiation strategies.\n\nQuality management is another core transformation activity supporting competitive advantage. Strategies include quality control (inspection), quality assurance (preventive systems like ISO 9001), and total quality management (TQM, embedding quality across all functions). Toyota's TQM and Kaizen (continuous improvement) culture has made it synonymous with reliability and quality, sustaining its competitive position for decades. Strong quality management reduces rework, returns and reputational damage — major sources of lost competitive advantage.\n\nMonitoring, control and improvement of operations processes ensure ongoing competitiveness. Key performance indicators (KPIs) such as defect rates, throughput times, capacity utilisation and unit costs allow management to identify problems early and continuously improve. Aldi's relentless focus on operational efficiency — minimal staff per store, narrow product range, efficient store layouts — is a result of continuous monitoring and improvement, sustaining its cost advantage.\n\nOutputs — the goods or services delivered to customers — and the post-delivery experience (customer service, warranties) also affect competitive advantage. Apple's high-quality output combined with superior in-store customer service through its Genius Bar creates an experience competitors struggle to match. Strong warranties reduce perceived risk for customers — Hyundai's industry-leading 5-year warranty has been central to its rise in global automotive markets, demonstrating that operations choices around outputs can directly drive market share gains.\n\nContemporary issues amplify the importance of operations processes. Globalisation has intensified competition, requiring businesses to constantly improve efficiency to compete with low-cost international rivals. Technology and Industry 4.0 — including AI, IoT, big data and additive manufacturing — are reshaping what is possible in operations, and businesses that fail to adopt these technologies risk obsolescence. Sustainability is also a growing source of competitive advantage; consumers increasingly favour businesses that operate ethically and sustainably, as seen with Patagonia's competitive edge through environmental operations practices. Supply chain disruptions exposed by COVID-19 have shown the importance of resilient operations — businesses with diversified suppliers and digitised supply chains, like Apple, recovered faster than competitors reliant on single-source production.\n\nThe outcomes of effective operations processes are clear: cheaper inputs, increased volume, improved cost leadership, improved differentiation, economies of scale, superior quality, speed, dependability, flexibility, customisation and ultimately, improved profitability. Without strong operations, businesses cannot deliver the product or service experience customers expect at a competitive price.\n\nIn conclusion, operations processes are the engine of competitive advantage. From sourcing inputs to designing transformation activities to delivering quality outputs, every operations decision affects a business's ability to compete on cost, quality, speed or differentiation. Toyota's production system, Apple's supplier ecosystem, Aldi's lean retail model and Amazon's logistics infrastructure all demonstrate that sustained competitive advantage stems from operations excellence. As technology, globalisation and sustainability reshape industries, operations processes will only become more important — making them a strategic priority for any business seeking long-term success."
+            },
             {
               "id": "ops-proc-2023-q17",
               "year": 2023,
@@ -389,6 +496,60 @@
                 }
               ],
               "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            },
+            {
+              "id": "ops-strat-2022-q15",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Heidi has a small farm that has a variety of animals, including chickens. She would like to sell the excess chicken eggs to customers. Which distribution method would best support her situation?",
+              "options": [
+                "Producer → consumer",
+                "Producer → retailer → consumer",
+                "Producer → wholesaler → consumer",
+                "Producer → agent → retailer → consumer"
+              ],
+              "correct": "A",
+              "explanation": "A small farm with excess eggs is best served by selling directly to consumers (e.g. farm gate, market stall), avoiding intermediaries that would add cost and complexity for such a small operation."
+            },
+            {
+              "id": "ops-strat-2022-q21b",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Recommend an appropriate inventory management strategy for this business.",
+              "stimulus": "Michael would like to open a new burger restaurant.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Recommends a specific inventory strategy with multiple well-developed reasons linked to the burger restaurant context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Recommends an inventory strategy with one reason linked to the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about inventory management with limited application."
+                }
+              ],
+              "exemplar": "Just-in-time (JIT) inventory management would be the most appropriate strategy for Michael's burger restaurant. JIT involves ordering and receiving stock only as it is needed for production, minimising storage requirements. This is ideal for a burger restaurant because perishable inputs such as fresh meat, lettuce, tomatoes and buns spoil quickly, so JIT ensures customers receive the freshest possible product. It also reduces storage costs by lowering the need for large refrigerators and freezers, and minimises waste from expired stock. Combined with strong supplier relationships, JIT supports both quality and cost efficiency for Michael's new venture."
+            },
+            {
+              "id": "ops-strat-2022-q7",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A large clothing manufacturer in NSW wants to reduce input costs. Which strategy would achieve this objective?",
+              "options": [
+                "Increasing product variety",
+                "Increasing employee training",
+                "Implementing global sourcing",
+                "Implementing sustainable packaging"
+              ],
+              "correct": "C",
+              "explanation": "Global sourcing involves obtaining inputs from cheaper international suppliers, directly reducing input costs. The other options would generally increase costs rather than reduce them."
             },
             {
               "id": "ops-strat-2023-q21a",
@@ -609,6 +770,30 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-perf-2022-q21a",
+              "year": 2022,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline a performance objective relevant to this business.",
+              "stimulus": "Michael would like to open a new burger restaurant.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines a relevant performance objective and links it specifically to a burger restaurant context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a performance objective with some relevance to the business but limited contextual application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names a performance objective without explanation or relevance to the scenario."
+                }
+              ],
+              "exemplar": "Quality is a critical performance objective for Michael's burger restaurant. It refers to how well the goods or services meet customer expectations in terms of fitness for purpose. For a burger restaurant, this means using fresh ingredients, ensuring food is cooked to the correct temperature, and serving consistent portion sizes every time. Strong quality will build customer loyalty and repeat business, which is essential in the highly competitive fast-food market."
+            },
+            {
               "id": "ops-strat-2023-q2",
               "year": 2023,
               "type": "mcq",
@@ -650,6 +835,45 @@
           "id": "mkt-role",
           "name": "Role of marketing",
           "questions": [
+            {
+              "id": "mkt-role-2022-q17",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A florist purchases flowers to create flower arrangements. What type of market does the florist operate in?",
+              "options": [
+                "Consumer",
+                "Industrial",
+                "Mass",
+                "Resource"
+              ],
+              "correct": "B",
+              "explanation": "When the florist buys flowers as inputs for producing arrangements (rather than for personal use), they operate in an industrial market — businesses purchasing goods to use in producing other goods or services."
+            },
+            {
+              "id": "mkt-role-2022-q24c",
+              "year": 2022,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Why should this business adopt a marketing approach instead of a selling approach?",
+              "stimulus": "A business wishes to introduce new products into the market.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides multiple developed reasons why the marketing approach is preferable to the selling approach."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides at least one reason for adopting the marketing approach over the selling approach."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches in general terms the marketing and/or selling approach."
+                }
+              ],
+              "exemplar": "The business should adopt a marketing approach rather than a selling approach because it is more sustainable and customer-focused. The selling approach assumes products already exist and focuses on persuading customers to buy them, often through aggressive promotion. This can neglect actual customer needs and lead to poor product-market fit, particularly risky when introducing new products.\n\nIn contrast, the marketing approach begins with market research to identify customer needs, wants and preferences before designing products. This ensures the new product range genuinely satisfies the target market, increasing the likelihood of success and reducing the risk of costly failures. A marketing approach also builds long-term customer relationships by delivering ongoing value, encouraging repeat business and positive word-of-mouth. Furthermore, it supports better strategic decisions across the marketing mix — pricing, place and promotion — because all elements are aligned to customer needs. Overall, the marketing approach generates higher customer satisfaction, brand loyalty and long-term profitability."
+            },
             {
               "id": "mkt-role-2024-q23a",
               "year": 2024,
@@ -695,6 +919,21 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2022-q1",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is an economic factor that could influence customer choice?",
+              "options": [
+                "Perception",
+                "Recession",
+                "Regulation",
+                "Subculture"
+              ],
+              "correct": "B",
+              "explanation": "A recession is an economic factor (a downturn in economic activity) affecting consumer purchasing power and choice. Perception and subculture are psychological/sociocultural factors, and regulation is a government/legal factor."
+            },
             {
               "id": "mkt-infl-2023-q13",
               "year": 2023,
@@ -808,6 +1047,60 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2022-q11",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is correct for the growth phase of the product life cycle?\n\nA. Production Decreased / Price Maintained\nB. Production Maintained / Price Increased\nC. Production Increased / Price Increased\nD. Production Increased / Price Maintained",
+              "options": [
+                "Production Decreased / Price Maintained",
+                "Production Maintained / Price Increased",
+                "Production Increased / Price Increased",
+                "Production Increased / Price Maintained"
+              ],
+              "correct": "D",
+              "explanation": "During the growth phase, sales rise rapidly so production is increased to meet demand, while prices are typically maintained to attract a broader customer base. NESA accepted both C and D as valid responses."
+            },
+            {
+              "id": "mkt-proc-2022-q24b",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "How will the business know that their marketing plan has been successful for a new product range?",
+              "stimulus": "A business wishes to introduce new products into the market.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly demonstrates understanding of how success is measured through monitoring and controlling."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates some understanding of how marketing plan success is measured."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about marketing plans."
+                }
+              ],
+              "exemplar": "The business will know its marketing plan has been successful by monitoring and controlling actual performance against the targets set in the plan. Key performance indicators include sales revenue, units sold, market share, customer acquisition rates and return on marketing investment. The business should compare actual results to the financial forecasts and sales targets developed in the planning stage. Additional indicators such as brand awareness, customer feedback, repeat purchase rates and social media engagement also signal success. Where actual results fall short of objectives, the business should investigate causes and adjust elements of the marketing mix to correct course."
+            },
+            {
+              "id": "mkt-proc-2022-q3",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is a pair of primary data collection methods?",
+              "options": [
+                "Questionnaires and industry reports",
+                "Industry reports and internet sources",
+                "Personal interviews and questionnaires",
+                "Internet sources and personal interviews"
+              ],
+              "correct": "C",
+              "explanation": "Primary data is collected first-hand directly from the source. Personal interviews and questionnaires are both primary methods. Industry reports and internet sources are secondary data (already collected by others)."
+            },
             {
               "id": "mkt-proc-2023-q23a",
               "year": 2023,
@@ -965,6 +1258,30 @@
           "name": "Marketing strategies",
           "questions": [
             {
+              "id": "mkt-fin-2022-q25",
+              "year": 2022,
+              "type": "report",
+              "marks": 20,
+              "prompt": "You have been hired as a consultant by Bee Sticky Pty Ltd to write a business report for the owners. In your report:\n• describe branding and product strategies the business could use to expand into global markets\n• recommend a channel choice that would suit this business's expansion\n• analyse the global financial management strategies required for a successful expansion.",
+              "stimulus": "Bee Sticky Pty Ltd is an established Australian manufacturing business that produces a wide range of high quality and premium organic honey. It is expanding into global markets. It will lease warehouses in Malaysia and the USA.\n\nSWOT analysis:\nStrengths: High quality, premium and organic honey products; Approved for consumption and medical uses; Made by honeybees from Australian flora.\nWeaknesses: Frequent breakage of product during transportation; Lack of experience in foreign payment systems.\nOpportunities: Expanding market for high quality honey in countries overseas; Falling bee populations overseas; Potential collaborations with upmarket restaurants/chefs.\nThreats: Established competition in foreign markets; Fluctuations in the Australian dollar.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed description of product and branding strategies, well-reasoned channel choice, and detailed analysis of global financial management strategies. Applies stimulus extensively. Sustained, cohesive business report format with strong terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes product/branding strategies, channel choice and global financial strategies with some application of stimulus. Uses report format with relevant terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to marketing and/or finance with basic terminology and limited report structure."
+                }
+              ],
+              "exemplar": "BUSINESS REPORT: GLOBAL EXPANSION STRATEGY FOR BEE STICKY PTY LTD\n\nTo: The Owners, Bee Sticky Pty Ltd\nFrom: Business Consultant\nRe: Marketing and Financial Strategies for Global Expansion into Malaysia and USA\n\n1.0 INTRODUCTION\nBee Sticky Pty Ltd's planned expansion into Malaysia and the USA presents significant opportunities given falling overseas bee populations and rising global demand for premium organic honey. This report recommends product and branding strategies, an appropriate channel choice, and global financial management strategies to support a successful international launch, addressing identified weaknesses in transport and foreign payments while leveraging Bee Sticky's premium Australian heritage.\n\n2.0 PRODUCT AND BRANDING STRATEGIES\nBee Sticky should adopt a global branding (standardisation) approach, presenting consistent product names, packaging design and brand identity across all markets. This builds a unified premium image worldwide, much like Apple maintains identical branding globally. The brand should emphasise key strengths — 'Premium Organic Australian Honey' — leveraging the credibility of Australian flora and medical-grade certification, which differentiates Bee Sticky from established competitors.\n\nFor packaging, Bee Sticky must redesign containers to address the frequent breakage during transportation. Replacing glass with high-grade shatter-resistant jars or protective inner sleeves will reduce damage costs and improve customer satisfaction. Packaging should also include multilingual labelling (English and Bahasa Malaysia) and comply with USA FDA and Malaysian halal certification requirements.\n\nProduct strategies should include extension and customisation. Bee Sticky could develop product variants tailored to local tastes — for example, smaller gift-sized jars for the Malaysian premium gifting market and medical-grade Manuka-style honey for the USA wellness market. This product mix expansion maximises the opportunity to collaborate with upmarket restaurants and chefs identified in the SWOT.\n\n3.0 CHANNEL CHOICE RECOMMENDATION\nBee Sticky should adopt a selective distribution channel. Intensive distribution (e.g. mass supermarkets) would dilute the premium brand image and force price competition against established global brands. Exclusive distribution would limit volume and growth potential.\n\nSelective distribution — placing honey in carefully chosen high-end retailers (e.g. gourmet food halls, organic specialty stores, premium online platforms like iHerb) and upmarket restaurants — maintains the premium positioning while reaching enough volume to make warehouse operations in Malaysia and the USA viable. This is similar to the approach taken by Penfolds, which uses selective distribution globally to protect its premium positioning. The leased warehouses will support efficient regional distribution to these selected retail partners.\n\n4.0 GLOBAL FINANCIAL MANAGEMENT STRATEGIES\nGiven Bee Sticky's inexperience with foreign payment systems and exposure to AUD fluctuations, several financial strategies are essential.\n\nExchange rates: Movements in the AUD significantly affect revenue. A strong AUD makes exports more expensive for foreign buyers, reducing competitiveness, while a weak AUD increases revenue per unit sold. Bee Sticky should monitor exchange rates closely and price products to absorb moderate fluctuations.\n\nHedging: To manage currency risk, Bee Sticky should use forward exchange contracts, locking in an exchange rate for future transactions in USD and MYR. This provides certainty over revenue and protects profit margins from adverse currency movements — a strategy used widely by Australian exporters such as BHP.\n\nDerivatives: Currency options can also be used, giving Bee Sticky the right but not obligation to exchange currency at a set rate. This provides flexibility if the AUD moves favourably, though it carries an upfront cost.\n\nMethods of international payment: Given lack of experience, Bee Sticky should use letters of credit for early international transactions. A letter of credit guarantees payment from the buyer's bank once shipping documents are presented, reducing payment risk. As trust develops with regular customers, Bee Sticky can transition to clean payments (telegraphic transfer) for efficiency. Bills of exchange offer a middle-ground option providing some payment security.\n\nInterest rates: With warehouses leased rather than purchased, capital requirements are lower. However, Bee Sticky should monitor international interest rates when financing inventory or working capital, choosing favourable currencies where possible.\n\n5.0 CONCLUSION AND RECOMMENDATIONS\nBee Sticky's expansion will succeed by combining a globally standardised premium brand with improved packaging, a selective distribution channel through upmarket retailers and restaurants, and robust financial management using hedging, letters of credit and exchange rate monitoring. These strategies leverage strengths, address weaknesses, capitalise on opportunities and mitigate threats identified in the SWOT, positioning Bee Sticky for sustainable international growth."
+            },
+            {
               "id": "mkt-strat-2022-extended",
               "year": 2022,
               "type": "extended",
@@ -994,6 +1311,60 @@
                 }
               ],
               "exemplar": "Branding and packaging are powerful marketing strategies that, when used effectively, build customer loyalty, justify premium pricing, and create competitive advantage. However, their effectiveness depends on consistency with broader strategy, target market alignment, and the changing influence of consumer ethics. This response evaluates both strategies using Apple, Aje, and Allbirds as contemporary examples...\n\n(Continue with 4–6 paragraphs each making a judgement supported by syllabus theory and case evidence, finishing with an overall evaluative conclusion.)"
+            },
+            {
+              "id": "mkt-strat-2022-q16",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following could be a disadvantage of using a price penetration strategy for a business?",
+              "options": [
+                "A large number of products are sold quickly.",
+                "The business has problems in trying to raise prices later.",
+                "New competitors find it more difficult to enter the market.",
+                "Customers are discouraged from purchasing the product immediately."
+              ],
+              "correct": "B",
+              "explanation": "Price penetration sets prices low to gain market share. A key disadvantage is that customers become accustomed to the low price, making future price rises difficult. Options A and C are advantages, and D is the opposite of what penetration achieves."
+            },
+            {
+              "id": "mkt-strat-2022-q24a",
+              "year": 2022,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline ONE promotion strategy this business could use to launch the new product range.",
+              "stimulus": "A business wishes to introduce new products into the market.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines a promotion strategy with explanation of how it would launch the new range."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a promotion strategy with limited development."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names a promotion strategy without explanation."
+                }
+              ],
+              "exemplar": "Advertising via social media platforms such as Instagram, Facebook and TikTok would be an effective promotion strategy to launch the new product range. The business could run targeted paid campaigns and partner with influencers to create buzz, reaching specific customer segments cost-effectively. Social media also allows two-way engagement through comments and shares, building awareness and demand for the new products quickly."
+            },
+            {
+              "id": "mkt-strat-2022-q5",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The characteristics of lifestyle, motivation and personality are most often used in which market segmentation strategy?",
+              "options": [
+                "Behavioural",
+                "Demographic",
+                "Geographic",
+                "Psychographic"
+              ],
+              "correct": "D",
+              "explanation": "Psychographic segmentation divides markets based on lifestyle, motivation, personality and values. Behavioural focuses on usage/loyalty, demographic on age/gender/income, and geographic on location."
             },
             {
               "id": "mkt-strat-2023-q10",
@@ -1220,6 +1591,60 @@
           "name": "Influences on financial management",
           "questions": [
             {
+              "id": "fin-infl-2022-q13",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which combination of global market influences would support a business's decision to expand globally?",
+              "options": [
+                "A depressed economic outlook and low interest rates",
+                "A depressed economic outlook and high interest rates",
+                "An improved economic outlook and low interest rates",
+                "An improved economic outlook and high interest rates"
+              ],
+              "correct": "C",
+              "explanation": "An improved economic outlook signals strong demand and consumer spending, while low interest rates make borrowing cheaper to fund expansion. Together they create favourable conditions for global expansion."
+            },
+            {
+              "id": "fin-infl-2022-q14",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A private investment company accepts money from clients. The owner illegally uses this money for their own personal use. Which government body would take legal action against the owner of this company?",
+              "options": [
+                "Australian Taxation Office",
+                "Australian Securities Exchange",
+                "Australian Prudential Regulation Authority",
+                "Australian Securities and Investments Commission"
+              ],
+              "correct": "D",
+              "explanation": "ASIC enforces company and financial services laws to protect consumers and investors, including cases of fraud or misuse of client funds. The ATO handles tax matters, ASX is a market operator, and APRA oversees prudential standards of banks/insurers."
+            },
+            {
+              "id": "fin-infl-2022-q23d",
+              "year": 2022,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Using the financial information provided, explain why the business should use debt finance to acquire the two new stores.",
+              "stimulus": "A gifts and homewares business sells goods such as candles, bags, cushions, soaps and jewellery. Financial information: Operating income (revenue) $1,500,000; Gross profit $1,100,000; Expenses $600,000; Total liabilities $2,000,000; Net profit $500,000; Owner's equity $1,800,000. The family-owned business is considering expansion by opening two new stores. Their bank has given approval to borrow $3,000,000 at 4% interest to finance their expansion.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Uses financial information to provide multiple clear reasons supporting the use of debt finance."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides reasons for using debt finance with some reference to the financial information."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about debt or finance."
+                }
+              ],
+              "exemplar": "Debt finance is an appropriate funding source for this expansion for several reasons. Firstly, the bank's approved interest rate of 4% is relatively low, making borrowing cost-effective. With a current net profit of $500,000, the business already generates strong earnings, and the two new stores are likely to increase total revenue, supporting the additional repayments. Interest of approximately $120,000 per year (4% of $3,000,000) is manageable against this profit base.\n\nSecondly, debt finance provides quick access to the large sum needed for expansion without diluting ownership — important for this family-owned business, which can retain full control. Thirdly, interest expenses are tax-deductible, reducing the effective cost of borrowing. Finally, the business has a substantial owner's equity base of $1,800,000, demonstrating financial stability and reducing lender risk. Overall, debt finance offers a fast, cost-effective and ownership-preserving way to fund the expansion."
+            },
+            {
               "id": "fin-infl-2024-q15",
               "year": 2024,
               "type": "mcq",
@@ -1303,6 +1728,93 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2022-q20",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business provides the following financial information:\n\nYear 1: Sales $600,000; COGS $200,000; Expenses $250,000\nYear 2: Sales $700,000; COGS $200,000; Expenses $200,000\nOwner's equity: $500,000\nGross profit ratio (industry average): 78%\n\nWhich of the following reflects the changes to profitability in Year 2?",
+              "options": [
+                "Return on owner's equity has improved and the gross profit ratio is worse than the industry average",
+                "Return on owner's equity has worsened and the gross profit ratio is worse than the industry average",
+                "Return on owner's equity has improved and the gross profit ratio is better than the industry average",
+                "Return on owner's equity has worsened and the gross profit ratio is better than the industry average"
+              ],
+              "correct": "A",
+              "explanation": "Year 1 net profit = $150,000 → ROE = 30%; Year 2 net profit = $300,000 → ROE = 60% (improved). Year 2 gross profit ratio = ($700,000 − $200,000) / $700,000 ≈ 71.4%, which is below the 78% industry average (worse)."
+            },
+            {
+              "id": "fin-proc-2022-q23a",
+              "year": 2022,
+              "type": "short",
+              "marks": 1,
+              "prompt": "Calculate the efficiency (total expenses ÷ total sales) of this business.",
+              "stimulus": "A gifts and homewares business sells goods such as candles, bags, cushions, soaps and jewellery. Financial information: Operating income (revenue) $1,500,000; Gross profit $1,100,000; Expenses $600,000; Total liabilities $2,000,000; Net profit $500,000; Owner's equity $1,800,000.",
+              "suggested_words": 30,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly calculates the efficiency ratio showing working."
+                },
+                {
+                  "band": "3-4",
+                  "description": "N/A for 1-mark question."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Incorrect calculation or no working shown."
+                }
+              ],
+              "exemplar": "Efficiency = Total expenses ÷ Total sales = $600,000 ÷ $1,500,000 = 0.4 or 40% (expressed as a ratio: 0.4:1)."
+            },
+            {
+              "id": "fin-proc-2022-q23b",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain how the expense ratio can help this business determine their efficiency.",
+              "stimulus": "A gifts and homewares business sells goods such as candles, bags, cushions, soaps and jewellery. Financial information: Operating income (revenue) $1,500,000; Gross profit $1,100,000; Expenses $600,000; Total liabilities $2,000,000; Net profit $500,000; Owner's equity $1,800,000.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly shows the relationship between the expense ratio and business efficiency with reference to the data."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of the expense ratio and efficiency with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about the expense ratio or efficiency."
+                }
+              ],
+              "exemplar": "The expense ratio (total expenses ÷ total sales) measures how effectively a business uses its resources to generate revenue. For this gifts and homewares business, the ratio is 40%, meaning the business spends 40 cents in expenses for every dollar of sales. A lower expense ratio indicates greater efficiency, as more revenue is converted into profit. By tracking the expense ratio over time and comparing it to industry benchmarks, the business can identify whether indirect costs such as rent, utilities or administration are rising disproportionately. Reducing these expenses while maintaining or growing sales would improve efficiency and ultimately boost profitability."
+            },
+            {
+              "id": "fin-proc-2022-q23c",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Why is the level of gearing an important consideration for the lender to this business?",
+              "stimulus": "A gifts and homewares business sells goods such as candles, bags, cushions, soaps and jewellery. Financial information: Operating income (revenue) $1,500,000; Gross profit $1,100,000; Expenses $600,000; Total liabilities $2,000,000; Net profit $500,000; Owner's equity $1,800,000. The family-owned business is considering expansion by opening two new stores. Their bank has given approval to borrow $3,000,000 at 4% interest to finance their expansion.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear reason why gearing is important for the lender, with reference to the business's financial position."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates understanding of why gearing matters to the lender."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about gearing."
+                }
+              ],
+              "exemplar": "Gearing (the debt-to-equity ratio) measures the proportion of a business's funding sourced from debt compared to equity. For lenders, gearing is critical because it indicates the level of financial risk in lending to the business. Currently, the business has total liabilities of $2,000,000 and owner's equity of $1,800,000, giving a gearing ratio just above 1:1. If the bank approves the additional $3,000,000 loan, total debt would rise to $5,000,000, significantly increasing the gearing ratio and the risk that the business could not meet repayments if cash flow declined. The lender uses gearing to assess long-term solvency and decide whether the business can reliably service the new loan plus interest."
+            },
             {
               "id": "fin-proc-2023-q20",
               "year": 2023,
@@ -1525,6 +2037,21 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2022-q18",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business owns a $2 million building with a $500 000 mortgage. They decide to sell the building and lease it back from the new owners over five years. What is the likely purpose of this financial strategy?",
+              "options": [
+                "Reduce liquidity",
+                "Reduce cash flow",
+                "Improve profitability",
+                "Improve working capital"
+              ],
+              "correct": "D",
+              "explanation": "Sale and leaseback converts a fixed asset into cash (a current asset), boosting working capital available for day-to-day operations. Liquidity and cash flow would improve, not reduce, and profitability is not the primary aim."
+            },
+            {
               "id": "fin-hr-2023-q25",
               "year": 2023,
               "type": "report",
@@ -1740,6 +2267,52 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2022-q22a",
+              "year": 2022,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline how an increase in the minimum wage rate could affect business.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines how an increase in the minimum wage affects business operations or costs."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes a general statement about the effect of minimum wage on business with some development."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about minimum wage with limited connection to business impact."
+                }
+              ],
+              "exemplar": "An increase in the minimum wage rate raises labour on-costs for businesses, including wages, superannuation and payroll tax. This can reduce profitability, particularly for labour-intensive businesses such as hospitality and retail. Businesses may respond by passing higher costs on to consumers through increased prices, reducing staff hours, or investing in automation to offset the rise in expenses."
+            },
+            {
+              "id": "hr-infl-2022-q22b",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Outline how the minimum employment standards protect employees in Australia. Use examples in your answer.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines how minimum employment standards protect employees, supported by specific relevant examples."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines how minimum standards protect employees with at least one example."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about minimum employment standards with limited or no example."
+                }
+              ],
+              "exemplar": "The National Employment Standards (NES) under the Fair Work Act 2009 set out 11 minimum entitlements that apply to all employees in Australia, regardless of their employment contract or award. These standards provide a safety net to protect basic employee rights. For example, full-time employees are entitled to four weeks of paid annual leave each year and a paid day off on public holidays. Employees are also entitled to a maximum of 38 ordinary hours of work per week, paid personal/carer's leave, and parental leave. These protections ensure fair treatment and prevent employer exploitation."
+            },
             {
               "id": "hr-infl-2023-q11",
               "year": 2023,
@@ -2070,6 +2643,44 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-proc-2022-q2",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is a type of voluntary separation in the workplace?",
+              "options": [
+                "Dismissal",
+                "Layoff",
+                "Resignation",
+                "Retrenchment"
+              ],
+              "correct": "C",
+              "explanation": "Resignation is initiated by the employee, making it voluntary. Dismissal, layoff and retrenchment are all initiated by the employer and are therefore involuntary forms of separation."
+            },
+            {
+              "id": "hr-proc-2022-q22d",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain the importance of carrying out an induction program for new employees.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides why and how induction is important, with clear features and benefits explained."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes some characteristics or benefits of induction."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about induction."
+                }
+              ],
+              "exemplar": "Induction is the process of introducing new employees to the business, their role, colleagues and workplace policies. It is important because it helps new employees adjust quickly to the workplace culture, understand their responsibilities, and become productive sooner. A well-designed induction reduces early staff turnover by ensuring employees feel welcomed and supported, which fosters a positive attitude toward the job and the business. It also communicates important policies on WHS, codes of conduct and anti-discrimination, helping the business meet legal obligations. Overall, induction enhances employee competence, satisfaction and retention, all of which contribute to long-term business performance."
+            },
+            {
               "id": "hr-proc-2024-q22c",
               "year": 2024,
               "type": "short",
@@ -2130,6 +2741,82 @@
           "name": "Strategies in human resource management",
           "questions": [
             {
+              "id": "hr-strat-2022-q22c",
+              "year": 2022,
+              "type": "short",
+              "marks": 3,
+              "prompt": "How are performance appraisals of employees beneficial to employers?",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides multiple developed ways performance appraisals benefit employers, with clear links to business outcomes."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides one or two ways performance appraisals benefit employers."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about performance appraisals."
+                }
+              ],
+              "exemplar": "Performance appraisals provide multiple benefits to employers. Firstly, they serve a developmental purpose by identifying employees' strengths and weaknesses, allowing employers to target training and development to address skill gaps and improve future performance. Secondly, they have an administrative function — appraisals provide objective evidence to support decisions about promotions, pay rises, performance-based bonuses, or, where necessary, termination. Thirdly, regular appraisals open two-way communication between managers and staff, helping align individual goals with business objectives, increasing motivation, and reducing staff turnover. Together, these benefits improve productivity, employee engagement and overall organisational effectiveness."
+            },
+            {
+              "id": "hr-strat-2022-q26",
+              "year": 2022,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain the importance to a business of having human resources strategies that reduce workplace disputes and increase worker satisfaction.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed explanation of importance of HR strategies that reduce disputes and increase satisfaction. Integrates relevant case studies and contemporary issues. Sustained, cohesive response with strong terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes importance of HR strategies for disputes and satisfaction. Some reference to case studies. Uses relevant terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to HR strategies with basic terminology and minimal case study reference."
+                }
+              ],
+              "exemplar": "Human resource strategies that reduce workplace disputes and increase worker satisfaction are critically important to business success. Effective HR management transforms employees from a cost into a competitive advantage, driving productivity, reducing turnover, lowering legal risk and protecting brand reputation. Businesses that fail to implement strong HR strategies, like Qantas during recent industrial disputes, suffer significant operational and reputational damage. This response explains the importance of leadership style, job design, training and development, performance management, rewards, and workplace dispute resolution strategies.\n\nLeadership style is foundational to workplace satisfaction. A participative or transformational leadership style, where managers consult employees and involve them in decision-making, builds trust and engagement. Atlassian, the Australian tech company, is well known for its flat, collaborative leadership culture, which has contributed to its consistently high employee satisfaction ratings and low voluntary turnover. In contrast, autocratic leadership can breed resentment and dispute. Strong leadership reduces the likelihood of grievances escalating because employees feel heard, which improves morale and productivity directly affecting bottom-line performance.\n\nJob design — how tasks, duties and responsibilities are organised — also significantly affects satisfaction. Specific job design (narrow, repetitive tasks) can lead to boredom and absenteeism, while general job design with task variety, autonomy and meaningful work increases motivation, as proposed by Hackman and Oldham's Job Characteristics Model. Google famously allows employees '20% time' to work on projects of their choosing, increasing intrinsic motivation and innovation. Well-designed jobs reduce stress-related disputes and absenteeism, both of which carry substantial cost to business.\n\nTraining and development strategies enhance both current skills and future capability. Investment in training signals to employees that the business values their growth, increasing loyalty and engagement. Aldi invests heavily in management development programs, contributing to internal promotion rates and lower turnover than retail industry averages. Training also reduces workplace accidents and compliance disputes — for example, mandatory WHS training reduces injury rates, lowering workers' compensation claims and union disputation. In a tight labour market, businesses that train staff retain talent and avoid the high cost of recruitment.\n\nPerformance management strategies, including regular appraisals, link individual performance to business goals while providing developmental feedback. When performance management is fair, transparent and two-way, employees view it as supportive rather than punitive, increasing satisfaction. Conversely, perceived unfair appraisals are a leading cause of workplace grievances. Microsoft famously abandoned its 'stack ranking' system after it created internal competition and dispute, replacing it with a development-focused appraisal model — demonstrating how performance management design directly affects culture and disputation levels.\n\nReward strategies, both monetary (wages, bonuses, profit-sharing, share schemes) and non-monetary (flexible work, recognition, career development), are central to satisfaction and dispute prevention. Pay-related disputes are among the most common causes of industrial action. Businesses that offer competitive and equitable pay, combined with non-monetary rewards, reduce this risk. Bunnings has long offered above-award wages and team-based recognition, contributing to high engagement and low industrial disputation. Importantly, contemporary employees — particularly younger generations — increasingly value non-monetary rewards such as flexibility and purpose, which businesses must address to remain attractive employers.\n\nThe rise of flexible and hybrid work arrangements post-COVID is a key contemporary issue. Businesses that have embraced flexibility, such as Telstra's 'Location Agnostic' policy, report higher worker satisfaction and easier recruitment. Inflexibility, in contrast, drives the 'Great Resignation' phenomenon where employees leave for more accommodating employers.\n\nWorkplace dispute resolution strategies are critical when conflicts inevitably arise. The recommended approach is a staged process: negotiation (direct discussion between parties), mediation (neutral third party facilitates), conciliation (third party suggests solutions), and arbitration (binding decision by tribunal such as the Fair Work Commission). Effective grievance procedures provide employees with a clear, confidential pathway to raise concerns, reducing the risk of escalation. Qantas's protracted disputes with the Transport Workers Union over outsourcing — eventually ruled illegal by the High Court in 2023 — illustrate the operational, legal and reputational damage caused by poor dispute management. Strong dispute resolution mechanisms minimise lost productivity from industrial action, legal costs and brand damage.\n\nReducing disputes and increasing satisfaction has measurable benefits for business effectiveness. Indicators such as low staff turnover, low absenteeism, low accident rates, high levels of training participation and high employee engagement scores demonstrate the success of HR strategies. Lower turnover saves significant recruitment and training costs — estimated at up to 150% of an employee's annual salary to replace. Lower absenteeism preserves productivity. Fewer accidents reduce workers' compensation premiums. High satisfaction boosts customer service, particularly in service industries — a key reason businesses like Apple invest heavily in employee experience to drive customer experience.\n\nContemporary business issues amplify the importance of these strategies. Skills shortages in industries like construction, healthcare and IT mean employers must compete harder to attract and retain talent. The Fair Work Commission's increased focus on psychosocial hazards (effective from 2023) places legal obligations on employers to manage workplace stress, bullying and harassment, making strong HR strategies a compliance requirement, not just a choice. Workplace diversity and inclusion has also become central to satisfaction — businesses with inclusive cultures report higher engagement and lower disputation.\n\nIn conclusion, HR strategies that reduce workplace disputes and increase worker satisfaction are vital because employees are the primary driver of productivity, innovation and customer service. Through effective leadership, thoughtful job design, training, performance management, rewards and dispute resolution, businesses minimise costly disruption and build engaged, high-performing teams. Case studies from Qantas, Atlassian, Aldi and Microsoft demonstrate that the businesses winning in their markets are those that treat HR strategy as core to competitive advantage. In an era of skills shortages, hybrid work and increasing employee expectations, strong HR strategies are not optional — they are essential to long-term business success."
+            },
+            {
+              "id": "hr-strat-2022-q6",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "All staff in a business participate equally in a profit-sharing scheme. Which row of the table correctly identifies this reward strategy?\n\nA. Monetary / Group\nB. Monetary / Individual\nC. Non-monetary / Group\nD. Non-monetary / Individual",
+              "options": [
+                "Monetary / Group",
+                "Monetary / Individual",
+                "Non-monetary / Group",
+                "Non-monetary / Individual"
+              ],
+              "correct": "A",
+              "explanation": "Profit-sharing involves financial payments (monetary) and 'all staff participate equally' means it is collective rather than tied to individual performance, making it a group reward."
+            },
+            {
+              "id": "hr-strat-2022-q9",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee has been bullied at work and has lodged a complaint. What initial action should the employer take to resolve this dispute?",
+              "options": [
+                "Arbitration",
+                "Conciliation",
+                "Mediation",
+                "Negotiation"
+              ],
+              "correct": "D",
+              "explanation": "Negotiation is the first and least formal step in dispute resolution, where parties communicate directly to reach an agreement. Mediation, conciliation and arbitration are subsequent steps involving third parties."
+            },
+            {
               "id": "hr-strat-2023-q1",
               "year": 2023,
               "type": "mcq",
@@ -2189,6 +2876,21 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2022-q8",
+              "year": 2022,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business has implemented a training program in the use of new machinery on the factory floor for its employees. What is the main reason for this training program?",
+              "options": [
+                "To prevent accidents",
+                "To reduce absenteeism",
+                "To reduce staff turnover",
+                "To improve corporate culture"
+              ],
+              "correct": "A",
+              "explanation": "Training specifically on new machinery is primarily about workplace health and safety — ensuring employees can use equipment safely to prevent accidents. The other outcomes may occur but are secondary."
+            },
             {
               "id": "hr-eff-2024-q5",
               "year": 2024,
