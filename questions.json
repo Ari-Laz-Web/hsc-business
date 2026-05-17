@@ -25,6 +25,60 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2024-q21a",
+              "year": 2024,
+              "type": "short",
+              "marks": 3,
+              "prompt": "A manufacturer of flags has seen a steady increase in sales, which coincides with the start of a major sporting event. The operations manager has increased the working hours of all employees to meet this demand. Explain the interdependence between operations and ONE other key business function for this business.",
+              "stimulus": "A manufacturer of flags has seen a steady increase in sales, which coincides with the start of a major sporting event. The operations manager has increased the working hours of all employees to meet this demand.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains the interdependent relationship between operations and one other key business function with direct reference to the flag manufacturer scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows some understanding of how operations connects to another business function, with limited application to the scenario."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides only basic or incomplete information about business functions."
+                }
+              ],
+              "exemplar": "Operations and human resources are highly interdependent in this flag manufacturing business. To meet the surge in demand from the sporting event, the operations manager has extended working hours, but this decision relies on the HR function to manage rostering, ensure compliance with award conditions on overtime, and maintain workforce wellbeing to prevent fatigue and accidents.\n\nIn turn, HR depends on operations to forecast production needs accurately so the right number of staff with the right skills can be scheduled. Without this coordination, the business risks either understaffing — leading to missed sales during the peak event — or overstaffing and rising labour costs. This interdependence ensures the business can capitalise on the short-term demand spike while maintaining productivity and employee satisfaction."
+            },
+            {
+              "id": "ops-role-2024-q7",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee has badly injured their shoulder at work and is seeing a physiotherapist for treatment. The treatment that the physiotherapist provides can be described as a",
+              "options": [
+                "customised good.",
+                "standardised good.",
+                "customised service.",
+                "standardised service."
+              ],
+              "correct": "C",
+              "explanation": "Physiotherapy is intangible (a service) and is tailored to the individual patient's injury (customised). It is not a physical good, and treatment plans vary by patient so it isn't standardised."
+            },
+            {
+              "id": "ops-role-2024-q9",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The role of an operations manager is to",
+              "options": [
+                "reduce waste and increase efficiency.",
+                "reduce output and increase customisation.",
+                "improve customisation and decrease speed.",
+                "improve quality and decrease economies of scale."
+              ],
+              "correct": "A",
+              "explanation": "An operations manager seeks to minimise waste and maximise efficiency to improve productivity. The other options describe contradictory or undesirable outcomes such as reducing output or sacrificing economies of scale."
+            },
+            {
               "id": "ops-role-2025-q21b",
               "year": 2025,
               "type": "short",
@@ -76,6 +130,36 @@
                 }
               ],
               "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
+            },
+            {
+              "id": "ops-infl-2024-q2",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The banning of dangerous goods such as asbestos is due to",
+              "options": [
+                "global sourcing.",
+                "business policies.",
+                "legal regulations.",
+                "operational regulations."
+              ],
+              "correct": "C",
+              "explanation": "Banning dangerous goods is enforced through legislation, making it a legal regulation influencing operations. Global sourcing relates to international suppliers, business policies are internal, and 'operational regulations' is not a recognised syllabus term."
+            },
+            {
+              "id": "ops-infl-2024-q6",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A government is providing businesses with a tax benefit if they source their electricity through renewable energy sources. The most likely reason for offering this tax benefit is to",
+              "options": [
+                "minimise government debt.",
+                "minimise government utility costs.",
+                "encourage competition between businesses.",
+                "encourage businesses to be more environmentally sustainable."
+              ],
+              "correct": "D",
+              "explanation": "Tax benefits for renewable energy use are designed to incentivise environmentally sustainable practices. They don't reduce government debt or utility costs directly, and they aren't targeted at competition between firms."
             },
             {
               "id": "ops-influences-2025-q21a",
@@ -132,6 +216,45 @@
           "name": "Operations processes",
           "questions": [
             {
+              "id": "ops-proc-2024-q18",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following are common characteristics of a critical path analysis?",
+              "options": [
+                "What tasks need to be done, how long they take, delivery timing",
+                "What tasks need to be done, how long they take, what order is necessary",
+                "Which tasks can be completed simultaneously, how long they take, quality testing",
+                "Which tasks can be completed simultaneously, how long they take, how many components are required"
+              ],
+              "correct": "B",
+              "explanation": "Critical path analysis maps the tasks required, their durations, and the sequence (order) in which they must be completed to determine the shortest project completion time. Quality testing and component counts are not characteristics of CPA."
+            },
+            {
+              "id": "ops-proc-2024-q21c",
+              "year": 2024,
+              "type": "short",
+              "marks": 4,
+              "prompt": "An ice-cream business is considering allowing customers to choose their own ice-cream flavours and toppings rather than having a set menu of ice-creams. Discuss the influence of visibility (customer contact) for this business.",
+              "stimulus": "An ice-cream business is considering allowing customers to choose their own ice-cream flavours and toppings rather than having a set menu of ice-creams.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Discusses both positive and negative implications of increased visibility/customer contact for the ice-cream business, demonstrating sound understanding of the transformation process."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates some understanding of visibility and customer contact, with limited evaluation of implications."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about customer contact or ice-cream sales."
+                }
+              ],
+              "exemplar": "Visibility refers to the extent to which customers are exposed to and involved in the production process. By allowing customers to select their own flavours and toppings, the ice-cream business significantly increases visibility, creating a high-contact service environment.\n\nThis customisation enhances the customer experience, builds engagement and provides real-time feedback on popular combinations, which can drive repeat purchases and word-of-mouth marketing. It also strengthens product differentiation in a competitive market.\n\nHowever, high visibility comes with operational costs. Staff need stronger interpersonal and service skills, and serving times lengthen, which may create queues during peak periods. The business must also hold a wider variety of ingredients, increasing inventory complexity and waste risk. On balance, increased visibility can boost sales but requires careful management of staff, layout and inventory to remain profitable."
+            },
+            {
               "id": "ops-processes-2025-q19",
               "year": 2025,
               "type": "mcq",
@@ -183,6 +306,53 @@
                 }
               ],
               "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            },
+            {
+              "id": "ops-strat-2024-q21b",
+              "year": 2024,
+              "type": "short",
+              "marks": 3,
+              "prompt": "A department store is considering the quantity of products they will need to order and store for the following year. Product A is Baby Milk Formula (900 g) and Product B is an air conditioner. How can each of these TWO products affect inventory management?",
+              "stimulus": "A department store is considering the quantity of products they will need to order and store for the following year.\nProduct A: Baby Milk Formula 900 g\nProduct B: Air conditioner",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains clearly how each of the two products influences inventory management decisions, referring to characteristics such as perishability, size, demand patterns and storage."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows some understanding of inventory management with reference to at least one of the products."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic or fragmented information about inventory or products."
+                }
+              ],
+              "exemplar": "Baby milk formula is a perishable product with an expiry date, which means the department store must apply a First-In-First-Out (FIFO) or Just-In-Time (JIT) approach. This reduces the risk of stock spoiling, minimises wastage and ensures customers receive fresh product, but requires frequent reordering and tight supplier coordination.\n\nAir conditioners are bulky, high-value items with seasonal demand peaking in summer. They consume significant warehouse space and carry high holding costs, so the store would order strategically ahead of summer and reduce stock in cooler months. Forecasting demand accurately is critical, as overstocking ties up working capital while understocking results in lost sales during peak periods."
+            },
+            {
+              "id": "ops-strat-2024-q27",
+              "year": 2024,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "How can operations strategies affect corporate social responsibility?",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Demonstrates comprehensive understanding of how operations strategies affect CSR, applies relevant case studies and contemporary business issues, and presents a sustained, logical response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates sound understanding of how operations strategies affect CSR with reference to case studies."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Describes some aspects of operations strategies or CSR with limited reference to case studies."
+                }
+              ],
+              "exemplar": "Corporate social responsibility (CSR) refers to a business's commitment to operating ethically and sustainably, going beyond legal compliance to consider its impact on the environment, employees, consumers and the wider community. Operations — the transformation of inputs into outputs — has profound CSR implications because it shapes resource use, emissions, waste, labour practices and supply chains. Operations strategies including quality management, technology, outsourcing, inventory management, supply chain management, global factors and new product design can either strengthen or undermine CSR. This response analyses these relationships with reference to Qantas, Patagonia, Apple and Nike.\n\nThe distinction between legal compliance and ethical responsibility is fundamental. Legal compliance involves meeting minimum requirements such as work health and safety legislation, the Australian Consumer Law and environmental regulations. Ethical responsibility goes further, voluntarily adopting standards that protect stakeholders. Operations strategies determine where on this spectrum a business sits.\n\nQuality management strategies — quality control, quality assurance and total quality management (TQM) — affect CSR by reducing defects, waste and harm to consumers. Quality control inspects outputs to ensure they meet standards, while quality assurance certifies processes against benchmarks such as ISO 9001. TQM embeds continuous improvement and customer focus across the entire workforce. Toyota's commitment to TQM, including the Andon cord empowering workers to halt production when defects are detected, demonstrates ethical responsibility by prioritising product safety and consumer wellbeing. Strong quality management reduces product recalls, protects consumer trust and minimises material waste — all CSR outcomes. Conversely, poor quality management, as seen in the 2014 Takata airbag recall affecting millions of vehicles globally, harms consumers and demonstrates a failure of ethical responsibility.\n\nTechnology strategies, including leading-edge and established technologies, affect environmental sustainability and social responsibility. Adopting energy-efficient machinery, renewable energy and automation reduces emissions, supporting environmental CSR. Apple has committed to carbon neutrality across its supply chain by 2030, investing in renewable energy and recycled materials. However, technology can also raise CSR concerns — automation may displace workers, raising ethical questions about employment, while data-collecting technologies can compromise consumer privacy. Therefore, operations managers must implement technology with stakeholder consultation, balancing efficiency gains with social impact.\n\nOutsourcing transfers business activities to external providers, often offshore, to reduce costs and access expertise. While outsourcing improves efficiency, it can create serious CSR risks if suppliers exploit workers, ignore safety standards or pollute the environment. Nike was criticised in the 1990s for sweatshop conditions in outsourced South-East Asian factories, severely damaging its brand. In response, Nike now publishes its supplier list, audits factories and supports worker welfare programs, demonstrating how outsourcing decisions directly shape CSR outcomes. The 2013 Rana Plaza collapse in Bangladesh, which killed over 1,100 garment workers, prompted many global retailers including Cotton On and Kmart Australia to strengthen ethical sourcing policies, showing how operations strategy must extend CSR throughout the supply chain.\n\nInventory management strategies affect environmental CSR by influencing waste levels and resource consumption. Just-in-Time (JIT) inventory reduces excess stock and obsolescence, lowering waste but increasing transport frequency and associated emissions. The LIFO and FIFO methods affect product freshness and waste, particularly for perishable goods. Woolworths uses sophisticated inventory systems combined with food rescue partnerships such as OzHarvest to redirect surplus stock from landfill, reducing environmental impact while addressing food insecurity — a clear CSR win.\n\nSupply chain management connects suppliers, logistics and distribution. Ethical supply chain management requires due diligence over suppliers' labour practices, environmental footprint and human rights record. Patagonia exemplifies ethical supply chain management, tracing materials, paying living wages and using recycled fabrics, all aligned with its CSR identity. The Australian Modern Slavery Act 2018 has legally required large businesses to report on supply chain risks, demonstrating how legal compliance increasingly drives operations strategy toward ethical responsibility.\n\nGlobal factors including global sourcing, economies of scale, scanning and learning, and research and development also influence CSR. Global sourcing accesses cheaper inputs but can increase emissions through long-distance freight and risk exploitation of overseas workers. Economies of scale lower unit costs but may concentrate environmental impacts in specific regions. Scanning and learning enables businesses to adopt best practices from global leaders, such as Apple importing renewable energy practices to suppliers. R&D drives sustainable innovation — Tesla's investment in electric vehicles is reshaping the automotive industry's environmental footprint.\n\nFinally, new product or service design and development directly embeds CSR principles. Designing products for durability, repairability and recyclability supports environmental sustainability. Patagonia's Worn Wear program repairs and resells used clothing, extending product life. IKEA designs products for flat-pack transport to reduce emissions and is shifting to renewable and recycled materials. Conversely, planned obsolescence — designing products to fail — has drawn ethical criticism, including class actions against Apple for slowing older iPhones.\n\nA contemporary issue is the global push toward net-zero emissions, with the Australian government legislating a 43% reduction by 2030. This pressures operations managers to redesign processes, switch to renewable inputs and rethink supply chains. Combined with rising consumer expectations and ESG investing, operations strategy is increasingly central to CSR performance.\n\nIn conclusion, operations strategies profoundly shape corporate social responsibility. Quality management protects consumers, technology can lower environmental impact, outsourcing and supply chain decisions affect workers' rights, inventory choices influence waste, global factors export CSR practices, and product design determines sustainability over a product's life. Businesses such as Patagonia, Apple, Toyota and Nike demonstrate that integrating CSR into operations strategy is no longer optional — it is essential for legal compliance, brand reputation and long-term competitiveness in a stakeholder-driven economy."
             },
             {
               "id": "ops-strategies-2025-q12",
@@ -311,6 +481,30 @@
           "name": "Role of marketing",
           "questions": [
             {
+              "id": "mkt-role-2024-q23a",
+              "year": 2024,
+              "type": "short",
+              "marks": 2,
+              "prompt": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia. Outline how marketing of this business relies on an effective human resources department.",
+              "stimulus": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Outlines the interdependence clearly, showing how marketing claims depend on effective HR for the piano business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the link between marketing and HR with limited application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic or fragmented information."
+                }
+              ],
+              "exemplar": "Marketing for this piano teaching business promotes highly qualified and experienced teachers as its key value proposition. This claim relies entirely on an effective HR department to recruit, screen and retain teachers with the appropriate qualifications across all states. Without HR delivering on this promise, the marketing message would lose credibility, damaging brand reputation during rapid national expansion."
+            },
+            {
               "id": "mkt-role-2025-q2",
               "year": 2025,
               "type": "mcq",
@@ -331,6 +525,60 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2024-q11",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A distributor of a new mop surveys people in a shopping centre about their cleaning habits. The distributor then uses persuasive selling techniques to try and convince the shoppers surveyed to buy their mop. This is an example of which selling technique?",
+              "options": [
+                "Sugging",
+                "Personal selling",
+                "Illegal marketing",
+                "Relationship marketing"
+              ],
+              "correct": "A",
+              "explanation": "Sugging (selling under the guise of research) is the unethical practice of using a survey as a pretext for selling. It misleads consumers about the purpose of the interaction and is a recognised ethical issue in marketing."
+            },
+            {
+              "id": "mkt-infl-2024-q13",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "LimpLeaf Pty Ltd conducted research before entering the tea market. The research found that customers, because of the company's brand name, thought the product would be inferior. What factor is influencing the customers' choice?",
+              "options": [
+                "Financial reasons",
+                "Implied conditions",
+                "Environmental reasons",
+                "Psychological reasons"
+              ],
+              "correct": "D",
+              "explanation": "Customers' perception of product quality based on a brand name is a psychological factor influencing choice. Financial factors relate to affordability, implied conditions are legal warranties, and environmental factors relate to sustainability concerns."
+            },
+            {
+              "id": "mkt-infl-2024-q23b",
+              "year": 2024,
+              "type": "short",
+              "marks": 4,
+              "prompt": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia. How may economic factors influence customers choosing this business?",
+              "stimulus": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Demonstrates thorough understanding of how economic factors influence customer choice for this business, applying multiple factors."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates sound understanding of economic factors and customer choice."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about economic factors or customer choice."
+                }
+              ],
+              "exemplar": "Economic factors shape both the willingness and ability of customers to purchase piano lessons, which are a discretionary service. In an economic downturn or recession, falling disposable income, rising unemployment and concerns about job security cause households to reallocate spending toward essentials such as food, housing and utilities. As a result, families may withdraw from piano lessons altogether or switch to cheaper alternatives such as group classes, online tutorials or unqualified tutors — directly threatening this business's premium positioning.\n\nConversely, a booming economy with low unemployment, rising wages and consumer optimism creates favourable conditions. Higher disposable income encourages families to invest in quality enrichment activities for their children, and they are more willing to pay premium prices for qualified teachers. Additionally, falling interest rates leave households with more cash flow, further supporting demand. This makes economic conditions a critical influence on the business's growth across states."
+            },
             {
               "id": "mkt-influences-2025-q5",
               "year": 2025,
@@ -453,6 +701,75 @@
               "exemplar": "Branding and packaging are powerful marketing strategies that, when used effectively, build customer loyalty, justify premium pricing, and create competitive advantage. However, their effectiveness depends on consistency with broader strategy, target market alignment, and the changing influence of consumer ethics. This response evaluates both strategies using Apple, Aje, and Allbirds as contemporary examples...\n\n(Continue with 4–6 paragraphs each making a judgement supported by syllabus theory and case evidence, finishing with an overall evaluative conclusion.)"
             },
             {
+              "id": "mkt-strat-2024-q16",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An Australian manufacturer sells its product in the USA and Australia without changing its marketing mix. What is an advantage of using the same marketing mix?",
+              "options": [
+                "The promotion can be modified in each country.",
+                "Economies of scale can be utilised in advertising.",
+                "World sales will be maximised through customisation.",
+                "It gives the same access to all customers around the world."
+              ],
+              "correct": "B",
+              "explanation": "A standardised global marketing mix allows the business to spread advertising and production costs over larger volumes, achieving economies of scale. Modification of promotion contradicts standardisation, customisation does the opposite, and equal access isn't a function of marketing mix consistency."
+            },
+            {
+              "id": "mkt-strat-2024-q20",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A company sets its primary marketing objective for 2025 to be the dominant market leader in the product it distributes. Its sales results are shown in the table.\n2023: Advertising Budget $1 million, Sales $10 million, Market Share 20%\n2024: Advertising Budget $2 million, Sales $15 million, Market Share 15%\nWhat should the marketing manager do to achieve the marketing objective?",
+              "options": [
+                "Increase the advertising budget to boost market share",
+                "Make no changes as sales have increased by $5 million",
+                "Decrease the advertising budget as the market is growing",
+                "Control the marketing mix as the market share has declined"
+              ],
+              "correct": "D",
+              "explanation": "Despite higher sales, market share has fallen from 20% to 15%, showing competitors are growing faster. To become market leader, the manager must control and adjust the entire marketing mix (product, price, promotion, place), not just advertising spend."
+            },
+            {
+              "id": "mkt-strat-2024-q23c",
+              "year": 2024,
+              "type": "short",
+              "marks": 4,
+              "prompt": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia. Propose TWO ways this business can use market segmentation to continue its growth.",
+              "stimulus": "A piano teaching business which guarantees highly qualified and experienced teachers is rapidly expanding across all states of Australia.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Proposes two relevant and well-developed segmentation methods applied to the piano business to support growth."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Proposes one or two segmentation methods with limited application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies segmentation in basic terms."
+                }
+              ],
+              "exemplar": "Market segmentation divides the total market into smaller groups with shared characteristics, allowing the business to target each more effectively. Firstly, the piano business could apply demographic segmentation by targeting different age groups and income levels. For example, it could offer a 'Little Maestros' program priced for primary-school children of middle-income families, alongside a premium adult-learner program for higher-income professionals seeking a creative outlet. Tailored pricing, promotion and lesson formats would maximise relevance to each segment.\n\nSecondly, the business could use psychographic segmentation, targeting customers by lifestyle and aspirations. Marketing could appeal to ambitious students preparing for AMEB exams or competitions through a 'serious pianist' track, while a separate 'hobby and wellbeing' track could attract adults using piano for stress relief. Segmenting by psychographics enables differentiated promotion across states, fuelling the business's national growth."
+            },
+            {
+              "id": "mkt-strat-2024-q4",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A retailer sells a new style of sunglasses at a significantly higher price for the first month they are sold. What pricing strategy is being used by the retailer?",
+              "options": [
+                "Price skimming",
+                "Price penetration",
+                "Price discrimination",
+                "Price and quality interaction"
+              ],
+              "correct": "A",
+              "explanation": "Price skimming sets a high initial price on a new product to maximise revenue from early adopters before lowering it. Penetration uses a low price to gain market share, discrimination charges different prices to different segments, and price/quality interaction links price to perceived quality."
+            },
+            {
               "id": "mkt-strategies-2025-q14",
               "year": 2025,
               "type": "mcq",
@@ -563,6 +880,60 @@
           "name": "Influences on financial management",
           "questions": [
             {
+              "id": "fin-infl-2024-q15",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which organisation functions as the market operator for companies wanting to raise public finance?",
+              "options": [
+                "Australian Taxation Office",
+                "Australian Securities Exchange",
+                "Australian Prudential Regulation Authority",
+                "Australian Securities and Investment Commission"
+              ],
+              "correct": "B",
+              "explanation": "The Australian Securities Exchange (ASX) is the primary market operator where companies list and raise public equity finance. The ATO administers tax, APRA prudentially regulates financial institutions, and ASIC regulates corporate conduct."
+            },
+            {
+              "id": "fin-infl-2024-q19",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A private company wants to expand its operations. To raise funds, it intends to become a public listed company. What name is given to this form of equity finance?",
+              "options": [
+                "Private equity",
+                "Commercial bill",
+                "New issue of shares",
+                "Share purchase plan"
+              ],
+              "correct": "C",
+              "explanation": "When a private company lists on the ASX for the first time, it raises capital through a new issue of shares (initial public offering). Private equity is funding from private investors, commercial bills are short-term debt, and share purchase plans are issued to existing shareholders."
+            },
+            {
+              "id": "fin-infl-2024-q24aii",
+              "year": 2024,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain the influence of ONE financial institution on the financial management of this business.",
+              "stimulus": "Balance sheet extract:\nAssets: Cash at bank $5 000; Accounts receivable $20 000; Inventory $5 000; Office equipment $70 000; Motor vehicles $80 000.\nLiabilities: Overdraft $9 000; Accounts payable $11 000; Long-term loan $90 000.\nOwners' equity: Capital $55 000; Retained profits $15 000.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a thorough explanation of how one specific financial institution influences this business's financial management, with reference to the balance sheet data."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation of the institution's influence on financial management."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Demonstrates limited understanding of financial institutions or their influence."
+                }
+              ],
+              "exemplar": "Banks are the most influential financial institution for this business. The balance sheet shows the business has a $90 000 long-term loan and a $9 000 overdraft, indicating high reliance on bank-sourced debt finance. With total liabilities of $110 000 and owners' equity of just $70 000, the business is highly geared, meaning banks have considerable influence over its financial management.\n\nFirstly, banks set the interest rate and loan covenants on the long-term loan, which directly affect cash outflows and profitability. If the Reserve Bank lifts the cash rate, the business's repayments would rise, squeezing liquidity. Secondly, banks assess the business's current ratio of 1.5:1 and gearing when deciding whether to extend additional finance. Given the high debt level, banks may refuse further lending or demand higher interest rates and security, restricting the business's ability to fund growth strategies and invest in new assets."
+            },
+            {
               "id": "fin-influences-2025-q23c",
               "year": 2025,
               "type": "short",
@@ -592,6 +963,75 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2024-q10",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business has the following financial information.\nSales $800 000\nCost of goods sold $200 000\nGross profit $600 000\nNet profit $250 000\nExpense ratio = total expenses ÷ sales\nWhat is the expense ratio for this business?",
+              "options": [
+                "25%",
+                "31%",
+                "35%",
+                "44%"
+              ],
+              "correct": "D",
+              "explanation": "Total expenses = Gross profit − Net profit = $600 000 − $250 000 = $350 000. Expense ratio = $350 000 ÷ $800 000 = 43.75%, rounded to 44%."
+            },
+            {
+              "id": "fin-proc-2024-q14",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The table shows the cash flow information for a business.\nJul: Opening balance $40 000, Cash in $30 000, Cash out $20 000\nAug: Cash in $10 000, Cash out $13 000\nSep: Cash in $22 000, Cash out $15 000\nWhat is the closing cash balance for September?",
+              "options": [
+                "$7000",
+                "$47 000",
+                "$54 000",
+                "$150 000"
+              ],
+              "correct": "C",
+              "explanation": "July closing: 40 000 + 30 000 − 20 000 = $50 000. August closing: 50 000 + 10 000 − 13 000 = $47 000. September closing: 47 000 + 22 000 − 15 000 = $54 000."
+            },
+            {
+              "id": "fin-proc-2024-q17",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business owner is selling their business. If the business owner is unethical, what may they be motivated to do?",
+              "options": [
+                "Undervalue assets and undervalue liabilities",
+                "Overvalue assets and overvalue liabilities",
+                "Understate income and overstate expenses",
+                "Overstate income and understate expenses"
+              ],
+              "correct": "D",
+              "explanation": "An unethical seller would inflate income and reduce reported expenses to make the business appear more profitable and increase its sale price. The other combinations would reduce the apparent value of the business."
+            },
+            {
+              "id": "fin-proc-2024-q24ai",
+              "year": 2024,
+              "type": "short",
+              "marks": 2,
+              "prompt": "The following is an extract from a business balance sheet.\nAssets: Cash at bank $5 000; Accounts receivable $20 000; Inventory $5 000; Office equipment $70 000; Motor vehicles $80 000.\nLiabilities: Overdraft $9 000; Accounts payable $11 000; Long-term loan $90 000.\nOwners' equity: Capital $55 000; Retained profits $15 000.\nCalculate the current ratio for this business. Show all working. (Current ratio = current assets ÷ current liabilities)",
+              "stimulus": "Balance sheet extract:\nAssets: Cash at bank $5 000; Accounts receivable $20 000; Inventory $5 000; Office equipment $70 000; Motor vehicles $80 000.\nLiabilities: Overdraft $9 000; Accounts payable $11 000; Long-term loan $90 000.\nOwners' equity: Capital $55 000; Retained profits $15 000.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly identifies current assets and current liabilities, shows working and arrives at the correct current ratio of 1.5:1."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides correct working with a minor calculation error."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides some correct identification of current assets or liabilities."
+                }
+              ],
+              "exemplar": "Current assets = Cash at bank + Accounts receivable + Inventory\n= $5 000 + $20 000 + $5 000 = $30 000\n\nCurrent liabilities = Overdraft + Accounts payable\n= $9 000 + $11 000 = $20 000\n\nCurrent ratio = Current assets ÷ Current liabilities\n= $30 000 ÷ $20 000 = 1.5\n= 1.5 : 1"
+            },
             {
               "id": "fin-process-2025-q16",
               "year": 2025,
@@ -707,6 +1147,52 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2024-q24b",
+              "year": 2024,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain how offering discounts for early payment may improve a business's cash flow and reduce working capital.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains clearly how early payment discounts affect both cash flow and working capital, including the trade-offs involved."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates sound understanding of how discounts affect cash flow or working capital."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about discounts or working capital."
+                }
+              ],
+              "exemplar": "Offering discounts for early payment is a cash flow management strategy designed to encourage debtors to pay before the standard credit term, typically 30 days, in exchange for a small reduction in the amount owed. This converts accounts receivable into cash faster, improving short-term cash inflows and giving the business immediate funds to meet operating expenses, supplier payments and unexpected costs.\n\nWhile cash flow improves, the discount reduces total revenue received. This decreases current assets (cash and receivables combined fall by the discount amount), which in turn reduces working capital — the difference between current assets and current liabilities. Therefore, the business gains liquidity and reduces the risk of bad debts but sacrifices some profitability and the size of its working capital. The strategy is most effective when the cost of the discount is less than the cost of alternative finance, such as bank overdraft interest."
+            },
+            {
+              "id": "fin-strat-2024-q26",
+              "year": 2024,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "How can financial strategies affect the objectives of financial management?",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Demonstrates comprehensive understanding of how financial strategies affect financial management objectives, integrates relevant case studies and contemporary issues, and presents a sustained, logical response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Demonstrates sound understanding of how financial strategies affect objectives, with reference to case studies and contemporary issues."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Describes some aspects of financial strategies or objectives with limited reference to case studies."
+                }
+              ],
+              "exemplar": "Financial management involves planning, monitoring and controlling a business's financial resources to achieve its strategic objectives of profitability, growth, efficiency, liquidity and solvency, in both the short and long term. Financial strategies — including cash flow management, working capital management, profitability management and global financial management — are the tools managers use to pursue these objectives. The relationship between strategies and objectives is interdependent, as strategies designed to improve one objective often involve trade-offs against another. This response examines how each major financial strategy affects these objectives, drawing on case studies including Qantas and Apple.\n\nCash flow management strategies directly affect liquidity and, indirectly, profitability. A cash flow statement allows managers to forecast inflows and outflows and identify potential shortfalls. The distribution of payments strategy spreads cash outflows evenly across the period to avoid liquidity crises, while discounts for early payment accelerate receivables collection, boosting cash on hand. Factoring sells receivables to a third party for immediate cash, again improving liquidity but at the cost of profitability because the business receives less than the full invoice value. Qantas, during the COVID-19 pandemic, used aggressive cash flow strategies including deferring payments, drawing on credit lines and raising $1.9 billion in equity to maintain liquidity when revenue collapsed. While this protected solvency, it temporarily harmed profitability and growth. This illustrates how cash flow strategies prioritise short-term liquidity, sometimes at the expense of profit and long-term growth.\n\nWorking capital management strategies control current assets and current liabilities to optimise both liquidity and efficiency. Controlling current assets involves managing cash (avoiding idle balances), receivables (tightening credit terms) and inventories (using JIT systems). Controlling current liabilities involves negotiating extended payment terms with suppliers and using overdrafts strategically. Strategies such as leasing free up working capital because the business pays periodically rather than purchasing assets outright, while sale and lease back releases capital tied up in fixed assets. Apple is renowned for negative working capital — collecting payment from customers before paying suppliers — which has supported its profitability and funded growth without external debt. However, overly tight working capital management can compromise liquidity if unexpected costs arise, and excessive leasing increases long-term expenses, affecting profitability. Effective working capital strategy therefore balances liquidity, efficiency and profitability objectives.\n\nProfitability management strategies focus on controlling costs and revenues to maximise profit. Cost controls distinguish between fixed costs (rent, salaries) and variable costs (raw materials), use cost centres to allocate expenses to responsible managers, and pursue expense minimisation. Revenue controls align marketing objectives, pricing and sales mix with profitability targets. Aldi exemplifies cost-control strategies through its limited product range, low staffing model and minimal store fit-outs, enabling it to undercut competitors while maintaining strong profit margins and steadily growing its market share in Australia. Conversely, excessive cost cutting may damage product quality, customer satisfaction and long-term growth, demonstrating that profitability strategies must be balanced against growth and brand equity objectives.\n\nGlobal financial management strategies are crucial for businesses operating internationally, addressing exchange rates, interest rates and methods of international payment. Exchange rate fluctuations directly affect profitability — a falling Australian dollar increases import costs but boosts export revenue. Hedging through forward exchange contracts locks in exchange rates, protecting profitability and improving the predictability of cash flow. Derivatives such as options provide similar protection with flexibility. Methods of international payment including payment in advance, letter of credit, clean payment and bill of exchange differ in risk and impact on liquidity. Payment in advance maximises cash flow but may deter customers, while clean payment is customer-friendly but increases risk of bad debts. BHP uses extensive hedging and derivative strategies to manage commodity price and currency volatility, stabilising profitability and protecting shareholder returns. Without such strategies, global firms would face severe earnings volatility, threatening both profitability and solvency.\n\nA contemporary issue shaping all these strategies is the high interest rate environment of 2023–2024, with the RBA cash rate at 4.35%. Higher borrowing costs make working capital strategies such as leasing and overdrafts more expensive, eroding profitability. Many Australian businesses have responded with stricter cash flow management — chasing receivables faster and tightening inventory — to maintain liquidity and solvency. This demonstrates how the macroeconomic environment forces businesses to recalibrate the trade-offs between objectives.\n\nAnother contemporary issue is ethical financial management. Strategies must comply with accounting standards and avoid practices such as understating expenses or overstating revenue, which artificially boost profitability but damage long-term solvency and reputation, as seen in collapses such as Dick Smith Electronics. Ethical financial reporting builds investor confidence, supporting long-term growth.\n\nIn conclusion, financial strategies are the operational levers through which financial management objectives are achieved. Cash flow strategies primarily target liquidity, working capital management balances liquidity and efficiency, profitability management drives profit and supports growth, and global financial management protects profitability and solvency from international risks. However, the objectives are interdependent and often in tension: improving liquidity through factoring reduces profitability; cutting costs may impede growth; aggressive expansion threatens solvency. Effective financial managers, like those at Qantas, Apple, Aldi and BHP, integrate multiple strategies, monitor performance through financial ratios, and adapt to contemporary influences such as interest rates and ethical expectations to achieve a balanced pursuit of short- and long-term financial objectives."
+            },
+            {
               "id": "fin-strategies-2025-q27",
               "year": 2025,
               "type": "extended",
@@ -746,6 +1232,84 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2024-q1",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Who is most likely to represent employees for an increase in wages?",
+              "options": [
+                "A trade union",
+                "Fair Work Australia",
+                "An employer association",
+                "Federal Court of Australia"
+              ],
+              "correct": "A",
+              "explanation": "Trade unions are organisations formed to represent and protect the interests of employees, including negotiating for higher wages. Fair Work Australia is a regulatory body, employer associations represent employers, and the Federal Court resolves disputes."
+            },
+            {
+              "id": "hr-infl-2024-q12",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A global business is considering replacing its operations manager for its European division. What type of employment offer would suit this position?",
+              "options": [
+                "Casual contract",
+                "Individual contract",
+                "Collective agreement",
+                "Greenfields agreement"
+              ],
+              "correct": "B",
+              "explanation": "Senior management positions like an operations manager are typically engaged on individual contracts that negotiate specific terms. Casual contracts suit irregular work, collective agreements cover groups of workers, and greenfields agreements apply to new enterprises before staff are hired."
+            },
+            {
+              "id": "hr-infl-2024-q22a",
+              "year": 2024,
+              "type": "short",
+              "marks": 2,
+              "prompt": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions. Outline the relationship between ONE stakeholder and the human resources function of this business.",
+              "stimulus": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Outlines the relationship clearly between one specific stakeholder and the HR function, applied to the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a stakeholder and provides limited information about their relationship with HR."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides some relevant but basic information."
+                }
+              ],
+              "exemplar": "Employees are a key stakeholder of the HR function in this business. They have a vested interest in fair wages, job security and a positive work environment. Because the business consults employees in setting objectives and offers flexible working conditions, HR builds a participative relationship that increases engagement, retains skilled workers and aligns employee interests with business goals."
+            },
+            {
+              "id": "hr-infl-2024-q22b",
+              "year": 2024,
+              "type": "short",
+              "marks": 3,
+              "prompt": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions. Explain how this business exhibits corporate social responsibility in the management of employees.",
+              "stimulus": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains how the business demonstrates CSR through employee management practices, referring to the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows some understanding of CSR linked to employee management."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about CSR or employee management."
+                }
+              ],
+              "exemplar": "Corporate social responsibility (CSR) goes beyond legal compliance to ethically consider the impact of business decisions on stakeholders. This business exhibits CSR by genuinely valuing its employees rather than treating them as a cost to minimise. By consulting employees when setting objectives and giving them influence over strategy, the business empowers staff and demonstrates respect for their expertise.\n\nOffering flexible working conditions further enhances work–life balance, supporting employee wellbeing and equity for workers with caring responsibilities. These practices build trust, boost morale and reduce turnover, while also signalling to the wider community that the business behaves ethically — strengthening its reputation as a socially responsible employer."
+            },
             {
               "id": "hr-influences-2025-q10",
               "year": 2025,
@@ -865,12 +1429,91 @@
         {
           "id": "hr-processes",
           "name": "Processes of human resource management",
-          "questions": []
+          "questions": [
+            {
+              "id": "hr-proc-2024-q22c",
+              "year": 2024,
+              "type": "short",
+              "marks": 5,
+              "prompt": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions. Justify the importance of maintenance in human resource management for this business.",
+              "stimulus": "A business has highly skilled employees who are valued for their input in the decision-making process. Employees are consulted in setting objectives and have an influence on strategies adopted, including flexible working conditions.",
+              "suggested_words": 180,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a thorough justification of the importance of maintenance in HRM with clear application to the scenario, using business terminology effectively."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation of the importance of maintenance for this business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Demonstrates limited understanding of maintenance in HRM."
+                }
+              ],
+              "exemplar": "Maintenance in human resource management involves the systems and practices that retain skilled employees, including remuneration, workplace safety, communication and employee benefits. For this business, which depends on highly skilled employees who contribute to decision-making, maintenance is essential to long-term success.\n\nEffective maintenance through competitive monetary rewards (such as performance-based pay) and non-monetary rewards (such as the existing flexible working conditions) attracts and retains talent. This is especially important when skilled labour is scarce and competitors actively seek experienced workers. Retention reduces recruitment, induction and training costs, which can be substantial when replacing knowledge workers.\n\nMaintenance also encompasses workplace safety obligations under WHS legislation, ensuring legal compliance and protecting the business from costly litigation. Strong communication channels, supported by consultation in objective-setting, sustain a positive culture and increase psychological safety, motivation and productivity.\n\nUltimately, maintenance underpins the human capital that drives competitive advantage. Without it, the business would lose its skilled workforce to competitors, weakening innovation and performance. Therefore, maintenance is not merely an operational HR task but a strategic priority that secures the business's future viability."
+            },
+            {
+              "id": "hr-proc-2024-q3",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "At which stage of the human resource process would a performance appraisal of an employee be conducted?",
+              "options": [
+                "Acquisition",
+                "Development",
+                "Induction",
+                "Separation"
+              ],
+              "correct": "B",
+              "explanation": "Performance appraisals occur during the development phase, where employees are evaluated and trained to improve performance. Acquisition is hiring, induction is orienting new staff, and separation is exit from the business."
+            },
+            {
+              "id": "hr-proc-2024-q8",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee has engaged in misconduct and has been told to leave the organisation. Which of the following terms describes this employee's separation from the organisation?",
+              "options": [
+                "Attrition",
+                "Dismissal",
+                "Redundancy",
+                "Retrenchment"
+              ],
+              "correct": "B",
+              "explanation": "Dismissal is an involuntary separation initiated by the employer due to employee misconduct or poor performance. Attrition is natural turnover, while redundancy and retrenchment occur when the role is no longer needed."
+            }
+          ]
         },
         {
           "id": "hr-strategies",
           "name": "Strategies in human resource management",
           "questions": [
+            {
+              "id": "hr-strat-2024-q25",
+              "year": 2024,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Hans-Made Watches is a business that designs and hand-makes European-style watches with a lifetime warranty. Features of the business include: family run business, selling watches to the local community, autocratic leadership style. The business has seen a decrease in sales and market share. The owner is retiring soon and his children are hoping to improve the performance of the business. An expression of interest for an assistant manager role has been distributed to the business's family and friends only — work in the shop and manage day-to-day business needs, hours 8am to 6pm Monday to Saturday, award wages, free parking onsite, use of coffee machine, reports to the owner, no experience necessary.\n\nYou have been hired as a consultant by the owner to write a business report. In your report:\n• describe the product differentiation strategy for this business\n• discuss the current acquisition process for this business\n• recommend appropriate human resource strategies for this business.",
+              "stimulus": "Hans-Made Watches is a business that designs and hand-makes European-style watches with a lifetime warranty.\n\nFeatures of the business include:\n• family run business\n• selling watches to the local community\n• autocratic leadership style.\n\nThe business has seen a decrease in sales and market share. The owner is retiring soon and his children are hoping to improve the performance of the business.\n\nExpression of interest: Assistant Manager (distributed to family and friends only)\n• Work in the shop and manage day-to-day business needs\n• Hours of work 8 am to 6 pm Monday to Saturday\n• Award wages offered\n• Free parking onsite\n• Use of coffee machine\n• Reports to the owner\n• No experience necessary",
+              "suggested_words": 850,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensively describes the product differentiation strategy, discusses the acquisition process and recommends appropriate HR strategies, with extensive application of the stimulus, sustained logical structure as a business report, and integrated business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes product differentiation, the acquisition process and HR strategies with some application of the stimulus and partial report structure."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes limited reference to marketing or HR with basic business terminology."
+                }
+              ],
+              "exemplar": "TO: The Owner, Hans-Made Watches\nFROM: Business Consultant\nDATE: 17 November 2024\nSUBJECT: Strategies to improve performance during ownership transition\n\n1.0 Introduction\nHans-Made Watches is a family-run watchmaker producing hand-crafted European-style watches with a lifetime warranty for the local community. Sales and market share have declined, and the owner is approaching retirement. This report describes the current product differentiation strategy, discusses weaknesses in the acquisition process for the assistant manager role, and recommends human resource strategies the next generation can implement to revitalise the business.\n\n2.0 Product differentiation strategy\nProduct differentiation involves distinguishing a product from competitors so customers perceive it as unique. Hans-Made Watches differentiates through craftsmanship, heritage and quality assurance. Each watch is hand-made in a European style, signalling artisanal value compared to mass-produced competitors such as Apple Watch or Casio. The lifetime warranty reinforces a quality-and-price interaction, justifying premium pricing and conveying long-term reliability — similar to Rolex's positioning. The 'Established 1976' branding builds brand identity and credibility. However, the differentiation is undermined by selling only to the local community, limiting reach, and by the lack of investment in promotion, packaging or distribution channels. To restore market share, the children should strengthen branding through a refreshed logo, premium packaging, an online store and storytelling content showcasing the watchmaking process — extending differentiation beyond the local market.\n\n3.0 Discussion of the current acquisition process\nThe acquisition process identifies staffing needs, then recruits and selects suitable candidates. Hans-Made Watches' current process has several significant weaknesses.\n\nFirstly, the job has not been properly designed. The role lacks clear specifications: 'manage day-to-day business needs' is vague, and 'no experience necessary' contradicts the requirement to manage a specialised watchmaking business. There is no skills audit linking the role to the strategic challenge of declining sales.\n\nSecondly, recruitment is restricted to family and friends, which is purely internal and personal. While inexpensive and fast, this approach severely limits the talent pool, excludes diverse perspectives and risks nepotism. It is unlikely to attract experienced retail or watchmaking talent capable of reversing the sales decline.\n\nThirdly, the offer is unattractive for a managerial role. Award wages (the legal minimum) rather than over-award pay signal little investment in the position. Non-monetary benefits — free parking and a coffee machine — are trivial for a manager. Long hours (10 hours a day, six days a week) suggest poor work–life balance, breaching contemporary expectations.\n\nFinally, the selection criteria and process are not described, suggesting an informal, possibly biased decision aligned with the autocratic leadership style. Combined, these weaknesses make it unlikely the business will acquire the skilled manager it needs.\n\n4.0 Recommended human resource strategies\n4.1 Leadership style\nThe children should shift from an autocratic style to a participative or consultative style. Engaging employees in decisions will lift morale, encourage innovation in design and marketing, and ease the leadership transition. This approach has been used effectively by businesses such as Atlassian to retain skilled staff.\n\n4.2 Job design and recruitment\nRedesign the assistant manager role with specific tasks (retail management, marketing coordination, supplier liaison) and the skills required (retail experience, digital marketing literacy, customer service excellence). Recruitment should be external as well as internal, using platforms such as SEEK and LinkedIn, broadening the talent pool beyond family and friends. A structured selection process — application, interview, reference checks — will reduce bias.\n\n4.3 Training and development\nInvest in current and future skills. Existing staff should receive training in digital sales, e-commerce platforms and contemporary watchmaking techniques. The new assistant manager should undertake a mentoring program with the retiring owner to capture decades of tacit knowledge before he leaves, ensuring continuity of craftsmanship.\n\n4.4 Rewards\nMove beyond award wages by offering over-award monetary rewards such as performance pay linked to sales targets, plus non-monetary rewards such as flexible hours, professional development funding and employee discounts. This will attract higher-calibre candidates and improve retention.\n\n4.5 Maintenance\nUpdate workplace conditions to ensure WHS compliance and reduce the long six-day week, supporting wellbeing and demonstrating corporate social responsibility.\n\n5.0 Conclusion\nHans-Made Watches has a genuinely differentiated product but is undermining its value through a weak acquisition process and outdated HR practices. By describing differentiation through craftsmanship and warranty, addressing the limited recruitment pool and unattractive job offer, and implementing modern HR strategies — participative leadership, structured recruitment, training, competitive rewards and improved maintenance — the next generation can reverse the decline in sales and market share and secure the business's long-term future."
+            },
             {
               "id": "hr-strategies-2025-q11",
               "year": 2025,
@@ -892,6 +1535,21 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2024-q5",
+              "year": 2024,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which row of the table shows the results of effective human resource management?\n\nA. Workplace accidents: Increase, Absenteeism: Decrease\nB. Workplace accidents: Increase, Absenteeism: Increase\nC. Workplace accidents: Decrease, Absenteeism: Decrease\nD. Workplace accidents: Decrease, Absenteeism: Increase",
+              "options": [
+                "Workplace accidents Increase, Absenteeism Decrease",
+                "Workplace accidents Increase, Absenteeism Increase",
+                "Workplace accidents Decrease, Absenteeism Decrease",
+                "Workplace accidents Decrease, Absenteeism Increase"
+              ],
+              "correct": "C",
+              "explanation": "Effective HRM results in both fewer workplace accidents (safer practices) and reduced absenteeism (engaged, satisfied employees). All other combinations include at least one negative indicator."
+            },
             {
               "id": "hr-effectiveness-2025-q15",
               "year": 2025,
