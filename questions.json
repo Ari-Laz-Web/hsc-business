@@ -25,6 +25,36 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2023-q15",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A large construction company has decided to focus their operations on design and innovation. Which of the following best describes this operations management strategy?",
+              "options": [
+                "Outsourcing",
+                "Cost leadership",
+                "Supply chain development",
+                "Goods/services differentiation"
+              ],
+              "correct": "D",
+              "explanation": "Differentiation involves distinguishing goods/services through unique features such as design and innovation, allowing premium pricing. Outsourcing shifts functions externally. Cost leadership pursues lowest cost. Supply chain development relates to logistics integration."
+            },
+            {
+              "id": "ops-role-2023-q9",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The training of staff in the manufacturing process is an example of interdependence between which of the following business functions?",
+              "options": [
+                "Finance and marketing",
+                "Marketing and operations",
+                "Finance and human resources",
+                "Operations and human resources"
+              ],
+              "correct": "D",
+              "explanation": "Training relates to human resources (developing staff capability) while the manufacturing process belongs to operations — so this shows the interdependence between these two functions. The other combinations don't match training in manufacturing."
+            },
+            {
               "id": "ops-role-2024-q21a",
               "year": 2024,
               "type": "short",
@@ -132,6 +162,29 @@
               "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
             },
             {
+              "id": "ops-infl-2023-q27",
+              "year": 2023,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "To what extent do influences on operations affect business success?",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Detailed and informed judgement on the extent influences on operations affect business success, with sustained case study application, contemporary issues, and sophisticated use of business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Clear judgement with relevant case studies and terminology, structured logically."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to operations influences with basic terminology and minimal case study use."
+                }
+              ],
+              "exemplar": "Influences on operations affect business success to a very great extent. Globalisation, technology, quality expectations, cost-based competition, government policies, legal regulation, environmental sustainability and corporate social responsibility (CSR) all reshape how businesses produce goods and services. Through case studies of Qantas, Apple, Toyota and Patagonia, this essay argues that operational responsiveness to these influences is fundamental to long-term success — while acknowledging that marketing, finance and HR also play complementary roles.\n\nGlobalisation profoundly affects operations by expanding both opportunities and competitive pressures. Apple's globally integrated supply chain — designing in California, sourcing rare earth minerals from Africa, assembling in China and Vietnam through Foxconn, and selling worldwide — demonstrates how globalisation enables economies of scale and access to specialised labour. This operational sophistication underpins Apple's US$3 trillion valuation. However, globalisation also exposed Apple to severe supply chain disruptions during COVID-19 and US-China trade tensions, forcing diversification of production to India and Vietnam. Hence, globalisation drives success when managed strategically but creates vulnerability when poorly diversified.\n\nTechnology is arguably the most transformative operational influence. Automation, robotics, artificial intelligence and the Internet of Things (IoT) have revolutionised production. Amazon's fulfilment centres use Kiva robots and AI-driven inventory systems to process millions of orders daily — operational technology that underpins its global retail dominance. Conversely, businesses slow to adopt technology often fail: Blockbuster's refusal to embrace digital streaming allowed Netflix to disrupt the entire industry, leading to Blockbuster's 2010 bankruptcy. Therefore, technology adoption is increasingly a prerequisite for survival, not merely an advantage.\n\nQuality expectations have risen sharply as consumers demand reliability, durability and excellence. Toyota's renowned Total Quality Management (TQM) system and Toyota Production System (TPS) — featuring kaizen (continuous improvement) and jidoka (built-in quality) — have made Toyota the world's most profitable car manufacturer. In contrast, quality failures can devastate businesses: Boeing's 737 MAX crashes (2018-19), linked to operational shortcuts in software design, resulted in over US$20 billion in losses and severe reputational damage. Quality, therefore, has a direct and measurable effect on business success.\n\nCost-based competition pressures businesses to minimise operating costs while maintaining quality. Aldi's lean operations model — featuring limited SKUs, private-label dominance, no-frills store design and efficient supply chains — has driven its growth to over 10% market share in Australia. Conversely, Toys 'R' Us failed to compete with cost-efficient online retailers like Amazon, leading to its 2018 collapse. Cost-based competition is particularly intense in commoditised industries where margins are thin, making operational efficiency essential for survival.\n\nGovernment policies — including taxation, industrial policy, tariffs and subsidies — significantly shape operations. The Australian Government's instant asset write-off and R&D tax incentives have encouraged operational investment by businesses such as CSL and Cochlear, fuelling innovation and global competitiveness. Conversely, the carbon pricing mechanism (2012-14) increased operational costs for energy-intensive industries, demonstrating how government policy can rapidly change the operational landscape.\n\nLegal regulation, including workplace health and safety, environmental laws, and product safety standards, imposes operational requirements that affect both costs and reputation. BHP's Samarco dam disaster in Brazil (2015), which killed 19 people, resulted in over US$7 billion in legal costs and a major operational overhaul. Compliance with regulations such as the Work Health and Safety Act 2011 is essential not just legally but to maintain operational continuity and stakeholder trust.\n\nEnvironmental sustainability has become a critical operational influence as climate change reshapes consumer expectations, investor demands and government policy. Patagonia's commitment to sustainable operations — using recycled materials, repairing rather than replacing products, and donating 1% of revenue to environmental causes — has built fierce customer loyalty and consistent revenue growth. In contrast, businesses with poor environmental records, such as ExxonMobil, face mounting divestment pressure and regulatory penalties. Sustainable operations are no longer optional; they are increasingly central to long-term viability.\n\nCorporate Social Responsibility (CSR), distinguished from mere legal compliance, involves businesses exceeding legal requirements to deliver social and environmental value. Qantas's 'Fly Carbon Neutral' program and investment in sustainable aviation fuel exemplify ethical CSR that enhances brand and stakeholder relationships. However, Qantas also illustrates the cost of failing CSR — its 2020 illegal outsourcing of 1700 ground staff, ruled unlawful by the High Court, has cost an estimated $200 million in compensation plus severe reputational damage. CSR therefore strongly influences operational legitimacy and success.\n\nThe difference between legal compliance and ethical responsibility is critical. Volkswagen's 'Dieselgate' (2015) revealed how operations that exceeded legal emissions limits — while concealing this via cheat software — destroyed shareholder value and consumer trust. Ethical operations build sustainable success; unethical operations carry severe long-term consequences.\n\nHowever, the extent of operational influence is moderated by industry context and management quality. In service industries with limited physical production (e.g., software firms), operations influences such as supply chain may matter less than HR or marketing. Additionally, exceptional operations cannot rescue a fundamentally flawed product or business model — Google+ had robust technical operations but failed against Facebook due to weak user appeal.\n\nIn conclusion, influences on operations affect business success to a very great extent. Globalisation, technology, quality, cost competition, government policy, legal regulation, environmental sustainability and CSR collectively determine whether businesses can produce efficiently, ethically and competitively. Toyota's quality, Apple's globalised supply chains, Aldi's cost efficiency, Patagonia's sustainability, and the cautionary tales of Boeing, Blockbuster and Volkswagen all confirm that operations-savvy businesses thrive while operations-blind businesses fail. While operations is not the sole determinant of success, it is foundational — without effective operations responsive to these influences, no business can sustain long-term success."
+            },
+            {
               "id": "ops-infl-2024-q2",
               "year": 2024,
               "type": "mcq",
@@ -215,6 +268,36 @@
           "id": "ops-processes",
           "name": "Operations processes",
           "questions": [
+            {
+              "id": "ops-proc-2023-q17",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A critical path analysis is shown for a job with the following tasks and durations: AB (6 days), BE (5 days), BF (3 days), BC (7 days), EC (3 days), FC (3 days), CD (6 days). Which tasks could be occurring at the same time?",
+              "options": [
+                "AB, BC and CD",
+                "AB, BF and FC",
+                "BE, BF and BC",
+                "BE, BF and EC"
+              ],
+              "correct": "C",
+              "explanation": "After task AB is complete at node B, tasks BE, BF and BC can all begin simultaneously as they share the same starting node. The other combinations involve tasks that must follow each other sequentially."
+            },
+            {
+              "id": "ops-proc-2023-q18",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Task EC is delayed and takes an additional 7 days. By how many days will the length of the critical path change?",
+              "options": [
+                "0 days",
+                "2 days",
+                "4 days",
+                "6 days"
+              ],
+              "correct": "B",
+              "explanation": "Original critical path is A→B→C→D = 6+7+6 = 19 days. With EC delayed to 3+7=10 days, the path A→B→E→C→D becomes 6+5+10+6 = 27 days, but the question compares to the previous critical path. The change reflects the new longest path. The path through BE-EC becomes longer than BC by 2 days, shifting the critical path by 2 days."
+            },
             {
               "id": "ops-proc-2024-q18",
               "year": 2024,
@@ -306,6 +389,78 @@
                 }
               ],
               "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            },
+            {
+              "id": "ops-strat-2023-q21a",
+              "year": 2023,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline ONE potential issue this business could face in relation to both cost and quality of outputs.",
+              "stimulus": "An Australian tyre manufacturer is expanding its business. In order to reduce operating costs and increase sales and profit, rubber will be sourced from the global market. The business wants to maintain quality outputs and achieve economies of scale.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines a relevant issue that addresses both cost and quality dimensions with reference to the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies an issue with some link to either cost or quality, but lacks integration of both aspects."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides minimal or fragmented information about cost or quality of outputs."
+                }
+              ],
+              "exemplar": "By sourcing rubber globally, the tyre manufacturer can reduce input costs significantly, but cheaper suppliers in emerging markets may use lower-grade materials, leading to inferior tyre durability and safety. This trade-off means cost reductions could compromise product quality, damaging brand reputation and consumer trust in the long term."
+            },
+            {
+              "id": "ops-strat-2023-q21b",
+              "year": 2023,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain the benefits of achieving economies of scale for both the business and consumers.",
+              "stimulus": "An Australian tyre manufacturer is expanding its business. In order to reduce operating costs and increase sales and profit, rubber will be sourced from the global market. The business wants to maintain quality outputs and achieve economies of scale.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear explanation of how economies of scale benefit both the business (lower unit cost, higher profit margin) and consumers (lower prices, better value)."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes benefits to either the business or consumers, with some link to economies of scale."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides some basic information about economies of scale or cost reduction."
+                }
+              ],
+              "exemplar": "Economies of scale occur when a business reduces its per-unit cost of production as output volume increases, spreading fixed costs over more units. For the tyre manufacturer, this means lower production costs per tyre, allowing it to either increase profit margins or pass savings on through more competitive pricing. Consumers benefit through reduced retail prices and potentially higher product accessibility. In the long term, this drives increased sales volume, customer loyalty and a stronger market position against competitors such as Bridgestone and Michelin."
+            },
+            {
+              "id": "ops-strat-2023-q21c",
+              "year": 2023,
+              "type": "short",
+              "marks": 5,
+              "prompt": "The owners of the tyre manufacturing business have purchased leading-edge technology to help achieve economies of scale. Explain why both staff and management might be resistant to this change.",
+              "stimulus": "An Australian tyre manufacturer is expanding its business. In order to reduce operating costs and increase sales and profit, rubber will be sourced from the global market. The business wants to maintain quality outputs and achieve economies of scale.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Thoroughly explains multiple reasons for resistance from both staff and management, applying the scenario meaningfully."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation with some reasons for resistance from staff and/or management."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies basic reasons for resistance with limited explanation or scenario application."
+                }
+              ],
+              "exemplar": "Resistance to change is a common organisational challenge that can affect both staff and management when leading-edge technology is introduced. For management at the tyre manufacturer, the significant financial outlay required to purchase and install advanced technology represents a major concern, as the return on investment is uncertain and may take years to materialise. Management may also fear disruption to existing production schedules during the transition period, threatening short-term profitability.\n\nFor staff, fear of redundancy is a primary driver of resistance, as automated machinery may replace manual roles in tyre assembly and quality inspection. Employees may also feel inertia — a comfort with established work practices — making them reluctant to adopt new systems. Additionally, retraining requirements impose stress, as workers must learn complex operating procedures, potentially leading to feelings of inadequacy or job insecurity for less technologically literate employees.\n\nFurther, the cost of retraining staff is significant for management, who must invest in development programs while continuing production. If communication is poor, staff may feel undervalued, leading to lower morale and reduced productivity. Effective change management strategies, including consultation and clear communication, are therefore essential to overcome resistance and achieve the desired economies of scale."
             },
             {
               "id": "ops-strat-2024-q21b",
@@ -454,6 +609,21 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-strat-2023-q2",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A florist designs floral displays for weddings to suit the colour preferences of individual couples. Which of the following would be the main performance objective being targeted by this florist?",
+              "options": [
+                "Customisation",
+                "Flexibility",
+                "Quality",
+                "Speed"
+              ],
+              "correct": "A",
+              "explanation": "Customisation involves tailoring products to meet individual customer needs/preferences — exactly what designing displays for individual couples represents. Flexibility relates to adapting operations to change. Quality relates to fitness for purpose. Speed relates to time taken to deliver."
+            },
+            {
               "id": "ops-perf-obj-2025-q1",
               "year": 2025,
               "type": "mcq",
@@ -525,6 +695,44 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2023-q13",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A customer returns a recently purchased 5G mobile phone to the place of purchase as the phone was faulty. Under consumer law, why must the business refund the customer the cost of the mobile phone?",
+              "options": [
+                "It is ethical to replace defective goods.",
+                "It is within the implied conditions of the contract.",
+                "It is important to meet corporate social responsibility.",
+                "It can be considered deceptive and misleading advertising."
+              ],
+              "correct": "B",
+              "explanation": "Under Australian Consumer Law, implied conditions guarantee goods are of merchantable quality and fit for purpose — a faulty phone breaches this. A and C relate to ethics, not law. D applies to advertising claims, not product defects."
+            },
+            {
+              "id": "mkt-infl-2023-q26",
+              "year": 2023,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "To what extent do influences on marketing affect business success?",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Detailed and informed judgement on the extent influences on marketing affect business success, with sustained case study application, contemporary issues, and sophisticated use of business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Clear judgement with relevant case studies and terminology, structured logically."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to marketing influences with basic terminology and minimal case study use."
+                }
+              ],
+              "exemplar": "Influences on marketing significantly affect business success, though the extent varies based on the nature of the business, its industry, and how effectively management responds to those influences. Factors influencing customer choice, consumer laws and ethical considerations all shape marketing strategy and outcomes. This essay argues that influences on marketing affect business success to a great extent, particularly when businesses fail to adapt — as shown by contrasting case studies of Apple, Qantas and Volkswagen.\n\nFactors influencing customer choice — psychological, sociocultural, economic and government — have a profound effect on business success. Psychological factors involve consumer perceptions, motivations and attitudes. Apple's marketing exemplifies this powerfully: by cultivating brand loyalty through aspirational advertising, sleek design and the 'cult of Apple', consumer perception drives premium pricing on iPhones despite intense competition. Apple's brand equity, valued at over US$500 billion, demonstrates how mastering psychological influences directly correlates with extraordinary financial success.\n\nSociocultural factors, including changing values, demographics and lifestyles, also shape marketing success. The rise in health consciousness has reshaped the fast-food industry. McDonald's responded by introducing healthier menu items, salads, and the McCafé range, allowing it to retain market share against rivals like Subway. Conversely, businesses that ignore sociocultural shifts suffer — Kodak's failure to adapt to digital photography and changing consumer behaviour led to its 2012 bankruptcy. Therefore, sociocultural influences fundamentally determine whether marketing remains relevant.\n\nEconomic factors such as inflation, unemployment and consumer confidence significantly affect customer purchasing power. During the 2020-22 COVID-19 pandemic and subsequent cost-of-living crisis, Aldi capitalised on economic pressures through its cost-leadership marketing, emphasising affordability without quality sacrifice. Its market share in Australia grew to over 10%, while premium retailers like David Jones faced declining sales. This illustrates that economic responsiveness in marketing can determine survival.\n\nGovernment influences, including taxation, subsidies and regulation, also shape marketing decisions. The introduction of tobacco plain packaging laws in Australia (2012) drastically reduced cigarette marketing options, decreasing smoking rates and forcing tobacco companies like Philip Morris to rethink global strategies. Similarly, government health campaigns and subsidies for electric vehicles have boosted Tesla's marketing positioning in Australia. Hence, government influences can both constrain and enable marketing success.\n\nConsumer laws — covering deceptive and misleading advertising, price discrimination, implied conditions and warranties — set legal boundaries that protect consumers and force marketing integrity. The Australian Consumer Law (ACL) is enforced by the ACCC, which has prosecuted high-profile cases. In 2017, Volkswagen was fined $125 million for misleading consumers about emissions in its 'Dieselgate' scandal, severely damaging its brand globally. The reputational and financial cost demonstrates that non-compliance with consumer law can devastate business success. Conversely, businesses that proactively communicate warranties and consumer rights — such as JB Hi-Fi's clear extended warranty offerings — build trust and competitive advantage.\n\nPrice discrimination, while sometimes lawful (such as student or seniors' discounts), becomes problematic when used unfairly. Coles and Woolworths have faced ACCC scrutiny over predatory pricing aimed at suppliers, demonstrating that even market leaders face consequences when crossing consumer law boundaries.\n\nEthical influences, while not legally enforceable, profoundly affect marketing success in an era of social media scrutiny. Truth and accuracy in advertising, good taste, products that may damage health, fair competition and sugging (selling under the guise of research) all impact consumer trust. Qantas has faced criticism for selling tickets on cancelled flights — an ethical failure that triggered $100 million in ACCC penalties in 2024 and significant brand damage. Conversely, Patagonia's 'Don't Buy This Jacket' campaign demonstrated ethical marketing as a competitive advantage, building deep customer loyalty among environmentally conscious consumers.\n\nProducts that may damage health, such as tobacco, alcohol and ultra-processed foods, face increasing ethical scrutiny. Marketing of sugary drinks to children has led companies like Coca-Cola to invest heavily in sugar-free variants and 'responsible marketing pledges' — a direct response to ethical pressure that has helped maintain market share.\n\nFair competition is another ethical concern. Major tech firms including Google and Meta have faced multi-billion-dollar fines from the EU and ACCC for anti-competitive marketing practices, illustrating that ethical breaches translate into measurable financial consequences.\n\nHowever, the extent to which marketing influences affect success is moderated by other business functions and external factors. A business with poor operations, weak financial management or unstable HR cannot succeed through marketing alone. Pepsi's brilliant marketing cannot save it if production fails. Furthermore, in monopoly or duopoly markets (such as Australia's airline industry pre-Virgin's resurgence), marketing influences matter less than structural advantages.\n\nIn conclusion, influences on marketing affect business success to a very great extent. Psychological, sociocultural, economic and government factors shape consumer demand; consumer laws set the legal terrain; and ethical considerations determine reputational sustainability in the digital age. Apple's mastery of psychological influences fuels its success; Volkswagen's ethical and legal failures devastated its brand; Aldi's economic responsiveness drove growth. While marketing is not the sole determinant of success, businesses that proactively monitor and adapt to marketing influences consistently outperform those that do not, making marketing influence management central to sustained business success."
+            },
             {
               "id": "mkt-infl-2024-q11",
               "year": 2024,
@@ -600,6 +808,93 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2023-q23a",
+              "year": 2023,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the current product life cycle stage of this cereal.",
+              "stimulus": "A cereal manufacturer has decided to change the packaging of its product in an attempt to reverse a drop in sales and remain competitive with existing businesses. It is also considering growing its target market by catering for health-conscious consumers in Australia and eventually expanding into the global market.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly identifies the decline stage and links to evidence from the scenario (dropping sales, repackaging)."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the correct stage with limited link to the scenario."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about a product life cycle stage."
+                }
+              ],
+              "exemplar": "The cereal is in the decline stage of the product life cycle, as evidenced by falling sales and increased competitive pressure. The manufacturer's decision to change the packaging is an extension strategy aimed at renewing consumer interest and slowing the decline before pursuing repositioning toward health-conscious consumers."
+            },
+            {
+              "id": "mkt-proc-2023-q23b",
+              "year": 2023,
+              "type": "short",
+              "marks": 3,
+              "prompt": "How could a niche market approach increase sales for this cereal manufacturer?",
+              "stimulus": "A cereal manufacturer has decided to change the packaging of its product in an attempt to reverse a drop in sales and remain competitive with existing businesses. It is also considering growing its target market by catering for health-conscious consumers in Australia and eventually expanding into the global market.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly demonstrates understanding of niche marketing and how it could increase sales by targeting health-conscious consumers."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines features of niche marketing or its impact on sales."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about niche markets or sales."
+                }
+              ],
+              "exemplar": "A niche market approach involves targeting a specific, narrowly defined customer segment with tailored products. The cereal manufacturer could focus on health-conscious consumers by developing low-sugar, high-protein, gluten-free or organic cereal ranges that competitors do not adequately serve. By differentiating from mainstream brands like Kellogg's, the business builds strong customer loyalty, achieves repeat purchases, and can charge premium prices. Specialised marketing through health-focused channels such as Instagram fitness influencers further reinforces this positioning, increasing sales among committed niche customers."
+            },
+            {
+              "id": "mkt-proc-2023-q23c",
+              "year": 2023,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Justify ONE global marketing strategy this cereal manufacturer could use to expand into the global market.",
+              "stimulus": "A cereal manufacturer has decided to change the packaging of its product in an attempt to reverse a drop in sales and remain competitive with existing businesses. It is also considering growing its target market by catering for health-conscious consumers in Australia and eventually expanding into the global market.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensively supports ONE global marketing strategy, applying it specifically to the cereal manufacturer's global expansion."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides sound support for a global marketing strategy with some scenario application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Demonstrates basic understanding of global marketing strategies."
+                }
+              ],
+              "exemplar": "Customisation is a global marketing strategy in which a business adapts its marketing mix — product, price, promotion and place — to suit the unique preferences of each foreign market. For the cereal manufacturer, customisation is highly justified given the diverse dietary, cultural and linguistic differences across global markets.\n\nFor instance, in Asian markets such as Japan and South Korea, breakfast cereals are less culturally embedded than in Western markets, so the manufacturer might develop rice-based or matcha-flavoured cereal variants to align with local tastes. In the Middle East, Halal-certified ingredients are essential, while in India, vegetarian and lower-sugar options would resonate with health-conscious urban consumers. Packaging should be translated and culturally adapted, with imagery and messaging reflecting local norms.\n\nThis approach mirrors successful global strategies used by McDonald's, which serves the McAloo Tikki in India and rice burgers in Japan, demonstrating that customisation drives stronger consumer connection and sales than a one-size-fits-all approach. While customisation requires higher investment in research, production and marketing, it minimises the risk of cultural missteps and maximises long-term profitability by meeting genuine consumer needs.\n\nTherefore, customisation is the most effective strategy for the cereal manufacturer to successfully penetrate diverse global markets and build sustainable brand loyalty across regions."
+            },
+            {
+              "id": "mkt-proc-2023-q7",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following shows the correct order of the steps in a marketing plan?",
+              "options": [
+                "Market research, establishing market objectives, identifying target markets, situational analysis",
+                "Establishing market objectives, identifying target markets, situational analysis, market research",
+                "Identifying target markets, situational analysis, market research, establishing market objectives",
+                "Situational analysis, market research, establishing market objectives, identifying target markets"
+              ],
+              "correct": "D",
+              "explanation": "The marketing plan follows: situational analysis (SWOT/product life cycle), then market research, then establishing market objectives, then identifying target markets. The analysis and research must precede objective-setting and target identification."
+            },
             {
               "id": "mkt-process-2025-q13",
               "year": 2025,
@@ -699,6 +994,51 @@
                 }
               ],
               "exemplar": "Branding and packaging are powerful marketing strategies that, when used effectively, build customer loyalty, justify premium pricing, and create competitive advantage. However, their effectiveness depends on consistency with broader strategy, target market alignment, and the changing influence of consumer ethics. This response evaluates both strategies using Apple, Aje, and Allbirds as contemporary examples...\n\n(Continue with 4–6 paragraphs each making a judgement supported by syllabus theory and case evidence, finishing with an overall evaluative conclusion.)"
+            },
+            {
+              "id": "mkt-strat-2023-q10",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An energy drink business uses a celebrity to promote its products online. Which marketing strategy is being used?",
+              "options": [
+                "Loss leaders",
+                "Opinion leaders",
+                "Personal selling",
+                "Sales promotion"
+              ],
+              "correct": "B",
+              "explanation": "Opinion leaders are influential people (such as celebrities) whose endorsement can sway consumer behaviour. Loss leaders are products sold below cost. Personal selling involves direct interaction with customers. Sales promotion involves short-term incentives."
+            },
+            {
+              "id": "mkt-strat-2023-q3",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following best illustrates relationship marketing?",
+              "options": [
+                "Creating long-term customer loyalty",
+                "Distributing goods directly to customers",
+                "Using promotions to increase customer sales",
+                "Basing the marketing mix on customer feedback"
+              ],
+              "correct": "A",
+              "explanation": "Relationship marketing focuses on developing long-term customer loyalty and retention rather than one-off transactions. B describes direct distribution. C describes sales promotion. D describes market research-driven marketing."
+            },
+            {
+              "id": "mkt-strat-2023-q5",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business wants to quickly achieve a large market share for a product. Which marketing strategy would most likely be used?",
+              "options": [
+                "Branding",
+                "Skimming",
+                "Penetration",
+                "Price points"
+              ],
+              "correct": "C",
+              "explanation": "Penetration pricing involves setting a low price to quickly attract customers and gain market share. Skimming sets a high initial price for early adopters. Branding builds identity over time. Price points refer to specific price levels for product variants."
             },
             {
               "id": "mkt-strat-2024-q16",
@@ -964,6 +1304,44 @@
           "name": "Processes of financial management",
           "questions": [
             {
+              "id": "fin-proc-2023-q20",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An extract from a business balance sheet shows: Cash $6 500, Accounts receivable $12 500, Inventory $40 000, Furniture and fittings $16 000, Plant machinery $12 500, Office equipment $5 000, Buildings $360 000, Total assets $452 500. Liabilities: Accounts payable $18 500, Overdraft $3 500, Short-term bank loan $21 400, Mortgage $13 000, Capital $45 000, Net profit $134 100. Which strategy would be most effective in improving the current ratio for this business? (Current ratio = current assets ÷ current liabilities)",
+              "options": [
+                "Sell excess machinery and equipment",
+                "Borrow money on a short-term bank loan",
+                "Take on a new mortgage to purchase buildings",
+                "Offer a discount to customers for early payment"
+              ],
+              "correct": "A",
+              "explanation": "Selling non-current assets (machinery/equipment) converts them into cash, a current asset, increasing the current ratio. Borrowing short-term increases current liabilities (worsening the ratio). A new mortgage adds non-current liability. Discounts may speed receivables but reduce total current assets through lower revenue. NESA accepted both A and D as the official answer."
+            },
+            {
+              "id": "fin-proc-2023-q24a",
+              "year": 2023,
+              "type": "short",
+              "marks": 2,
+              "prompt": "What is the purpose of a cash flow statement?",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly states the purpose, referencing inflows and outflows of cash over a period."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a basic purpose with limited detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides minimal relevant information about cash flow statements."
+                }
+              ],
+              "exemplar": "A cash flow statement identifies the inflows and outflows of cash within a business over a specific period, typically broken into operating, investing and financing activities. It allows managers to assess liquidity, ensure the business can meet short-term obligations, and identify cash management issues."
+            },
+            {
               "id": "fin-proc-2024-q10",
               "year": 2024,
               "type": "mcq",
@@ -1146,6 +1524,136 @@
           "id": "fin-strategies",
           "name": "Financial management strategies",
           "questions": [
+            {
+              "id": "fin-hr-2023-q25",
+              "year": 2023,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Write a business report in which you: outline some of the challenges including the global factors of costs, skills and supply the business may need to consider in recruiting and retaining staff; compare the use of debt and equity as sources of finance; recommend ONE source of finance this business could use to fund its expansion.",
+              "stimulus": "Future Century Gaming Pty Ltd operates an online gaming platform targeting players aged 18−40 in Australia. It has been in operation since 2012, providing subscription access to a variety of online games. The business is considering expanding into emerging global markets but is finding it challenging to recruit and retain skilled, qualified game designers and developers in Australia. It is considering international labour markets to overcome staff shortages. The business has decided to finance its expansion into global markets through external sources.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensive business report integrating thorough analysis of global HR factors (costs, skills, supply), detailed comparison of debt and equity finance, and a well-justified recommendation, applied to Future Century Gaming with extensive use of business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Sound business report with adequate coverage of global HR factors and finance comparison, including a recommendation, applied to the scenario with appropriate terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to HR strategies and finance, with basic terminology and minimal scenario application."
+                }
+              ],
+              "exemplar": "BUSINESS REPORT: STRATEGIC EXPANSION RECOMMENDATIONS\nTO: Board of Directors, Future Century Gaming Pty Ltd\nFROM: Strategic Advisor\nRE: Global Expansion — HR Challenges and Finance Recommendations\n\n1.0 INTRODUCTION\nThis report addresses the strategic challenges facing Future Century Gaming as it expands into emerging global markets. It examines global HR considerations relating to costs, skills and supply, compares debt and equity finance, and recommends one source of finance to fund the expansion.\n\n2.0 GLOBAL HR CHALLENGES IN RECRUITING AND RETAINING STAFF\n\n2.1 Costs\nLabour costs vary substantially across global markets. While Australian developers command salaries averaging $110 000-$150 000, equivalent talent in emerging markets such as India, Vietnam and the Philippines may cost 40-60% less. However, beyond base wages, Future Century Gaming must factor in relocation costs, visa sponsorship, training in proprietary systems, and ongoing remote work infrastructure. Currency fluctuations also affect long-term cost predictability. Companies such as Atlassian have successfully tapped global labour pools while maintaining quality, providing a useful benchmark.\n\n2.2 Skills\nThe skills shortage in game design and development is a global challenge intensified by competition from major studios such as EA, Riot Games and Ubisoft. Future Century Gaming must assess whether international candidates have specialised skills in areas like Unity, Unreal Engine, multiplayer architecture and AI integration. Cultural differences in design aesthetics — particularly between Western and Asian gaming markets — also necessitate hiring staff with local market understanding. Continuous professional development and clear career pathways become critical for retention in this competitive global talent market.\n\n2.3 Supply\nThe global supply of qualified game developers is constrained but geographically uneven. Emerging tech hubs such as Bangalore, Ho Chi Minh City and Warsaw offer growing talent pools. However, Future Century Gaming will compete with established multinationals offering attractive packages. Retention strategies including flexible work arrangements, performance bonuses, equity participation and a strong organisational culture are essential. Time-zone management for distributed teams further complicates collaboration and may impact productivity and team cohesion.\n\n3.0 COMPARISON OF DEBT AND EQUITY FINANCE\n\n3.1 Debt Finance\nDebt finance involves borrowing money that must be repaid with interest, typically through mortgages, debentures, unsecured notes or commercial bills. Advantages include retention of ownership and control, tax-deductible interest payments, and a defined repayment schedule. However, debt increases the gearing ratio, requires regular repayments regardless of profitability, and may demand collateral. For Future Century Gaming, debt would create cash flow pressure during the uncertain expansion period.\n\n3.2 Equity Finance\nEquity finance involves raising capital by issuing shares, including new share issues, rights issues, placements, share purchase plans or attracting private equity investors. Advantages include no repayment obligation, no interest expense, and access to investor expertise and networks. Disadvantages include dilution of ownership, loss of control, dividend expectations, and the complex regulatory process of issuing shares. As a private company (Pty Ltd), Future Century Gaming would likely pursue private equity rather than a public listing.\n\n3.3 Key Differences\nDebt is cheaper but riskier in volatile industries; equity is more expensive in the long run but reduces financial risk. The gaming industry is high-risk and capital-intensive, with uncertain revenue projections from new markets, favouring equity. However, equity surrenders strategic flexibility — private equity firms often demand board seats and exit timelines.\n\n4.0 RECOMMENDATION\n\nIt is recommended that Future Century Gaming pursue PRIVATE EQUITY as its primary external source of finance to fund global expansion.\n\nRationale:\n• The company is a Pty Ltd, making private equity more accessible than a public share issue.\n• Private equity investors bring not only capital but also industry expertise, international networks and operational experience — invaluable for entering unfamiliar emerging markets.\n• The high-risk nature of global expansion is unsuitable for debt servicing during the cash-negative early years.\n• Successful Australian tech firms such as Canva and Atlassian leveraged private equity (and venture capital) to fuel international growth before pursuing IPOs.\n• Private equity also provides patient capital, allowing 3-7 year horizons aligned with global market entry timelines.\n\nWhile some ownership dilution is required, this is offset by access to growth capital, strategic guidance and the ability to scale without crippling debt repayments.\n\n5.0 CONCLUSION\nFuture Century Gaming faces significant but manageable HR and finance challenges. By carefully accessing global talent markets and securing private equity investment, the business is well-positioned to successfully expand into emerging markets and achieve sustainable long-term growth."
+            },
+            {
+              "id": "fin-strat-2023-q12",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An Australian theme park wants to implement a new point-of-sale system that allows improved tracking of stock levels. The system will cost $185 000 to establish. Which long-term source of finance would be most appropriate for this system?",
+              "options": [
+                "Derivatives",
+                "Hedging",
+                "Leasing",
+                "Overdraft"
+              ],
+              "correct": "C",
+              "explanation": "Leasing is a long-term finance arrangement suitable for equipment such as a POS system, spreading the cost over time. Derivatives and hedging are risk-management instruments. An overdraft is short-term finance."
+            },
+            {
+              "id": "fin-strat-2023-q14",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The Australian dollar increases from 0.50 to 0.70 USD. What impact would this have on the goods imported to Australia and the goods exported to the United States?",
+              "options": [
+                "Imports more expensive, Exports more expensive",
+                "Imports less expensive, Exports more expensive",
+                "Imports less expensive, Exports less expensive",
+                "Imports more expensive, Exports less expensive"
+              ],
+              "correct": "B",
+              "explanation": "When the AUD appreciates, Australian dollars buy more foreign currency, making imports cheaper. Conversely, US buyers need more USD to buy AUD-priced goods, making Australian exports more expensive in foreign markets."
+            },
+            {
+              "id": "fin-strat-2023-q16",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The table shows extracts from the financial statements of a business for 2022: Sales $300 000, Cost of goods sold $200 000, Gross profit $100 000, Expenses $40 000. What is the net profit ratio for this business in 2022? (Net profit ratio = net profit ÷ sales)",
+              "options": [
+                "13%",
+                "20%",
+                "53%",
+                "150%"
+              ],
+              "correct": "B",
+              "explanation": "Net profit = Gross profit ($100 000) − Expenses ($40 000) = $60 000. Net profit ratio = $60 000 ÷ $300 000 = 0.20 = 20%."
+            },
+            {
+              "id": "fin-strat-2023-q24b",
+              "year": 2023,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain a possible conflict between ONE short-term and ONE long-term financial objective.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains a conflict between specified short-term and long-term financial objectives with appropriate reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines a conflict with some explanation of one or both objectives."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about financial objectives."
+                }
+              ],
+              "exemplar": "A conflict can arise between the short-term objective of profitability and the long-term objective of growth. To pursue growth, a business such as Qantas may invest heavily in new aircraft, route expansion or technology upgrades, which significantly reduces short-term profits due to capital expenditure and increased depreciation. While this lowers immediate profitability and may concern shareholders, it positions the business for higher long-term revenue and market share. Managers must therefore balance these competing objectives through clear strategic planning and stakeholder communication."
+            },
+            {
+              "id": "fin-strat-2023-q24c",
+              "year": 2023,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Explain TWO limitations of financial reports.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a detailed explanation of TWO limitations of financial reports with examples or reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation of two limitations or detailed explanation of one."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Demonstrates basic understanding of limitations."
+                }
+              ],
+              "exemplar": "Financial reports, while essential, have significant limitations that can distort the true financial position of a business.\n\nFirstly, valuing assets presents major challenges, particularly for non-current assets such as land, buildings and intellectual property. Asset valuation is inherently subjective and dependent on market conditions, historical cost methods or accounting estimates. For example, a property purchased in 2005 may be recorded at its original cost on the balance sheet, vastly understating its current market value. Conversely, intangible assets like brand reputation and goodwill are difficult to quantify accurately, meaning stakeholders may not have a true picture of the business's worth, affecting investment and lending decisions.\n\nSecondly, capitalising expenses is a limitation where businesses record what would normally be an expense as an asset on the balance sheet. For instance, a business may capitalise research and development costs rather than expensing them in the income statement, artificially inflating profits and asset values. This was central to corporate collapses such as WorldCom, where billions of dollars in operating expenses were improperly capitalised, misleading investors about the company's real profitability. This practice can deceive stakeholders, leading to poor financial decisions based on overstated earnings and an inflated balance sheet."
+            },
+            {
+              "id": "fin-strat-2023-q8",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An export company based in Sydney sells Australian-made art to the Asian market. Which form of payment has the lowest level of risk for the exporter?",
+              "options": [
+                "Clean payment",
+                "Letter of credit",
+                "Bill of exchange",
+                "Payment in advance"
+              ],
+              "correct": "D",
+              "explanation": "Payment in advance carries the lowest risk for the exporter because money is received before goods are shipped. Clean payment is risky as goods are sent before payment. Letter of credit reduces risk but isn't zero. Bills of exchange carry payment-default risk."
+            },
             {
               "id": "fin-strat-2024-q24b",
               "year": 2024,
