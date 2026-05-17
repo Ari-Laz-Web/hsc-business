@@ -1741,6 +1741,137 @@
           "name": "Influences on human resource management",
           "questions": [
             {
+              "id": "hr-infl-2023-q11",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is involved in making workplace agreements and resolving workplace disputes?",
+              "options": [
+                "Fair Work Commission",
+                "Australian Human Rights Commission",
+                "Australian Securities and Investments Commission",
+                "Australian Competition and Consumer Commission"
+              ],
+              "correct": "A",
+              "explanation": "The Fair Work Commission is the national workplace tribunal that approves workplace agreements and resolves industrial disputes. AHRC handles discrimination. ASIC regulates corporations and financial services. ACCC handles competition and consumer law."
+            },
+            {
+              "id": "hr-infl-2023-q19",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following stakeholders has the power to implement workplace reforms to support employees of various abilities, ages and genders?",
+              "options": [
+                "Unions",
+                "Society",
+                "Employer associations",
+                "Government organisations"
+              ],
+              "correct": "D",
+              "explanation": "Government organisations have legislative authority to implement workplace reforms (such as anti-discrimination, EEO, and Fair Work legislation). Unions advocate but don't legislate. Society influences but doesn't implement. Employer associations represent business interests but lack legislative power."
+            },
+            {
+              "id": "hr-infl-2023-q22a",
+              "year": 2023,
+              "type": "short",
+              "marks": 2,
+              "prompt": "What is the purpose of Equal Employment Opportunity (EEO) legislation?",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly states the purpose of EEO legislation, referencing fairness and prohibition of discrimination."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a basic purpose with limited detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides minimal relevant information about EEO or discrimination."
+                }
+              ],
+              "exemplar": "Equal Employment Opportunity legislation ensures that all individuals are treated fairly in the workplace, with employment decisions based on merit rather than personal characteristics such as gender, age, ethnicity, religion or disability. It aims to prevent discrimination and promote diverse, inclusive workplaces."
+            },
+            {
+              "id": "hr-infl-2023-q22b",
+              "year": 2023,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Outline TWO human resource issues found in this advertisement.",
+              "stimulus": "Advertisement for Teddy Bear Store (Est. 1990) seeking a Store Manager. Role: Manage a team of 8 staff members, manage day-to-day operations. Responsibilities: Organise inventory, train staff, assist customers. General information: $65 000 salary, Union membership not permitted, No superannuation included.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines TWO issues, identifying legislative breaches such as superannuation entitlements and the right to union membership."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines ONE issue clearly, or two issues with limited detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a general issue with little or no link to legislative requirements."
+                }
+              ],
+              "exemplar": "Firstly, the exclusion of superannuation breaches the National Employment Standards and Superannuation Guarantee legislation, which legally require employers to pay a minimum percentage of an employee's ordinary earnings into a superannuation fund. Secondly, prohibiting union membership contravenes the Fair Work Act 2009, which protects employees' right to freedom of association, including the right to join a union without discrimination from the employer. Both issues expose the business to legal action and penalties."
+            },
+            {
+              "id": "hr-infl-2023-q22c",
+              "year": 2023,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Explain the social influences that have contributed to the changing labour force participation rates in the period 1981−2021.",
+              "stimulus": "The table shows labour force participation rates for males and females in Australia: 1981 — Males 78%, Females 44%. 2001 — Males 73%, Females 55%. 2021 — Males 71%, Females 62%.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Thoroughly explains multiple social influences with clear reference to the data trends shown for both males and females."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation of social influences with some reference to the data."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about labour force participation or social influences without integration."
+                }
+              ],
+              "exemplar": "The data reveals a significant convergence in labour force participation rates between males and females from 1981 to 2021, with female participation rising substantially from 44% to 62%, while male participation declined from 78% to 71%. Several social influences explain this trend.\n\nFirstly, changing gender roles and shifting societal attitudes have normalised women's careers, removing the expectation that women should remain primary caregivers. The increased acceptance of men taking on shared childrearing responsibilities — supported by paid parental leave schemes — has freed more women to pursue full-time employment. Education has also played a transformative role, with female tertiary enrolment now exceeding male enrolment, opening higher-skilled career pathways for women in fields such as law, medicine and business.\n\nSecondly, demographic shifts including an ageing population have contributed to lower male participation, as Baby Boomers begin retiring. However, increased life expectancy and the high cost of living have led many Australians of both genders to postpone retirement, partially offsetting declines. Additionally, family structures have changed, with more dual-income households as housing affordability declines, pushing more women into paid work. Finally, workplace flexibility, including part-time roles and work-from-home arrangements accelerated by COVID-19, has enabled women juggling family responsibilities to remain in the labour force."
+            },
+            {
+              "id": "hr-infl-2023-q4",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee receives an electrical burn while working. The employee requires hospital treatment and is unable to return to work for three months. As a result of this injury, what support is this employee entitled to?",
+              "options": [
+                "Mediation",
+                "Payment in advance",
+                "Workers compensation",
+                "Training and development"
+              ],
+              "correct": "C",
+              "explanation": "Workers compensation provides financial support and medical coverage for employees injured at work. Mediation is a dispute resolution process. Payment in advance is a finance term unrelated to injury. Training and development relates to skill building."
+            },
+            {
+              "id": "hr-infl-2023-q6",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A mattress manufacturer reduced the working hours of its factory workers due to a decrease in demand. Which influence on human resources is most likely to have led to this?",
+              "options": [
+                "Economic",
+                "Legal",
+                "Operations",
+                "Social"
+              ],
+              "correct": "A",
+              "explanation": "A decrease in demand reflects economic conditions (such as a downturn or reduced consumer spending) that influence HR decisions on working hours. Legal influences relate to laws. Operations influences relate to production processes. Social influences relate to demographics and values."
+            },
+            {
               "id": "hr-infl-2024-q1",
               "year": 2024,
               "type": "mcq",
@@ -1998,6 +2129,21 @@
           "id": "hr-strategies",
           "name": "Strategies in human resource management",
           "questions": [
+            {
+              "id": "hr-strat-2023-q1",
+              "year": 2023,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Businesses offer employees rewards in order to",
+              "options": [
+                "prevent the possibility of industrial action.",
+                "recognise the value of their effort to the business.",
+                "fulfil federal government legislation requirements.",
+                "provide employees with an income to meet the costs of living."
+              ],
+              "correct": "B",
+              "explanation": "Rewards (monetary and non-monetary) are designed to recognise and reinforce the value of employee contributions, motivating performance. A is incorrect because rewards are not primarily about preventing industrial action. C is incorrect because rewards exceed legislative requirements. D describes wages/salaries, not rewards specifically."
+            },
             {
               "id": "hr-strat-2024-q25",
               "year": 2024,
