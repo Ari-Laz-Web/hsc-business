@@ -23,6 +23,30 @@
               ],
               "correct": "B",
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
+            },
+            {
+              "id": "ops-role-2025-q21b",
+              "year": 2025,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the difference between goods and services in this business.",
+              "stimulus": "A cafe produces quality food and friendly, personalised service. It donates its left-over food to a local charity at the end of each day.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines the distinction between goods and services with direct reference to the cafe context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a difference between goods and services with limited application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides basic information about goods or services."
+                }
+              ],
+              "exemplar": "Goods are tangible items that can be stored, such as the meals the cafe produces — though as perishable goods they have a short shelf life, which is why left-overs are donated. Services are intangible and consumed at the point of delivery, such as the friendly, personalised customer service the cafe provides, which cannot be stored and is customised to each customer interaction."
             }
           ]
         },
@@ -38,18 +62,91 @@
               "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Explain how globalisation can influence the operations function of a business.",
               "suggested_words": 150,
               "criteria": [
-                { "band": "3–4", "description": "Provides a thorough explanation of how globalisation influences operations, supported by relevant business examples." },
-                { "band": "2", "description": "Describes how globalisation influences operations with limited examples." },
-                { "band": "1", "description": "Identifies features of globalisation OR operations." }
+                {
+                  "band": "3–4",
+                  "description": "Provides a thorough explanation of how globalisation influences operations, supported by relevant business examples."
+                },
+                {
+                  "band": "2",
+                  "description": "Describes how globalisation influences operations with limited examples."
+                },
+                {
+                  "band": "1",
+                  "description": "Identifies features of globalisation OR operations."
+                }
               ],
               "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
+            },
+            {
+              "id": "ops-influences-2025-q21a",
+              "year": 2025,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the corporate social responsibility demonstrated by this business.",
+              "stimulus": "A cafe produces quality food and friendly, personalised service. It donates its left-over food to a local charity at the end of each day.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines the CSR action and links it to going beyond legal compliance to benefit the community."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the CSR action with limited link to broader community benefit."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides only fragmented or general information about CSR."
+                }
+              ],
+              "exemplar": "Corporate social responsibility (CSR) involves a business going beyond its legal obligations to benefit the community and environment. The cafe demonstrates CSR by donating left-over food to a local charity each day, which reduces food waste going to landfill while supporting vulnerable members of the community. This ethical behaviour also enhances the cafe's reputation among socially-conscious customers."
+            },
+            {
+              "id": "ops-influences-2025-q21c",
+              "year": 2025,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain the influence of ONE legal regulation on the operations management of this business.",
+              "stimulus": "A cafe produces quality food and friendly, personalised service. It donates its left-over food to a local charity at the end of each day.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains how a specific legal regulation shapes operations decisions in the cafe with cause-and-effect reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows some understanding of a legal regulation's influence on cafe operations."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides general information about legal regulations or operations."
+                }
+              ],
+              "exemplar": "Food safety and handling regulations under the Food Standards Code significantly influence the cafe's operations management. Managers must implement transformation processes that ensure correct food storage temperatures, hygienic preparation areas and proper waste disposal. This requires investment in commercial refrigeration, regular staff training in safe food handling, and documented cleaning schedules. Compliance affects facility layout, supplier selection (only food-safe suppliers) and quality management, since breaches can result in fines, closure or reputational damage — making legal compliance central to daily operational decisions."
             }
           ]
         },
         {
           "id": "ops-processes",
           "name": "Operations processes",
-          "questions": []
+          "questions": [
+            {
+              "id": "ops-processes-2025-q19",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A retail franchise is opening a new store. Which of the following is the correct sequence for its operations process?",
+              "options": [
+                "Product → task design → materials",
+                "Facilities → control → customer service",
+                "Information → warranties → improvement",
+                "Human resources → planning → customers"
+              ],
+              "correct": "B",
+              "explanation": "Facilities (layout), control (monitoring outputs) and customer service together describe the transformation process — inputs, transformation, outputs. The other sequences mix inputs/outputs incorrectly or include items that are not part of the operations process flow."
+            }
+          ]
         },
         {
           "id": "ops-strategies",
@@ -64,20 +161,144 @@
               "stimulus": "Acme Manufacturing has experienced declining profit margins as global competition has intensified. The CEO has tasked the operations manager with reviewing the firm's strategies.",
               "suggested_words": 800,
               "criteria": [
-                { "band": "17–20", "description": "Provides a comprehensive analysis with extensive integration of business case study/examples, syllabus terminology used consistently and accurately." },
-                { "band": "13–16", "description": "Provides a thorough analysis with appropriate integration of business examples." },
-                { "band": "9–12", "description": "Describes operations strategies and influences with some business reference." },
-                { "band": "5–8", "description": "Outlines operations strategies OR influences with limited business reference." },
-                { "band": "1–4", "description": "Identifies aspects of operations strategies or influences." }
+                {
+                  "band": "17–20",
+                  "description": "Provides a comprehensive analysis with extensive integration of business case study/examples, syllabus terminology used consistently and accurately."
+                },
+                {
+                  "band": "13–16",
+                  "description": "Provides a thorough analysis with appropriate integration of business examples."
+                },
+                {
+                  "band": "9–12",
+                  "description": "Describes operations strategies and influences with some business reference."
+                },
+                {
+                  "band": "5–8",
+                  "description": "Outlines operations strategies OR influences with limited business reference."
+                },
+                {
+                  "band": "1–4",
+                  "description": "Identifies aspects of operations strategies or influences."
+                }
               ],
               "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            },
+            {
+              "id": "ops-strategies-2025-q12",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business is introducing leading edge technology and is experiencing employee resistance. What is the most likely reason for this resistance to change?",
+              "options": [
+                "Fear of the unknown",
+                "Redundancy payments",
+                "Increased financial costs",
+                "Reorganisation of plant layout"
+              ],
+              "correct": "A",
+              "explanation": "Employees commonly resist new technology because they are uncertain about how it will affect their roles and skills — fear of the unknown. Redundancy payments and financial costs are business costs, not employee resistance drivers, and plant layout is unrelated to technology resistance."
+            },
+            {
+              "id": "ops-strategies-2025-q21d",
+              "year": 2025,
+              "type": "short",
+              "marks": 4,
+              "prompt": "The owners of the cafe would like to expand their dessert range. They plan to outsource cakes from the local bakery to sell at their cafe. Discuss the implications of outsourcing the new desserts for the operation of this business.",
+              "stimulus": "A cafe produces quality food and friendly, personalised service. It donates its left-over food to a local charity at the end of each day.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a detailed discussion of both positive and negative implications of outsourcing with clear application to the cafe."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Discusses some implications of outsourcing with reasonable application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about outsourcing."
+                }
+              ],
+              "exemplar": "Outsourcing the dessert range to a local bakery has significant implications for the cafe's operations. A positive implication is that the cafe can focus on its core activity of producing quality meals and friendly service, freeing up kitchen space, labour hours and equipment costs. Accessing the bakery's specialist expertise should improve dessert quality, attract new customers and broaden revenue streams. However, outsourcing reduces direct control over quality, freshness and supply reliability — if the bakery delivers late or runs out of stock, the cafe cannot serve desserts. The cafe also becomes dependent on the supplier's pricing, which may erode profit margins. Overall, outsourcing improves efficiency and product range but introduces supply-chain risk that must be managed through strong supplier relationships and contracts."
+            },
+            {
+              "id": "ops-strategies-2025-q25",
+              "year": 2025,
+              "type": "report",
+              "marks": 20,
+              "prompt": "You have been hired as a consultant by the owner to write a business report. In your report:\n• outline ONE relevant human resource management process that the business could use\n• describe the purpose of the above chart and any issues found in the chart\n• recommend appropriate global factors the business can use to achieve cost leadership.",
+              "stimulus": "XYZ Equipment Pty Ltd is an Australian business which manufactures equipment for Australian schools. The business would like to relocate and manufacture overseas by the beginning of 2026 for the following reasons: labour and production costs in Australia are too high; product is of poor quality; Australia has strict environmental laws; there is a potential growth market in Asia. The business has provided a Gantt-style chart showing their initial relocation plan across October–March covering activities: close Australian factory, source new Asian suppliers, manufacture equipment, build new factory, determine staffing needs, lease warehouse for storage, register business name.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensive business report integrating one HR process, full purpose and detailed issue analysis of the chart, and well-justified global factor recommendations supporting cost leadership, using sustained business terminology and report structure."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Sound report addressing the three tasks with description of the chart, some issue analysis and reasonable global factor recommendations, using business terminology and report features."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies an HR process and makes basic statements about the chart and global factors with limited report structure."
+                }
+              ],
+              "exemplar": "EXECUTIVE SUMMARY\n\nThis report addresses XYZ Equipment Pty Ltd's planned relocation of manufacturing to Asia by January 2026. It outlines the separation HR process required, analyses the purpose and shortcomings of the proposed Gantt chart, and recommends global operations factors — global sourcing, economies of scale, scanning and learning, and research and development — to achieve a cost leadership strategic role.\n\n1. INTRODUCTION\n\nXYZ Equipment Pty Ltd manufactures school equipment in Australia but faces high labour costs, quality issues and strict environmental regulation. Relocation to Asia offers access to a growth market and lower costs. To make this relocation successful and cost-competitive, the business must manage human resources carefully, sequence activities effectively, and adopt global operations strategies aligned with cost leadership — producing at the lowest cost in the industry while maintaining acceptable quality.\n\n2. HUMAN RESOURCE MANAGEMENT PROCESS: SEPARATION\n\nThe most relevant HR process for XYZ is separation, the process of permanently or temporarily ending the employment relationship. Because the Australian factory will close, employees will face involuntary separation through redundancy. Management must follow the Fair Work Act 2009 by providing written notice, redundancy pay according to length of service, consultation with affected employees, and assistance such as outplacement services, references and access to entitlements (annual leave, long service leave, superannuation).\n\nEffective separation protects XYZ from unfair dismissal claims, maintains its reputation as an ethical employer, and supports remaining staff morale during the transition. Separation also overlaps with acquisition, since XYZ must subsequently recruit new staff in Asia. Handling separation transparently and lawfully is therefore essential before manufacturing relocates.\n\n3. PURPOSE OF THE GANTT CHART AND ISSUES IDENTIFIED\n\nThe chart provided is a Gantt chart, used in sequencing and scheduling within operations. Its purpose is to visually display the activities required for the relocation, the order in which they should occur, their durations, and any overlap between tasks. It allows management to identify dependencies, allocate resources efficiently, monitor progress against deadlines and communicate the project plan to stakeholders.\n\nHowever, several issues are evident in XYZ's proposed plan:\n• Logical sequencing errors: 'Manufacture equipment' appears to begin before 'Build new factory' is completed and before 'Source new Asian suppliers' is finalised — manufacturing cannot occur without facilities or raw materials.\n• 'Determine staffing needs' should occur early, before the factory is built, so recruitment and training align with start-up.\n• 'Register business name' is scheduled late, but legal registration must occur before any overseas commercial activity, including signing supplier contracts or leases.\n• 'Close Australian factory' is not aligned with overseas readiness — closing too early risks supply gaps to Australian schools.\n• The chart lacks dependencies, milestones and a critical path, making it difficult to assess delays.\n\nThese issues must be corrected so the relocation does not disrupt customer supply or inflate transition costs.\n\n4. GLOBAL FACTORS TO ACHIEVE COST LEADERSHIP\n\nFour global factors are recommended to support XYZ's cost leadership strategy.\n\nGlobal sourcing: XYZ should source raw materials and components from low-cost Asian suppliers, leveraging the wage and input cost differentials that motivated the relocation. Bulk contracts with verified suppliers reduce per-unit input cost. Apple uses global sourcing through Foxconn to keep its cost base competitive, and a similar approach will let XYZ undercut Australian-based competitors.\n\nEconomies of scale: By centralising manufacturing in a single Asian facility serving both Australian schools and the new Asian market, XYZ spreads fixed costs (factory, machinery, management) across a much larger output. This lowers average cost per unit, the cornerstone of cost leadership.\n\nScanning and learning: XYZ should continuously monitor international competitors and best-practice Asian manufacturers. Benchmarking against firms such as those used by Aldi enables XYZ to adopt lean processes, reduce waste and respond to changes in input prices or technology — addressing the current 'poor product quality' issue while keeping costs low.\n\nResearch and development: Investment in R&D allows XYZ to redesign products for cheaper, more efficient production (design for manufacture) and to incorporate automation. R&D also lifts product quality, addressing the quality complaints noted in the case, and supports long-term differentiation alongside cost leadership.\n\n5. CONCLUSION AND RECOMMENDATIONS\n\nFor a successful 2026 relocation, XYZ should: manage the separation of Australian staff lawfully and ethically; correct the Gantt chart's sequencing so that registration, factory build and supplier sourcing precede manufacturing; and adopt global sourcing, economies of scale, scanning and learning, and R&D to lock in cost leadership while improving product quality."
+            },
+            {
+              "id": "ops-strategies-2025-q7",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an essential aspect of logistics?",
+              "options": [
+                "Reorganising plant layout",
+                "Checking the quality of all output",
+                "Assessing materials handling and packaging",
+                "Creating a budget for new machinery and equipment"
+              ],
+              "correct": "C",
+              "explanation": "Logistics covers transportation, storage, materials handling and packaging — the movement and handling of inputs and outputs. Plant layout is facilities design, quality checking is quality control, and budgeting is a finance function."
+            },
+            {
+              "id": "ops-strategies-2025-q8",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business, as part of its quality management strategy, demonstrates an ongoing commitment to make its operations more efficient and effective. This is an example of which of the following?",
+              "options": [
+                "Assurance",
+                "Control",
+                "Flexibility",
+                "Improvement"
+              ],
+              "correct": "D",
+              "explanation": "An ongoing commitment to make operations better describes continuous improvement (kaizen). Quality assurance focuses on meeting standards, quality control on inspection, and flexibility is a performance objective rather than a quality strategy."
             }
           ]
         },
         {
           "id": "ops-perf-obj",
           "name": "Performance objectives",
-          "questions": []
+          "questions": [
+            {
+              "id": "ops-perf-obj-2025-q1",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which performance objective is a business trying to achieve by minimising waste in production?",
+              "options": [
+                "Cost",
+                "Flexibility",
+                "Speed",
+                "Volume"
+              ],
+              "correct": "A",
+              "explanation": "Minimising waste reduces input costs per unit, directly supporting the cost performance objective. Flexibility relates to adapting product/process, speed relates to time taken, and volume relates to quantity produced."
+            }
+          ]
         }
       ]
     },
@@ -88,17 +309,113 @@
         {
           "id": "mkt-role",
           "name": "Role of marketing",
-          "questions": []
+          "questions": [
+            {
+              "id": "mkt-role-2025-q2",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A dealership customises the caravans it sells by putting solar panels on the roof. Which type of market does this business operate in?",
+              "options": [
+                "Mass",
+                "Niche",
+                "Production",
+                "Resource"
+              ],
+              "correct": "B",
+              "explanation": "Customising products for a specific segment (caravan buyers wanting solar) defines a niche market. Mass markets target broad consumers with standardised goods, while production and resource markets involve intermediate or raw inputs rather than finished customised consumer goods."
+            }
+          ]
         },
         {
           "id": "mkt-influences",
           "name": "Influences on marketing",
-          "questions": []
+          "questions": [
+            {
+              "id": "mkt-influences-2025-q5",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The price of a fitness watch is advertised as on special for $159. The store usually sells this watch for $159. Which area of consumer law has been broken?",
+              "options": [
+                "Warranties",
+                "Implied conditions",
+                "Price discrimination",
+                "Deceptive and misleading advertising"
+              ],
+              "correct": "D",
+              "explanation": "Advertising a 'special' price that equals the normal selling price misleads consumers about a genuine discount, breaching deceptive and misleading advertising laws. Warranties and implied conditions relate to product quality guarantees, and price discrimination involves charging different prices to different customers."
+            }
+          ]
         },
         {
           "id": "mkt-process",
           "name": "Marketing process",
-          "questions": []
+          "questions": [
+            {
+              "id": "mkt-process-2025-q13",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A marketing manager recognises that poor customer service has negatively affected sales results. In which part of the marketing process would this recognition occur?",
+              "options": [
+                "Identifying target markets",
+                "Undertaking situational analysis",
+                "Developing marketing strategies",
+                "Establishing marketing objectives"
+              ],
+              "correct": "B",
+              "explanation": "Recognising internal weaknesses such as poor service impacting sales is part of situational analysis (SWOT), which identifies strengths, weaknesses, opportunities and threats. Target market identification, strategy development and objective setting come after diagnosing the current situation."
+            },
+            {
+              "id": "mkt-process-2025-q22a",
+              "year": 2025,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Identify ONE weakness and ONE potential threat for this business.",
+              "stimulus": "A business sells stainless steel water bottles. However, customers have complained that the bottles leak, and that they do not come in biodegradable packaging.",
+              "suggested_words": 40,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly identifies one internal weakness and one external threat."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies either a weakness or a threat correctly."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited or unclear information."
+                }
+              ],
+              "exemplar": "Weakness: the bottles leak, indicating a product quality and design fault internal to the business. Potential threat: changing consumer attitudes and increasing demand for environmentally friendly, biodegradable packaging, which competitors may meet first."
+            },
+            {
+              "id": "mkt-process-2025-q22c",
+              "year": 2025,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Why is it important for this business to monitor and control its marketing strategies?",
+              "stimulus": "A business sells stainless steel water bottles. However, customers have complained that the bottles leak, and that they do not come in biodegradable packaging.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains the importance of monitoring and controlling with application to the bottle business situation."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows some understanding of monitoring and controlling."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about monitoring and controlling."
+                }
+              ],
+              "exemplar": "Monitoring and controlling marketing strategies allows the business to track customer complaints, sales data and feedback against marketing objectives such as gaining a competitive advantage. By comparing actual outcomes — for example, ongoing complaints about leaking bottles and non-biodegradable packaging — with planned outcomes, managers can identify whether their product redesign and branding strategies are working. This evidence-based control enables timely corrective action, such as recalling faulty stock or accelerating the eco-packaging rollout, ensuring resources are not wasted on ineffective strategies and that customer satisfaction and market share are protected."
+            }
+          ]
         },
         {
           "id": "mkt-strategies",
@@ -112,13 +429,105 @@
               "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Evaluate the effectiveness of branding and packaging as marketing strategies. Refer to contemporary business examples in your response.",
               "suggested_words": 1000,
               "criteria": [
-                { "band": "17–20", "description": "Comprehensive evaluation with extensive use of contemporary business examples and consistent syllabus terminology." },
-                { "band": "13–16", "description": "Thorough evaluation with appropriate business examples." },
-                { "band": "9–12", "description": "Describes branding and packaging strategies with some evaluation." },
-                { "band": "5–8", "description": "Outlines branding or packaging strategies." },
-                { "band": "1–4", "description": "Identifies features of marketing strategies." }
+                {
+                  "band": "17–20",
+                  "description": "Comprehensive evaluation with extensive use of contemporary business examples and consistent syllabus terminology."
+                },
+                {
+                  "band": "13–16",
+                  "description": "Thorough evaluation with appropriate business examples."
+                },
+                {
+                  "band": "9–12",
+                  "description": "Describes branding and packaging strategies with some evaluation."
+                },
+                {
+                  "band": "5–8",
+                  "description": "Outlines branding or packaging strategies."
+                },
+                {
+                  "band": "1–4",
+                  "description": "Identifies features of marketing strategies."
+                }
               ],
               "exemplar": "Branding and packaging are powerful marketing strategies that, when used effectively, build customer loyalty, justify premium pricing, and create competitive advantage. However, their effectiveness depends on consistency with broader strategy, target market alignment, and the changing influence of consumer ethics. This response evaluates both strategies using Apple, Aje, and Allbirds as contemporary examples...\n\n(Continue with 4–6 paragraphs each making a judgement supported by syllabus theory and case evidence, finishing with an overall evaluative conclusion.)"
+            },
+            {
+              "id": "mkt-strategies-2025-q14",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following marketing strategies could a new gym adopt in order to attract customers and become a viable business?",
+              "options": [
+                "Charge a high price during the introductory stage",
+                "Set an introductory price that is the same as its competitors",
+                "Offer a first month membership at a discount to the normal monthly fee",
+                "Offer a lifetime membership that is below the cost of providing the service"
+              ],
+              "correct": "C",
+              "explanation": "A discounted first month is a penetration/loss leader pricing strategy that attracts customers while remaining viable. High introductory prices deter new customers, matching competitor prices offers no incentive to switch, and selling below cost long-term is unsustainable."
+            },
+            {
+              "id": "mkt-strategies-2025-q22b",
+              "year": 2025,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Justify TWO product strategies that could be implemented by this business to gain a competitive advantage.",
+              "stimulus": "A business sells stainless steel water bottles. However, customers have complained that the bottles leak, and that they do not come in biodegradable packaging.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Justifies two product strategies with clear reasoning showing how each creates competitive advantage in context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Justifies one product strategy and outlines another, or outlines both adequately."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies product strategies with limited justification."
+                }
+              ],
+              "exemplar": "Firstly, the business should redesign its packaging to use biodegradable, recyclable materials and clearly display an eco-credential on the box. This directly addresses the customer complaint about packaging and differentiates the brand in a market where environmental consumers are willing to pay a premium, creating a competitive advantage over rivals with plastic packaging. Secondly, the business should strengthen its branding strategy by introducing a distinctive logo, consistent green colour palette and a recognisable brand name associated with sustainability. Strong branding builds customer loyalty, allows premium pricing and makes the bottles instantly recognisable on shelves. Combined, the eco-packaging redesign solves a product weakness while branding amplifies the perception of quality and environmental responsibility — together delivering a sustainable point of difference that competitors will struggle to replicate quickly."
+            },
+            {
+              "id": "mkt-strategies-2025-q26",
+              "year": 2025,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain how target markets affect e-marketing, people, processes and physical evidence.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensive explanation of how target market identification shapes e-marketing and the three additional service marketing elements, applying relevant case studies and contemporary issues with sustained terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Sound explanation covering e-marketing and people, processes and physical evidence with reference to case studies and contemporary issues."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to marketing strategies with basic terminology."
+                }
+              ],
+              "exemplar": "Target markets — the specific groups of consumers a business aims to serve — are the central reference point for every marketing strategy. Identifying a target market through demographic, geographic, psychographic and behavioural segmentation tells the business who its customers are, what they value, where they spend time and how they prefer to interact. These insights then directly shape e-marketing, and the three service marketing elements of people, processes and physical evidence. Without an accurate target market profile, these strategies become generic, wasteful and ineffective.\n\nE-marketing — the use of digital platforms, social media, email, search engine marketing and websites to promote and sell products — is profoundly shaped by target market characteristics. A business targeting Gen Z consumers will invest heavily in TikTok, Instagram Reels and influencer partnerships, because that target market spends hours daily on short-form video. A business targeting business professionals will prioritise LinkedIn campaigns, email newsletters and SEO-rich blog content. Qantas, for example, uses sophisticated data from its Frequent Flyer program to target customers with personalised email offers, app push notifications and retargeted display ads — premium business travellers receive different offers than budget leisure travellers. The tone, language, imagery and even posting time of digital content are tailored to the target market's online behaviour. Contemporary issues such as data privacy (Privacy Act amendments), AI-driven personalisation and the decline of third-party cookies make accurate target market identification more important than ever: businesses must collect first-party data ethically to continue personalising e-marketing effectively. Without a clear target market, e-marketing spend is misdirected, click-through rates fall and return on investment collapses.\n\nPeople — the employees and customers who participate in delivering and consuming the service — are central to service marketing, particularly in service-dominant businesses. The target market determines who businesses hire, how they train them and what service style is expected. Qantas's target market includes premium international business travellers, so cabin crew are trained in multiple languages, fine-dining service and discreet, high-touch customer care. In contrast, Jetstar targets price-sensitive leisure travellers; its crew are trained for fast turnaround service and on-board upselling rather than luxury. Apple targets technology enthusiasts and creative professionals, so 'Geniuses' in Apple Stores are recruited for product expertise, empathy and consultative selling — matching the target market's expectation of knowledgeable, peer-like advice. The target market also includes the customers themselves: aspirational customers visible in a store or social media post become part of the experience for other target customers, reinforcing brand positioning. Contemporary issues such as the post-pandemic emphasis on employee wellbeing and the rise of self-service technology mean businesses must continuously rebalance human and digital touchpoints in line with target market expectations.\n\nProcesses — the systems, procedures and flow of activities by which a service is delivered — must also be designed around the target market. A target market of busy commuters expects fast, frictionless processes: McDonald's drive-thrus, app ordering and table service exist because its target market demands speed and convenience. A target market of luxury car buyers expects a deliberate, ceremonial process: Mercedes-Benz dealerships offer extended test drives, personalised configuration sessions and white-glove handover events because the target market values experience and exclusivity. Aldi's target market of value-conscious shoppers shapes its famously fast checkout process — barcoded packaging on multiple sides, no fancy bagging area — to keep operating costs and therefore prices low. Online businesses such as Amazon design one-click ordering, predictive search and same-day delivery because their target market expects effortless transactions. Contemporary issues such as supply chain disruption, sustainability expectations and the rise of omnichannel retail force businesses to redesign processes — for example, click-and-collect, returns by drop-off, paperless receipts — always with the target market's tolerance for friction and ethical preferences in mind.\n\nPhysical evidence — the tangible cues that customers use to evaluate an intangible service — is similarly dictated by the target market. Tangible cues include store design, uniforms, packaging, websites, signage, ambience and even smell. Qantas's premium lounges feature designer interiors, à la carte dining and quiet zones because the business target market judges the airline by these cues before stepping on a plane. Apple Stores use minimalist architecture, timber tables, bright lighting and uncluttered product displays because their target market associates these aesthetics with innovation and design excellence. Aldi deliberately uses cardboard pallet displays, plain signage and limited store frontage — physical evidence that signals 'no frills, low cost' to its value-conscious target market and reinforces price credibility. Online physical evidence — website design, photography, font choice, checkout interface — likewise reflects target market expectations: a luxury fashion site uses high-resolution imagery and generous whitespace, while a discount retailer uses bold prices and 'sale' tags. Contemporary issues such as sustainability reporting and ethical branding mean physical evidence increasingly includes recyclable packaging, energy-efficient stores and visible CSR cues, aligning with the values of socially conscious target markets.\n\nIn conclusion, identifying the target market is the foundational marketing process from which all other strategies flow. E-marketing is tailored to where and how the target market consumes digital content; people are recruited and trained to match target market expectations; processes are engineered around how the target market wants to be served; and physical evidence is designed to reassure the target market and reinforce positioning. Businesses such as Qantas, Apple and Aldi demonstrate that consistent alignment between a clearly defined target market and these strategies generates loyalty, premium pricing or cost leadership, and long-term competitive advantage. Where target markets shift — through changing demographics, technology, or values — businesses must continuously realign their marketing mix to remain relevant and profitable."
+            },
+            {
+              "id": "mkt-strategies-2025-q6",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An international clothing brand uses Japanese fashion trends and cultural preferences in its designs and advertisements for its Japanese market. Which global marketing strategy is being used?",
+              "options": [
+                "Customisation",
+                "Standardisation",
+                "Global branding",
+                "Price and quality interaction"
+              ],
+              "correct": "A",
+              "explanation": "Adapting products and advertising to local culture and preferences is customisation. Standardisation uses the same approach globally, global branding focuses on a uniform brand image, and price/quality interaction relates to positioning."
             }
           ]
         }
@@ -129,13 +538,199 @@
       "name": "Finance",
       "subtopics": [
         {
-          "id": "fin-role", "name": "Role of financial management", "questions": [] },
+          "id": "fin-role",
+          "name": "Role of financial management",
+          "questions": [
+            {
+              "id": "fin-role-2025-q9",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business, with a 30-day credit policy, collects accounts receivables on average every 26 days. Which objective of financial management is this business aiming to achieve?",
+              "options": [
+                "Efficiency",
+                "Growth",
+                "Minimisation",
+                "Solvency"
+              ],
+              "correct": "A",
+              "explanation": "Collecting receivables faster than the credit terms reflects efficient use of resources — the efficiency objective. Growth concerns expansion, solvency concerns long-term debt obligations, and 'minimisation' is not a standard financial objective."
+            }
+          ]
+        },
         {
-          "id": "fin-influences", "name": "Influences on financial management", "questions": [] },
+          "id": "fin-influences",
+          "name": "Influences on financial management",
+          "questions": [
+            {
+              "id": "fin-influences-2025-q23c",
+              "year": 2025,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain how TWO global market influences could affect the solvency of this business.",
+              "stimulus": "A travel agency is focused on expanding its sales in several countries.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains two distinct global market influences and their effects on solvency in context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines two global influences or explains one in detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies global influences with limited explanation."
+                }
+              ],
+              "exemplar": "The global economic outlook directly affects the travel agency's solvency. When the international economy is strong, demand for travel rises and the agency may borrow to fund expansion across new countries; if growth then slows, the agency is left with high debt and insufficient cash flow to meet long-term obligations, weakening solvency. Conversely, a downturn reduces sales while debt obligations remain fixed. Interest rates are a second key influence. If global interest rates rise, the cost of servicing overseas loans increases, lifting expenses and the debt-to-equity ratio — given the agency is already at 1:1, this would severely threaten solvency. Falling interest rates would reduce interest expense, ease repayment pressure and improve the agency's ability to meet long-term debts, strengthening solvency and supporting safer international expansion."
+            }
+          ]
+        },
         {
-          "id": "fin-process", "name": "Processes of financial management", "questions": [] },
+          "id": "fin-process",
+          "name": "Processes of financial management",
+          "questions": [
+            {
+              "id": "fin-process-2025-q16",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An extract from a cash flow document shows opening balance $2 000 in July, with cash in and cash out across July–December. Cash out exceeds cash in in September ($5 000 in, $7 000 out) and November ($8 000 in, $10 000 out). In which month should this business have adopted cash flow management strategies?",
+              "options": [
+                "August",
+                "September",
+                "November",
+                "December"
+              ],
+              "correct": "A",
+              "explanation": "NESA accepted both A and B. Strategies should be implemented before a shortfall occurs — in August (the month prior to the September deficit) so the business can manage payments and revenue ahead of negative cash flow. September is also accepted as the month the deficit first appears."
+            },
+            {
+              "id": "fin-process-2025-q18",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In the hope of generating long-term profit, a medical company spends $2 billion developing medicine to cure a disease. This is recorded on the company's balance sheet. Which limitation of financial reports does this demonstrate?",
+              "options": [
+                "Timing issues",
+                "Valuing assets",
+                "Debt repayment",
+                "Capitalising expenses"
+              ],
+              "correct": "D",
+              "explanation": "Recording R&D as an asset on the balance sheet rather than expensing it on the income statement is capitalising expenses — a recognised limitation that can overstate profit and asset values. Timing issues relate to when transactions are recorded, asset valuation concerns measurement methods, and debt repayment is not a financial report limitation."
+            },
+            {
+              "id": "fin-process-2025-q20",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business calculated its gearing ratio as 75% in 2023 and 66% in 2024. Which of the following is a correct statement about the business in 2024?",
+              "options": [
+                "The debt to equity ratio has improved.",
+                "There is a higher risk of business failure.",
+                "The solvency of this business has declined.",
+                "The owner will have a higher return-on-equity."
+              ],
+              "correct": "A",
+              "explanation": "A lower gearing ratio means proportionally less debt relative to equity, so the debt-to-equity position has improved. Lower gearing reduces (not increases) failure risk, improves (not declines) solvency, and typically lowers return-on-equity because less leverage is used."
+            },
+            {
+              "id": "fin-process-2025-q23a",
+              "year": 2025,
+              "type": "short",
+              "marks": 2,
+              "prompt": "What does the expense ratio for 2024 indicate for this business?",
+              "stimulus": "A travel agency is focused on expanding its sales in several countries. Financial data: Sales 2023 $600 000, 2024 $700 000; Total expenses 2023 $140 000, 2024 $210 000; Net profit 2023 $160 000, 2024 $170 000; Expense ratio 2023 23.3%, 2024 ?; Debt to equity 2023 0.6:1, 2024 1:1; Return on equity 2023 8%, 2024 8.5%. Industry averages: Expense ratio 2023 23%, 2024 20%; Debt to equity 0.6:1 both years; Return on equity 2023 11%, 2024 12%. Expense ratio = total expenses ÷ sales × 100.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly calculates the ratio and interprets its meaning for the business in comparison to prior year and industry average."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Calculates or interprets the ratio adequately."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited or incorrect information."
+                }
+              ],
+              "exemplar": "Expense ratio 2024 = 210 000 ÷ 700 000 × 100 = 30%. This indicates declining efficiency: expenses have risen significantly faster than sales and the ratio is well above both the 2023 figure of 23.3% and the industry average of 20%. The business is spending too much to generate each sales dollar, which is squeezing profitability and signalling a need for tighter expense control."
+            },
+            {
+              "id": "fin-process-2025-q23b",
+              "year": 2025,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How can undertaking a comparative ratio analysis improve this business's financial outcome?",
+              "stimulus": "A travel agency is focused on expanding its sales in several countries. Financial data: Sales 2023 $600 000, 2024 $700 000; Total expenses 2023 $140 000, 2024 $210 000; Net profit 2023 $160 000, 2024 $170 000; Expense ratio 2023 23.3%, 2024 30%; Debt to equity 2023 0.6:1, 2024 1:1; Return on equity 2023 8%, 2024 8.5%. Industry averages: Expense ratio 2023 23%, 2024 20%; Debt to equity 0.6:1 both years; Return on equity 2023 11%, 2024 12%.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Demonstrates comprehensive understanding of comparative ratio analysis using multiple ratios from the data to suggest specific financial improvements."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows sound understanding using at least one ratio comparison to suggest improvements."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about comparative ratio analysis."
+                }
+              ],
+              "exemplar": "Comparative ratio analysis compares the business's ratios across years and against industry benchmarks to diagnose performance and target improvement. The expense ratio has worsened from 23.3% to 30% while the industry average has improved to 20%, indicating poor efficiency — the agency could review cost centres, renegotiate supplier contracts and minimise discretionary expenses to lift profitability. The debt-to-equity ratio has risen from 0.6:1 to 1:1, well above the industry's stable 0.6:1, showing the business has taken on excessive debt and increased solvency risk; management should reduce reliance on borrowings and consider raising equity to fund overseas expansion. Return on equity is 8.5% versus an industry average of 12%, confirming below-average returns. By acting on these comparisons, the travel agency can control costs, restore solvency and lift returns to industry levels."
+            },
+            {
+              "id": "fin-process-2025-q3",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an essential component of a balance sheet?",
+              "options": [
+                "Assets",
+                "Expenses",
+                "Sales",
+                "Wages"
+              ],
+              "correct": "A",
+              "explanation": "A balance sheet reports assets, liabilities and owner's equity at a point in time. Expenses, sales and wages appear on the income (revenue) statement, not the balance sheet."
+            }
+          ]
+        },
         {
-          "id": "fin-strategies", "name": "Financial management strategies", "questions": [] }
+          "id": "fin-strategies",
+          "name": "Financial management strategies",
+          "questions": [
+            {
+              "id": "fin-strategies-2025-q27",
+              "year": 2025,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain how financial strategies can achieve liquidity and profitability objectives.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensive explanation of multiple financial strategies and how each achieves liquidity and profitability objectives, with case study application and contemporary business issues, using sustained terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Sound explanation covering several financial strategies and their links to liquidity and/or profitability with case study reference."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to finance with basic terminology."
+                }
+              ],
+              "exemplar": "Financial management is the planning, organising and controlling of a business's financial resources to achieve its objectives. Two of the most important objectives are liquidity — the ability to meet short-term debts as they fall due — and profitability — the ability to maximise returns relative to costs and capital invested. Businesses use cash flow management, working capital management, profitability management and global financial management strategies to achieve both objectives simultaneously, although tensions sometimes arise between them. The following explanation shows how each strategy contributes to liquidity and profitability, with reference to businesses such as Qantas, Woolworths and Apple.\n\nCash flow management is critical to liquidity because it ensures that cash inflows are timed to meet cash outflows. A cash flow statement identifies surpluses and shortfalls so managers can act early. The distribution of payments strategy spreads outflows evenly across the period to avoid cash crunches — for example, staggering supplier payments and rent. Discounts for early payment, such as 2/10 net 30, accelerate the collection of accounts receivable, bringing cash in faster and lifting liquidity. Factoring, where receivables are sold to a third party for an immediate (discounted) cash payment, instantly improves liquidity, though the discount reduces profitability slightly. Qantas used aggressive cash flow management strategies during the COVID-19 pandemic — deferring payments, raising capital and renegotiating creditor terms — to maintain liquidity when revenues collapsed. Effective cash flow management therefore secures short-term survival (liquidity) while protecting long-term earnings (profitability) by avoiding insolvency, late fees and reputational damage.\n\nWorking capital management focuses on the control of current assets (cash, receivables, inventories) and current liabilities (payables, loans, overdrafts) to ensure liquidity while supporting profitability. Holding sufficient cash and accessible reserves meets day-to-day obligations, supporting liquidity. Tighter credit policies and active receivables management reduce bad debts and speed up collections, improving both liquidity and profitability. Inventory control — using just-in-time systems, as Apple does with its tightly synchronised global supply chain — frees up cash tied up in stock and reduces storage and obsolescence costs, lifting profitability while maintaining product availability. On the liabilities side, negotiating longer payable terms with suppliers preserves cash, while overdrafts and short-term loans provide a flexible liquidity buffer. Strategies such as leasing and sale-and-leaseback convert fixed assets into cash without losing operational use — Qantas and many retailers have used sale-and-leaseback of aircraft and property to release cash, boosting liquidity, although lease payments slightly reduce long-term profitability. Skilful working capital management therefore directly serves liquidity and indirectly supports profitability.\n\nProfitability management uses cost controls and revenue controls to maximise returns. Cost controls include managing fixed and variable costs, using cost centres to assign accountability, and expense minimisation strategies such as energy efficiency, renegotiating contracts and outsourcing non-core activities. Woolworths, for example, continuously reviews supplier contracts and centralises distribution to lower variable costs per unit, lifting profit margins. Revenue controls align with marketing objectives — setting prices, targeting profitable customer segments and developing higher-margin product lines. Apple's premium pricing strategy is a powerful revenue control: by targeting customers willing to pay a premium for design and ecosystem, Apple sustains gross margins around 40% and generates very high profitability. Importantly, profitability strategies must not undermine liquidity: aggressive cost cutting that delays supplier payments too far, or chasing high-margin sales on long credit terms, can starve the business of cash. The best businesses pair cost discipline with strong receivables control so profitability gains also strengthen liquidity.\n\nGlobal financial management strategies are increasingly relevant for businesses operating internationally and affect both objectives. Exchange rates influence both the cost of imports and the revenue from exports — an unfavourable movement can erode profitability. Hedging strategies such as forward contracts, options and swaps lock in exchange rates so that future cash flows are predictable, protecting liquidity and profitability simultaneously. Qantas uses hedging on fuel and currency to smooth costs, preventing sudden cash outflows that would damage liquidity. Interest rate management — choosing between fixed and variable rate borrowing, or using interest rate swaps — controls finance costs, supporting profitability. Choosing appropriate methods of international payment also matters: payment in advance maximises liquidity but may deter customers, while letters of credit balance risk and predictability, and clean payment or bill of exchange offer different trade-offs between liquidity risk and customer relationships. Derivatives, while powerful, must be used carefully — speculative use can threaten both objectives, as seen in past corporate collapses.\n\nThere are inevitable tensions between liquidity and profitability. Holding large cash balances supports liquidity but earns low returns, reducing profitability; investing surplus cash in productive assets boosts profitability but reduces immediate liquidity. Offering generous credit terms attracts customers and revenue (profitability) but extends receivables and weakens liquidity. Skilful financial management balances the two — for example, by combining a small high-interest cash reserve, disciplined receivables collection and selective investment in growth assets.\n\nContemporary issues such as rising interest rates, supply chain disruption, climate-related financial disclosures and the demand for sustainability investment make these strategies more important than ever. Businesses that integrate cash flow management, working capital management, profitability management and global financial management strategies — as demonstrated by Qantas, Woolworths and Apple — can achieve both liquidity and profitability objectives, ensuring short-term survival and long-term success."
+            }
+          ]
+        }
       ]
     },
     {
@@ -143,15 +738,177 @@
       "name": "Human Resources",
       "subtopics": [
         {
-          "id": "hr-role", "name": "Role of human resource management", "questions": [] },
+          "id": "hr-role",
+          "name": "Role of human resource management",
+          "questions": []
+        },
         {
-          "id": "hr-influences", "name": "Influences on human resource management", "questions": [] },
+          "id": "hr-influences",
+          "name": "Influences on human resource management",
+          "questions": [
+            {
+              "id": "hr-influences-2025-q10",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following lists elements of the legal framework that influences human resource management?",
+              "options": [
+                "Code of conduct, work health and safety, awards",
+                "Code of conduct, work health and safety, workers compensation",
+                "Common law, minimum employment standards, customer contact",
+                "Common law, minimum employment standards, workers compensation"
+              ],
+              "correct": "D",
+              "explanation": "Common law, minimum employment standards (National Employment Standards) and workers compensation are all legal framework elements. Codes of conduct are internal policies (not law), and 'customer contact' is not part of the legal framework."
+            },
+            {
+              "id": "hr-influences-2025-q17",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A chef's finger has been cut off during a workplace accident. Which of the following steps should the employer take?",
+              "options": [
+                "Step 1: Work site is assessed for safety; Step 2: Employee takes annual leave; Step 3: Injury management plan is created",
+                "Step 1: Injury management plan is created; Step 2: Employee returns to work; Step 3: Employee takes annual leave",
+                "Step 1: Work site is assessed for safety; Step 2: Injury management plan is created; Step 3: Employee is assigned suitable duties",
+                "Step 1: Modified work hours are organised; Step 2: Injury management plan is created; Step 3: Employee returns to work"
+              ],
+              "correct": "C",
+              "explanation": "Correct WHS/return-to-work sequence: secure and assess the site first, develop an injury management plan, then assign suitable duties as the employee recovers. Other sequences either skip site assessment, place annual leave inappropriately, or arrange modified hours before the plan exists."
+            },
+            {
+              "id": "hr-influences-2025-q24a",
+              "year": 2025,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Describe the influence technology has on the human resources function.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Describes multiple ways technology influences HR functions with clear examples."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines the influence of technology on HR with some detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about technology in HR."
+                }
+              ],
+              "exemplar": "Technology has transformed the human resources function across acquisition, development, maintenance and separation. Online job platforms such as Seek and LinkedIn streamline recruitment by widening the applicant pool and automating shortlisting. Video conferencing tools like Zoom enable remote interviews, training and collaboration, supporting flexible work arrangements and reducing geographic barriers. Cloud-based HR information systems store employee records, performance reviews and payroll securely, improving accuracy and reducing administration. E-learning platforms allow continuous skill development, while data analytics help managers monitor productivity and engagement — making the HR function faster, more accessible and data-driven."
+            },
+            {
+              "id": "hr-influences-2025-q24b",
+              "year": 2025,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Employees at a factory have been discouraged by their employers from joining a union. Explain TWO possible reasons for this.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains two reasons employers discourage union membership with cause-and-effect reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines two reasons or explains one in detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about unions."
+                }
+              ],
+              "exemplar": "Firstly, unions actively negotiate higher wages, improved leave entitlements and stronger work health and safety conditions on behalf of members. Each of these outcomes raises the employer's labour and compliance costs, directly reducing profit margins, so employers discourage union membership to limit this upward pressure on wages and conditions. Secondly, unionised workforces typically place employers under greater scrutiny and can mobilise industrial action such as strikes, work-to-rule or formal disputes if grievances arise. This disrupts production, damages reputation and can attract regulatory attention or fines, so employers discourage unionisation to avoid the threat of costly industrial action and preserve managerial control."
+            },
+            {
+              "id": "hr-influences-2025-q24c",
+              "year": 2025,
+              "type": "short",
+              "marks": 4,
+              "prompt": "A business pays migrant workers less, and bullies staff members. Explain how this business is engaging in illegal practices.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Thoroughly explains how both actions breach specific legal frameworks with consequences."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a sound explanation of one or both illegal practices."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies the practices as illegal with limited explanation."
+                }
+              ],
+              "exemplar": "Paying migrant workers less than other employees for the same work breaches multiple Australian laws. It violates anti-discrimination legislation such as the Racial Discrimination Act 1975, which prohibits unfavourable treatment based on race or national origin. It also likely breaches the Fair Work Act 2009 if wages fall below the National Minimum Wage, relevant modern awards or enterprise agreements — all employees, regardless of visa status, are entitled to the same minimum entitlements. Bullying staff contravenes work health and safety laws, which require employers to provide a safe workplace free from psychological harm, and may also breach anti-discrimination and harassment provisions. The Fair Work Commission can order the business to stop bullying, and the business faces back-payment orders, substantial fines, civil penalties and reputational damage from regulators such as the Fair Work Ombudsman."
+            },
+            {
+              "id": "hr-influences-2025-q4",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee is applying for maternity leave. She is told her job will not exist when she plans to return to work. What form of discrimination may have occurred?",
+              "options": [
+                "Age",
+                "Disability",
+                "Racial",
+                "Sex"
+              ],
+              "correct": "D",
+              "explanation": "Maternity relates to pregnancy, which is treated as sex discrimination under anti-discrimination legislation. Age, disability and racial discrimination relate to different protected attributes not at issue here."
+            }
+          ]
+        },
         {
-          "id": "hr-processes", "name": "Processes of human resource management", "questions": [] },
+          "id": "hr-processes",
+          "name": "Processes of human resource management",
+          "questions": []
+        },
         {
-          "id": "hr-strategies", "name": "Strategies in human resource management", "questions": [] },
+          "id": "hr-strategies",
+          "name": "Strategies in human resource management",
+          "questions": [
+            {
+              "id": "hr-strategies-2025-q11",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is a benefit of using internal recruitment for a senior management position?",
+              "options": [
+                "The position will always be filled.",
+                "It encourages staff to seek professional growth.",
+                "There is a larger pool of applicants to choose from.",
+                "The business can gain perspectives from outside of the business."
+              ],
+              "correct": "B",
+              "explanation": "Internal recruitment motivates staff because promotion opportunities encourage development and professional growth. The position is not guaranteed to be filled internally, the applicant pool is smaller than external recruitment, and external perspectives come from external recruitment."
+            }
+          ]
+        },
         {
-          "id": "hr-effectiveness", "name": "Effectiveness of human resource management", "questions": [] }
+          "id": "hr-effectiveness",
+          "name": "Effectiveness of human resource management",
+          "questions": [
+            {
+              "id": "hr-effectiveness-2025-q15",
+              "year": 2025,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A graph of employee data shows performance, stress levels and absenteeism across five months. After month 3, performance rises while stress levels and absenteeism fall. What would be the most likely cause of the change in data after month 3?",
+              "options": [
+                "Staff completed a productivity course.",
+                "Employees were given a monetary bonus.",
+                "There was a change in senior management.",
+                "Improvements in work health and safety were made."
+              ],
+              "correct": "C",
+              "explanation": "A simultaneous improvement across performance, stress and absenteeism most likely reflects a broad cultural/leadership shift — a change in senior management. A productivity course mainly affects performance, monetary bonuses are short-term motivators, and WHS changes primarily target safety/injury rather than overall stress and absenteeism."
+            }
+          ]
+        }
       ]
     }
   ]
