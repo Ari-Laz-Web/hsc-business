@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HSC Business Studies — Past Paper Practice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <header class="sidebar-header">
+        <div class="logo">
+          <span class="logo-mark">BS</span>
+          <div>
+            <h1>HSC Business Studies</h1>
+            <p>Past Papers · 2015–2025</p>
+          </div>
+        </div>
+        <input
+          type="search"
+          id="search"
+          placeholder="Search questions…"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <div class="filters">
+          <button class="filter active" data-type="all">All</button>
+          <button class="filter" data-type="mcq">MCQ</button>
+          <button class="filter" data-type="short">Short</button>
+          <button class="filter" data-type="report">Report</button>
+          <button class="filter" data-type="extended">Extended</button>
+        </div>
+      </header>
+      <nav class="topic-tree" id="topic-tree"><!-- built by JS --></nav>
+      <footer class="sidebar-footer">
+        <div class="progress-summary" id="progress-summary">0 of 0 answered</div>
+      </footer>
+    </aside>
+
+    <main class="content" id="content">
+      <div class="welcome">
+        <p class="kicker">Welcome back</p>
+        <h2>Select a question from the sidebar to begin.</h2>
+        <p class="lede">
+          Questions are organised by syllabus topic and subtopic. Each question
+          includes the official marking criteria and a model band 6 response.
+          Type your answer, then use <strong>Copy for AI marking</strong> to
+          paste the full marking prompt straight into Claude or ChatGPT.
+        </p>
+        <div class="tips">
+          <div class="tip">
+            <span class="tip-num">01</span>
+            <h3>Your answers save automatically</h3>
+            <p>Everything stays in your browser. Close the tab and come back anytime.</p>
+          </div>
+          <div class="tip">
+            <span class="tip-num">02</span>
+            <h3>Filter by question type</h3>
+            <p>Practising extended responses? Use the filter buttons to focus.</p>
+          </div>
+          <div class="tip">
+            <span class="tip-num">03</span>
+            <h3>Mark with AI in one click</h3>
+            <p>The copy button bundles question, criteria, exemplar, and your answer.</p>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

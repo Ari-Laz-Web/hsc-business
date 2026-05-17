@@ -1,0 +1,158 @@
+{
+  "_note": "Add your own questions following the structure below. Each question needs a unique id. The four 'type' values are: mcq, short, report, extended. The examples below are illustrative placeholders — replace with real HSC questions from the NESA past papers.",
+  "topics": [
+    {
+      "id": "operations",
+      "name": "Operations",
+      "subtopics": [
+        {
+          "id": "ops-role",
+          "name": "Role of operations management",
+          "questions": [
+            {
+              "id": "ops-role-2018-mcq1",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Which of the following is a strategic role of operations management?",
+              "options": [
+                "Scheduling daily staff rosters",
+                "Cost leadership and product differentiation",
+                "Processing customer refunds",
+                "Recording daily sales figures"
+              ],
+              "correct": "B",
+              "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
+            }
+          ]
+        },
+        {
+          "id": "ops-influences",
+          "name": "Influences",
+          "questions": [
+            {
+              "id": "ops-inf-2019-short1",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Explain how globalisation can influence the operations function of a business.",
+              "suggested_words": 150,
+              "criteria": [
+                { "band": "3–4", "description": "Provides a thorough explanation of how globalisation influences operations, supported by relevant business examples." },
+                { "band": "2", "description": "Describes how globalisation influences operations with limited examples." },
+                { "band": "1", "description": "Identifies features of globalisation OR operations." }
+              ],
+              "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
+            }
+          ]
+        },
+        {
+          "id": "ops-processes",
+          "name": "Operations processes",
+          "questions": []
+        },
+        {
+          "id": "ops-strategies",
+          "name": "Operations strategies",
+          "questions": [
+            {
+              "id": "ops-strat-2021-report",
+              "year": 2021,
+              "type": "report",
+              "marks": 20,
+              "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Analyse how operations strategies can be used to respond to influences on operations management. In your response, refer to a business you have studied.",
+              "stimulus": "Acme Manufacturing has experienced declining profit margins as global competition has intensified. The CEO has tasked the operations manager with reviewing the firm's strategies.",
+              "suggested_words": 800,
+              "criteria": [
+                { "band": "17–20", "description": "Provides a comprehensive analysis with extensive integration of business case study/examples, syllabus terminology used consistently and accurately." },
+                { "band": "13–16", "description": "Provides a thorough analysis with appropriate integration of business examples." },
+                { "band": "9–12", "description": "Describes operations strategies and influences with some business reference." },
+                { "band": "5–8", "description": "Outlines operations strategies OR influences with limited business reference." },
+                { "band": "1–4", "description": "Identifies aspects of operations strategies or influences." }
+              ],
+              "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            }
+          ]
+        },
+        {
+          "id": "ops-perf-obj",
+          "name": "Performance objectives",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "subtopics": [
+        {
+          "id": "mkt-role",
+          "name": "Role of marketing",
+          "questions": []
+        },
+        {
+          "id": "mkt-influences",
+          "name": "Influences on marketing",
+          "questions": []
+        },
+        {
+          "id": "mkt-process",
+          "name": "Marketing process",
+          "questions": []
+        },
+        {
+          "id": "mkt-strategies",
+          "name": "Marketing strategies",
+          "questions": [
+            {
+              "id": "mkt-strat-2022-extended",
+              "year": 2022,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "EXAMPLE PLACEHOLDER — Replace with real question. Evaluate the effectiveness of branding and packaging as marketing strategies. Refer to contemporary business examples in your response.",
+              "suggested_words": 1000,
+              "criteria": [
+                { "band": "17–20", "description": "Comprehensive evaluation with extensive use of contemporary business examples and consistent syllabus terminology." },
+                { "band": "13–16", "description": "Thorough evaluation with appropriate business examples." },
+                { "band": "9–12", "description": "Describes branding and packaging strategies with some evaluation." },
+                { "band": "5–8", "description": "Outlines branding or packaging strategies." },
+                { "band": "1–4", "description": "Identifies features of marketing strategies." }
+              ],
+              "exemplar": "Branding and packaging are powerful marketing strategies that, when used effectively, build customer loyalty, justify premium pricing, and create competitive advantage. However, their effectiveness depends on consistency with broader strategy, target market alignment, and the changing influence of consumer ethics. This response evaluates both strategies using Apple, Aje, and Allbirds as contemporary examples...\n\n(Continue with 4–6 paragraphs each making a judgement supported by syllabus theory and case evidence, finishing with an overall evaluative conclusion.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "subtopics": [
+        {
+          "id": "fin-role", "name": "Role of financial management", "questions": [] },
+        {
+          "id": "fin-influences", "name": "Influences on financial management", "questions": [] },
+        {
+          "id": "fin-process", "name": "Processes of financial management", "questions": [] },
+        {
+          "id": "fin-strategies", "name": "Financial management strategies", "questions": [] }
+      ]
+    },
+    {
+      "id": "hr",
+      "name": "Human Resources",
+      "subtopics": [
+        {
+          "id": "hr-role", "name": "Role of human resource management", "questions": [] },
+        {
+          "id": "hr-influences", "name": "Influences on human resource management", "questions": [] },
+        {
+          "id": "hr-processes", "name": "Processes of human resource management", "questions": [] },
+        {
+          "id": "hr-strategies", "name": "Strategies in human resource management", "questions": [] },
+        {
+          "id": "hr-effectiveness", "name": "Effectiveness of human resource management", "questions": [] }
+      ]
+    }
+  ]
+}
