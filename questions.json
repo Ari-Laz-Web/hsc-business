@@ -192,6 +192,75 @@
               "exemplar": "Globalisation significantly influences a business's operations function by widening the pool of potential suppliers, expanding target markets, and intensifying competitive pressure. For example, Apple sources components from over 40 countries, allowing it to access specialist suppliers and reduce input costs — a clear cost-leadership strategy enabled by globalisation. However, this reliance creates supply chain risk, as seen during the 2020–2022 semiconductor shortage when Apple delayed product launches. Globalisation therefore drives operations managers to balance efficiency gains from global sourcing against the resilience benefits of localised or diversified supply chains."
             },
             {
+              "id": "ops-influences-2021-q11",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A mobile phone manufacturer decides to globally source inputs that they had previously produced themselves. Which of the following shows possible negative effects of this decision?",
+              "options": [
+                "Simplified logistics and delays in the supply chain",
+                "Delays in the supply chain and increased transport costs",
+                "Increased transport costs and reduced access to specialist suppliers",
+                "Reduced access to specialist suppliers and a decrease in logistics costs"
+              ],
+              "correct": "B",
+              "explanation": "Global sourcing typically creates supply chain delays and increases transport costs. Simplified logistics and a decrease in logistics costs are positives, not negatives. Global sourcing usually increases access to specialist suppliers, not reduces it."
+            },
+            {
+              "id": "ops-influences-2021-q12",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A manager at a fast-food business wants to change the operations process in response to the influence of corporate social responsibility. Which action would achieve this objective?",
+              "options": [
+                "Providing cash donations to a local hospital",
+                "Increasing the visibility of the cooking process",
+                "Offering a wider variety of healthy options on their menu",
+                "Ensuring that injured workers receive access to compensation payments"
+              ],
+              "correct": "C",
+              "explanation": "CSR in operations means going beyond legal compliance. Offering healthy menu options changes the operations process and reflects social responsibility for community wellbeing. Cash donations don't change operations. Worker compensation is a legal requirement, not CSR."
+            },
+            {
+              "id": "ops-influences-2021-q25",
+              "year": 2021,
+              "type": "report",
+              "marks": 20,
+              "prompt": "You have been hired as a consultant by Ozzi Baby Food Pty Ltd to write a business report to the owners. In your report: outline TWO operations influences affecting this business; discuss the use of retraining and redundancy payments to help overcome employee resistance to these changes; compare the use of a mortgage to a new issue of shares to fund the factory purchase.",
+              "stimulus": "Ozzi Baby Food Pty Ltd have developed a trusted reputation in domestic and global markets due to their safe and sustainably-sourced product range. This has led to a significant increase in demand. As a result, they are considering the purchase of a larger automated factory. This will lead to some job losses. The business will require external finance to fund the factory purchase using either a mortgage or becoming a public company on the Australian Securities Exchange (ASX).",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Sketches in detail two operations influences, provides detailed reasoning for/against redundancy and retraining, compares mortgage vs new share issue thoroughly, makes effective use of the Ozzi case, demonstrates extensive knowledge, and presents a sustained, logical business report using accurate terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies operations influences, provides some characteristics of redundancy and retraining, provides some similarities and differences between mortgage and shares, uses some report features and business terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers basically to operations and/or finance using basic business terminology."
+                }
+              ],
+              "exemplar": "EXECUTIVE SUMMARY\\nThis report examines two key operations influences affecting Ozzi Baby Food Pty Ltd, evaluates the use of retraining and redundancy payments to manage employee resistance to the proposed automation, and compares mortgage financing with a new share issue on the ASX to fund the larger automated factory.\\n\\n1.0 OPERATIONS INFLUENCES ON OZZI BABY FOOD\\n\\n1.1 Globalisation\\nOzzi Baby Food has built a trusted reputation in both domestic and global markets, making globalisation a critical operations influence. Globalisation has expanded Ozzi's customer base internationally, driving the significant demand increase that necessitates the proposed factory expansion. However, it also exposes the business to global competition, varying food safety standards (e.g. China's GB standards for infant formula), and complex international supply chains. Ozzi must ensure its automated factory delivers the volume, consistency and food safety required by both domestic regulators (FSANZ) and international markets such as China and Southeast Asia. Like a2 Milk Company, Ozzi can leverage its 'Australian-made' provenance as a competitive advantage globally.\\n\\n1.2 Quality Expectations\\nQuality expectations are particularly significant for Ozzi as a baby food manufacturer, where consumer trust around safety and nutrition is paramount. Parents demand high standards of food safety, traceability and sustainable sourcing — qualities Ozzi has built its brand on. Automating the factory will enable greater quality consistency through precise control of temperature, hygiene and batch tracking, reducing the risk of contamination scandals (such as those that damaged Bellamy's reputation). Investment in quality management strategies — TQM, quality assurance via ISO 22000 (food safety), and continuous improvement — will be essential to protect Ozzi's hard-won reputation.\\n\\n2.0 MANAGING EMPLOYEE RESISTANCE TO CHANGE\\n\\nThe proposed automation will result in job losses, generating significant employee resistance — particularly fear of redundancy, financial insecurity and loss of identity. Two key operations strategies can be used to overcome this resistance.\\n\\n2.1 Retraining\\nRetraining involves upskilling existing employees to operate the new automated equipment or transition into other roles such as machine maintenance, quality assurance or logistics. Retraining is particularly beneficial because it retains experienced employees who already understand Ozzi's culture and quality standards, reducing recruitment costs and preserving organisational knowledge. It also boosts morale and demonstrates corporate social responsibility. However, retraining can be expensive, time-consuming, and not all employees may successfully transition — particularly older workers or those with limited literacy or technical aptitude.\\n\\n2.2 Redundancy Payments\\nFor employees whose roles cannot be retained, voluntary or involuntary redundancy payments (in line with the Fair Work Act and NES) provide financial support during transition. Generous redundancy packages, exceeding the statutory minimum, help maintain employee goodwill, reduce industrial disputes and protect Ozzi's reputation as an ethical employer. However, redundancy payments represent a large short-term cash outflow at a time when capital is needed for the factory purchase, potentially straining cash flow.\\n\\nA combined approach — offering retraining to those willing and able, and fair redundancy packages to others — is recommended to balance cost, morale and ethical obligations.\\n\\n3.0 COMPARING MORTGAGE VS NEW SHARE ISSUE\\n\\n3.1 Similarities\\nBoth a mortgage (debt finance) and a new share issue (equity finance) provide external finance to fund the large capital investment of the automated factory. Both require substantial documentation, professional advice and incur establishment costs (legal fees, brokers/underwriters). Both can secure the long-term funding amount required for a major capital asset.\\n\\n3.2 Differences\\nA mortgage is a long-term secured loan, typically secured against the new factory. Interest payments are tax-deductible, but increase financial risk by raising gearing. The current Ozzi ownership and control are retained — no voting rights are diluted. A mortgage can be arranged relatively quickly and is well-suited to financing a long-term tangible asset like a factory.\\n\\nA new share issue on the ASX (becoming a public company) raises equity finance, with no interest costs or repayment obligation. Instead, dividends are paid from after-tax profits and are discretionary. However, listing involves significant costs (prospectus preparation, underwriting, ASX listing fees of $100,000+) and a long time frame (often 6-12 months). Most importantly, it dilutes ownership and control — original owners must share decision-making with new shareholders and comply with ongoing ASX continuous disclosure obligations.\\n\\n4.0 RECOMMENDATIONS\\n\\nGiven Ozzi's strong reputation and steady cash flow from increased demand, a mortgage is recommended over a public listing. It is faster, preserves the owners' control over the company's sustainability and ethical values, and the factory itself can serve as security. Combined with retraining where possible and fair redundancy packages where not, this approach manages both the financial and human dimensions of the expansion while protecting Ozzi's competitive advantage in safe, sustainably-sourced baby food."
+            },
+            {
+              "id": "ops-influences-2021-q3",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which row of the table shows both an advantage and a disadvantage of a business investing in leading edge technology? A) Higher quality output / High initial investment B) Proven effectiveness / Increased waste C) Widely accepted and used / High initial investment D) Increased speed / Increased waste",
+              "options": [
+                "Higher quality output / High initial investment",
+                "Proven effectiveness / Increased waste",
+                "Widely accepted and used / High initial investment",
+                "Increased speed / Increased waste"
+              ],
+              "correct": "A",
+              "explanation": "Leading edge technology delivers higher quality output (advantage) but requires high initial investment (disadvantage). Proven effectiveness and being widely accepted describe established technology, not leading edge. Leading edge technology typically reduces waste, not increases it."
+            },
+            {
               "id": "ops-infl-2022-q10",
               "year": 2022,
               "type": "mcq",
@@ -328,6 +397,45 @@
           "id": "ops-processes",
           "name": "Operations processes",
           "questions": [
+            {
+              "id": "ops-processes-2021-q10",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A manufacturing business is a cost leader in their industry. Which combination of features of the transformation process are they most likely to demonstrate?",
+              "options": [
+                "Low volume, low variety",
+                "High volume, low variety",
+                "Low volume, high variety",
+                "High volume, high variety"
+              ],
+              "correct": "B",
+              "explanation": "Cost leadership is achieved through high volume (economies of scale) and low variety (standardisation reduces costs). High variety increases costs, and low volume cannot achieve cost leadership."
+            },
+            {
+              "id": "ops-processes-2021-q21a",
+              "year": 2021,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline how this customer can be considered an input in the construction of the new home.",
+              "stimulus": "A building company has been contracted to build a new home for a customer. The contract requires the home to be completed within six months and within budget.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains in general terms how the customer functions as an input in the construction process."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides a relevant statement linking the customer to inputs in home construction."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about inputs in the construction of a new home."
+                }
+              ],
+              "exemplar": "Customers are a transformed resource and a key input into the operations process for a service-based construction business. In this case, the customer acts as an input by providing essential information to the builder, such as the design specifications, paint colours, floor plans, choice of materials and the size of the home. This information directly shapes the transformation process and the final output, making the customer a critical input alongside materials and labour."
+            },
             {
               "id": "ops-proc-2022-q21c",
               "year": 2022,
@@ -496,6 +604,69 @@
                 }
               ],
               "exemplar": "Executive Summary: This report analyses how Qantas has used operations strategies — performance objectives, supply chain management, technology, and outsourcing — to respond to the influences of globalisation, government policy, and cost-based competition.\n\nIntroduction: Operations strategies are the decisions taken by operations managers to transform inputs into outputs efficiently and effectively. This report focuses on Qantas Airways, which has confronted significant external influences over the past decade.\n\n(Add 3–5 body paragraphs each addressing a specific strategy with Qantas evidence, followed by a recommendation and conclusion.)"
+            },
+            {
+              "id": "ops-strategies-2021-q14",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A car manufacturer's marketing manager suggests to the operations manager that they increase the warranty period from 3 to 5 years in order to increase market share. The operations manager would agree to this suggestion if",
+              "options": [
+                "gearing has reduced.",
+                "it provided an incentive to increase production speed.",
+                "current quality management strategies could support it.",
+                "it provided sales staff the opportunity to increase sales commissions."
+              ],
+              "correct": "C",
+              "explanation": "Extending warranty length is only viable if the product is reliable enough to avoid excessive warranty claims, which depends on quality management. Gearing is a finance issue, production speed and sales commissions are unrelated to warranty viability."
+            },
+            {
+              "id": "ops-strategies-2021-q21b",
+              "year": 2021,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How could a Gantt chart help the building company meet the terms of the contract?",
+              "stimulus": "A building company has been contracted to build a new home for a customer. The contract requires the home to be completed within six months and within budget.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly establishes the relationship between a Gantt chart and how it assists the company in meeting the contract's time and budget terms, with specific examples."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies features of a Gantt chart and links them to contract terms."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Describes a Gantt chart in general terms or makes a basic statement about it."
+                }
+              ],
+              "exemplar": "A Gantt chart is a sequencing and scheduling tool that visually displays the order, duration and overlap of tasks within a project. For the building company, it would identify each component of the construction (foundation, framing, electrical, plumbing, painting) and allocate a specific timeframe for each, alongside dependencies between tasks. This enables the operations manager to ensure trades arrive in the correct sequence — for example, electricians must complete wiring before painters can finish walls — preventing costly rework and idle time. By providing clear deadlines and milestones, the Gantt chart helps the builder finish within the six-month contractual deadline. The improved efficiency and reduced waste also help the company stay within the agreed budget, satisfying both critical terms of the contract."
+            },
+            {
+              "id": "ops-strategies-2021-q21c",
+              "year": 2021,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain TWO quality management strategies that could be used to ensure the quality of the outsourced work.",
+              "stimulus": "A building company has been contracted to build a new home for a customer. The contract requires the home to be completed within six months and within budget. The operations manager will need to outsource certain elements of the construction process.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly establishes the relationship between two quality management strategies and the resulting quality of outsourced work."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of two quality management strategies and their effect on quality, or describes one strategy in detail with reference to quality."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about quality management or outsourcing."
+                }
+              ],
+              "exemplar": "Outsourcing involves contracting external providers to undertake parts of the construction process, such as plumbing or electrical work. To ensure the quality of this outsourced work, the operations manager can use two quality management strategies.\\n\\nFirst, quality assurance involves verifying that outsourced contractors meet pre-determined standards before and during the work. The operations manager could require contractors to hold certifications such as ISO 9001 or relevant Australian Building Codes accreditation. This provides confidence that processes are systematically controlled to deliver consistent quality and reduces the risk of defects on the customer's home.\\n\\nSecond, quality control involves inspecting the outputs of the outsourced work at various checkpoints. The operations manager could conduct on-site inspections after each stage — for example, checking wiring before walls are closed up — to identify and rectify defects before they become costly. Together, these strategies ensure outsourced work meets the quality required by the contract."
             },
             {
               "id": "ops-strat-2022-q15",
@@ -836,6 +1007,36 @@
           "name": "Role of marketing",
           "questions": [
             {
+              "id": "mkt-role-2021-q16",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Why might a business move from a production approach to a selling approach?",
+              "options": [
+                "In response to increased competition",
+                "In order to increase promotional expenditure",
+                "In order to better understand customer needs",
+                "In response to an inability to satisfy current demand"
+              ],
+              "correct": "A",
+              "explanation": "A selling approach emerges when supply exceeds demand and businesses must actively sell to compete. Better understanding customer needs is the marketing approach. Increased promotional spend is a tactic, not a reason for the shift."
+            },
+            {
+              "id": "mkt-role-2021-q8",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A farmer sells vegetables to a manufacturer of tinned vegetables. The manufacturer then sells the tinned vegetables to supermarkets. Which row of the table shows the markets targeted by the farmer and the manufacturer? A) Resource / Intermediate B) Industrial / Intermediate C) Industrial / Consumer D) Resource / Consumer",
+              "options": [
+                "Resource / Intermediate",
+                "Industrial / Intermediate",
+                "Industrial / Consumer",
+                "Resource / Consumer"
+              ],
+              "correct": "B",
+              "explanation": "The farmer sells raw inputs to a manufacturer (industrial market — businesses that use goods to produce other goods). The manufacturer sells to supermarkets who resell to end consumers (intermediate market)."
+            },
+            {
               "id": "mkt-role-2022-q17",
               "year": 2022,
               "type": "mcq",
@@ -919,6 +1120,69 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-influences-2021-q24b",
+              "year": 2021,
+              "type": "short",
+              "marks": 3,
+              "prompt": "How does this advertisement use sociocultural factors to influence customer choice?",
+              "stimulus": "Advertisement for a fridge: 'Be the envy of your neighbours - The best quality fridge in the market - This weekend only 30% off in-store only - Comes with a massive 6-month warranty - Zero carbon emissions'. Fine print: '30% off not applicable to this product. Zero carbon emissions only in houses that are zero carbon powered. No repairs or returns will be considered after 6 months.'",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly demonstrates how specific aspects of the advertisement use sociocultural factors to influence customer choice."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes in general terms how aspects of the advertisement use sociocultural factors."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about sociocultural factors."
+                }
+              ],
+              "exemplar": "Sociocultural factors are influences from family, peers and society that affect consumer purchasing decisions. This advertisement clearly exploits these factors through its headline 'Be the envy of your neighbours', appealing to status and the human desire for social recognition and prestige. By framing the fridge as the 'best quality in the market', it positions ownership as a marker of social standing within the community. Additionally, the 'zero carbon emissions' claim appeals to growing societal values around environmental responsibility and 'green' consumption, allowing consumers to feel they are conforming to socially desirable norms around sustainability, further influencing their purchasing decision."
+            },
+            {
+              "id": "mkt-influences-2021-q24c",
+              "year": 2021,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How might aspects of this advertisement breach Australian consumer laws?",
+              "stimulus": "Advertisement for a fridge: 'Be the envy of your neighbours - The best quality fridge in the market - This weekend only 30% off in-store only - Comes with a massive 6-month warranty - Zero carbon emissions'. Fine print: '30% off not applicable to this product. Zero carbon emissions only in houses that are zero carbon powered. No repairs or returns will be considered after 6 months.'",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Demonstrates thorough understanding of how multiple aspects of the advertisement breach Australian consumer laws, with reference to specific provisions."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows how aspects of the advertisement might breach Australian consumer laws."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited relevant information."
+                }
+              ],
+              "exemplar": "This advertisement potentially breaches the Australian Consumer Law (ACL) in several ways.\\n\\nFirst, the advertisement engages in deceptive and misleading conduct, which is prohibited under the ACL. The headline boldly promotes '30% off this weekend only', yet the fine print contradicts this by stating '30% off not applicable to this product'. This is a clear bait advertising tactic designed to mislead consumers into believing they will receive a discount that does not apply, breaching ACCC guidelines on misleading representations.\\n\\nSecond, the '6-month warranty' clause, combined with 'no repairs or returns will be considered after 6 months', breaches the consumer guarantees under the ACL. Statutory guarantees of acceptable quality and reasonable durability cannot be excluded or limited by a manufacturer's warranty, and a 6-month durability claim on a 'best quality fridge' (an expensive, long-life appliance reasonably expected to last 5-10 years) fails the acceptable quality test.\\n\\nFinally, the 'zero carbon emissions' claim, qualified only in fine print, may constitute greenwashing and a misleading environmental claim, which the ACCC has increasingly targeted as a breach of the ACL's prohibition on false or misleading representations about the standard or characteristics of goods."
+            },
+            {
+              "id": "mkt-influences-2021-q5",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A consumer purchases expensive designer clothing as they believe they are getting higher quality and a longer lasting product. Which factor is influencing this consumer's choice?",
+              "options": [
+                "Economic",
+                "Government",
+                "Psychological",
+                "Sociocultural"
+              ],
+              "correct": "C",
+              "explanation": "The consumer's perception and belief about quality is a psychological factor. Economic factors relate to income and economic conditions; government to laws; sociocultural to family, peers and culture."
+            },
             {
               "id": "mkt-infl-2022-q1",
               "year": 2022,
@@ -1047,6 +1311,44 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-process-2021-q26",
+              "year": 2021,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse how a situational analysis (SWOT, product life cycle) may affect marketing strategies.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and clearly relates the implications of situational analysis (SWOT, PLC) on marketing strategies, applies relevant case studies and contemporary issues, presents a sustained, logical and cohesive response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of situational analysis and marketing strategies with some reference to case studies and contemporary issues."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes limited reference to marketing using basic business terminology."
+                }
+              ],
+              "exemplar": "Situational analysis is the critical first stage of the marketing process, where a business assesses its internal and external environment to inform the development of marketing strategies. Two key situational analysis tools — SWOT analysis and Product Life Cycle (PLC) analysis — directly shape decisions around the marketing mix of product, price, promotion and place. By identifying internal strengths and weaknesses, external opportunities and threats, and the current life cycle stage of a product, businesses can craft targeted strategies that maximise sales, market share and brand equity.\\n\\nSWOT ANALYSIS AND ITS IMPACT ON MARKETING STRATEGIES\\n\\nSWOT analysis evaluates a business's internal strengths and weaknesses alongside external opportunities and threats. The findings of a SWOT directly influence each element of the marketing mix.\\n\\nStrengths and weaknesses, being internal, shape decisions on product differentiation and branding. For example, Apple's identified strengths include its premium brand equity, design capability and ecosystem integration. This has driven product strategies focused on premium positioning (iPhone Pro range), exclusive features (Face ID, A-series chips) and price skimming. Conversely, identifying a weakness — such as limited affordability — has led Apple to launch the iPhone SE at lower price points to capture price-sensitive segments without diluting its premium brand. Aldi, by contrast, identifies operational efficiency as a strength, which underpins its cost-leadership pricing strategy and limited-range, private-label product offering.\\n\\nOpportunities and threats, being external, influence promotion and place strategies. An identified opportunity such as the growing demand for sustainable products has led Unilever to develop and promote its Sustainable Living Brands (Dove, Ben & Jerry's), using ethical marketing messages to capture the conscious consumer segment. Identified threats — such as new competitors or regulatory change — drive defensive strategies. For example, Qantas identified the threat of low-cost carrier Virgin Australia and responded by launching Jetstar as a fighter brand, with low-cost pricing and a separate distribution channel, to retain market share at the budget end.\\n\\nA contemporary issue is the rise of social media as both an opportunity (low-cost targeted promotion) and a threat (negative word-of-mouth at scale). Businesses such as Boost Juice have leveraged Instagram and TikTok influencer marketing as an opportunity-driven promotion strategy, while continuously monitoring threats from viral customer complaints.\\n\\nPRODUCT LIFE CYCLE ANALYSIS AND ITS IMPACT ON MARKETING STRATEGIES\\n\\nThe Product Life Cycle (PLC) tracks a product through four stages — introduction, growth, maturity and decline — each requiring distinct marketing strategies.\\n\\nIn the introduction stage, sales are low and consumer awareness is limited. Marketing strategies focus on building awareness through heavy advertising and either skimming (high price to recoup R&D, e.g. Tesla Model S launch at $100k+) or penetration pricing (low price to gain market share quickly, e.g. Netflix's introduction into the Australian market with low subscription prices in 2015). Distribution is typically selective, targeting early adopters.\\n\\nIn the growth stage, sales increase rapidly as the product gains acceptance. Marketing strategies shift toward product differentiation (adding features, variants), broader distribution channels (intensive distribution) and persuasive advertising. Apple's iPhone in the late 2000s exemplifies this — Apple expanded distribution from exclusive Apple Stores to telecommunications carriers worldwide, and continually differentiated through new models and features.\\n\\nIn the maturity stage, sales plateau as the market saturates and competition intensifies. Marketing strategies focus on defending market share through extensive promotion, brand loyalty programs and product extensions or repositioning. Coca-Cola, a mature product, defends its position through global sports sponsorships (FIFA, Olympics), constant brand-building advertising, and product extensions (Coke Zero, Coke No Sugar) to refresh the offering. Pricing typically uses competition-based methods to match rivals.\\n\\nIn the decline stage, sales fall as consumer tastes shift or new technologies emerge. Marketing strategies involve harvesting (reducing marketing spend to maximise short-term cash flow), repositioning to niche markets, or extension strategies. For example, Kodak's traditional film products entered decline with the rise of digital photography. Kodak attempted extension by repositioning toward digital cameras but ultimately failed to adapt strategically, while competitors like Fujifilm successfully diversified into cosmetics and medical imaging.\\n\\nINTEGRATION OF SWOT AND PLC\\n\\nThe two tools are most powerful when used together. A SWOT conducted at the maturity stage might reveal an opportunity in an emerging international market, leading to a global marketing strategy such as customisation or standardisation. For example, McDonald's, a mature product in many Western markets, has used SWOT-identified opportunities in Asia to launch customised products (McSpicy Paneer in India) and adopt new place strategies (drive-thru in China, delivery via Uber Eats globally) to drive growth.\\n\\nContemporary issues such as the COVID-19 pandemic dramatically reshaped both tools simultaneously — many businesses identified e-commerce as a new opportunity (SWOT) while their physical retail product lines suddenly entered decline (PLC). Woolworths responded by accelerating its online and click-and-collect platforms, repositioning physical stores as fulfillment hubs and investing heavily in promotion of digital channels.\\n\\nCONCLUSION\\n\\nSituational analysis through SWOT and PLC is fundamental to effective marketing strategy. SWOT shapes strategies aligned with internal capabilities and external realities, while PLC dictates the appropriate mix of product, price, promotion and place at each stage of a product's commercial life. Businesses such as Apple, Aldi, Qantas and Coca-Cola demonstrate that ongoing situational analysis — not a one-off exercise — allows marketing strategies to remain responsive, competitive and aligned to changing market conditions, ultimately driving sustained sales, market share and profitability."
+            },
+            {
+              "id": "mkt-strategies-2021-q9",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business spends one million dollars on an advertising campaign. Which pair of analyses could this business use to evaluate the effectiveness of this marketing strategy?",
+              "options": [
+                "Market share and sales",
+                "SWOT and market share",
+                "Sales and product life cycle",
+                "Product life cycle and SWOT"
+              ],
+              "correct": "A",
+              "explanation": "Sales analysis and market share analysis are direct measures of marketing effectiveness. SWOT and PLC are planning/situational analysis tools, not measures of campaign effectiveness."
+            },
             {
               "id": "mkt-proc-2022-q11",
               "year": 2022,
@@ -1257,6 +1559,44 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strategies-2021-q24a",
+              "year": 2021,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain the benefits of customisation as a global marketing strategy.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains the relationship between customisation as a global marketing strategy and its benefits."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of customisation as a global marketing strategy."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about customisation or global marketing."
+                }
+              ],
+              "exemplar": "Customisation is a global marketing strategy where a business adapts its marketing mix — product, price, promotion and place — to suit the tastes, preferences, culture and regulatory environment of each foreign market. The key benefit is greater appeal to local consumers, which builds brand loyalty and increases sales revenue. For example, McDonald's offers the McSpicy Paneer in India and Teriyaki Burger in Japan to respect local tastes and religious requirements. Customisation also helps a business navigate local laws (e.g. labelling) and competitive conditions, supporting greater market share and long-term profitability across diverse global markets."
+            },
+            {
+              "id": "mkt-strategies-2021-q7",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A manufacturer of fishing equipment sponsors an annual fishing competition. A local TV news station reports on the competition, which leads to an increase in sales for the manufacturer. Which combination of elements of the promotion mix have benefited the manufacturer?",
+              "options": [
+                "Publicity and advertising",
+                "Advertising and sales promotion",
+                "Relationship marketing and publicity",
+                "Sales promotion and relationship marketing"
+              ],
+              "correct": "A",
+              "explanation": "Sponsorship is a form of advertising/promotion, and free coverage by the TV news station is publicity. There is no relationship marketing or sales promotion described here."
+            },
             {
               "id": "mkt-fin-2022-q25",
               "year": 2022,
@@ -1570,6 +1910,21 @@
           "name": "Role of financial management",
           "questions": [
             {
+              "id": "fin-role-2021-q1",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The role of a cost centre within a business is to monitor and control",
+              "options": [
+                "assets",
+                "expenses",
+                "liabilities",
+                "receipts"
+              ],
+              "correct": "B",
+              "explanation": "Cost centres are areas, departments or sections of a business to which costs (expenses) can be directly attributed. They monitor and control expenses, not assets, liabilities or receipts."
+            },
+            {
               "id": "fin-role-2025-q9",
               "year": 2025,
               "type": "mcq",
@@ -1590,6 +1945,45 @@
           "id": "fin-influences",
           "name": "Influences on financial management",
           "questions": [
+            {
+              "id": "fin-influences-2021-q19",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An Australian farmer has been contracted to sell 1000 tonnes of oranges to an American juice manufacturer at a set price. Payment is required in 60 days in Australian dollars. Which of the following would be an effective method of hedging in this transaction?",
+              "options": [
+                "The Australian farmer using a derivative to protect themselves from a falling Australian dollar.",
+                "The Australian farmer using a derivative to protect themselves from a falling American dollar.",
+                "The American manufacturer using a derivative to protect themselves from a falling Australian dollar.",
+                "The American manufacturer using a derivative to protect themselves from a falling American dollar."
+              ],
+              "correct": "D",
+              "explanation": "The American manufacturer must pay in AUD, so they need to buy AUD with USD. If the USD falls (AUD rises), they need more USD to buy the same AUD, increasing their cost. They hedge against a falling USD. The farmer receives AUD so has no FX risk."
+            },
+            {
+              "id": "fin-influences-2021-q22b",
+              "year": 2021,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain a financial risk associated with borrowing funds from the USA.",
+              "stimulus": "A luxury Australian handbag business is going to expand. They intend to borrow 30 million US dollars to buy several new retail properties across Australia.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear cause-and-effect relationship between borrowing from overseas and a specific financial risk."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines how borrowing from the USA could create financial risk."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about overseas borrowing."
+                }
+              ],
+              "exemplar": "A key financial risk associated with borrowing $30 million USD from the USA is exchange rate fluctuation. The loan must be repaid in US dollars, but the Australian handbag business earns revenue in Australian dollars. If the AUD depreciates against the USD over the loan term, the business will need significantly more AUD to repay the same USD amount, increasing both interest payments and the principal cost. For example, if the AUD falls from 0.75 USD to 0.65 USD, repayment costs rise by approximately 15%, reducing profitability and potentially compromising cash flow and the success of the expansion."
+            },
             {
               "id": "fin-infl-2022-q13",
               "year": 2022,
@@ -1728,6 +2122,84 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-process-2021-q13",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Consider the following financial information provided by a business. Year 1: Revenue $100M, Gross Profit $80M, Net Profit $30M. Year 2: Revenue $80M, Gross Profit $60M, Net Profit $30M. Which of the following must have occurred between Year 1 and Year 2?",
+              "options": [
+                "Expenses increased",
+                "Expenses decreased",
+                "Cost of goods sold increased",
+                "Cost of goods sold decreased"
+              ],
+              "correct": "B",
+              "explanation": "Gross profit fell by $20M but net profit stayed the same, so expenses must have fallen by $20M to offset the drop. COGS = Revenue − Gross Profit: Year 1 = $20M, Year 2 = $20M — COGS is unchanged."
+            },
+            {
+              "id": "fin-process-2021-q20",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Company A intends to buy Company B. Company A might pay too much for Company B if Company B's financial manager decides to",
+              "options": [
+                "normalise a large one-off asset sale.",
+                "capitalise their research and development expenses.",
+                "fully disclose the nature of the receivables owed to the company.",
+                "record their buildings at historical cost although they increased in value."
+              ],
+              "correct": "B",
+              "explanation": "Capitalising R&D treats it as an asset rather than an expense, inflating profit and asset values and making the company appear more valuable. Normalising a one-off sale removes distortions. Full disclosure helps the buyer. Historical cost would understate, not overstate, value."
+            },
+            {
+              "id": "fin-process-2021-q22a",
+              "year": 2021,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Identify where the business could record the loan and the properties on its balance sheet.",
+              "stimulus": "A luxury Australian handbag business is going to expand. They intend to borrow 30 million US dollars to buy several new retail properties across Australia.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly identifies the balance sheet classification for both the loan and the properties."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the correct classification for one item."
+                },
+                {
+                  "band": "1-2",
+                  "description": "N/A"
+                }
+              ],
+              "exemplar": "The $30 million US dollar loan would be recorded as a non-current liability on the balance sheet, as it is a long-term debt obligation extending beyond 12 months. The retail properties purchased would be recorded as non-current assets, as they are tangible, long-term assets used to generate income for the business."
+            },
+            {
+              "id": "fin-process-2021-q22c",
+              "year": 2021,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Account for the changes in this business's current and forecast profitability and gearing.",
+              "stimulus": "A luxury Australian handbag business is going to expand. They intend to borrow 30 million US dollars to buy several new retail properties across Australia. Financial ratios: Gross profit - Current 65%, Forecast 70%. Net profit - Current 21%, Forecast 18%. Debt to equity - Current 0.85:1 (85%), Forecast 1.5:1 (150%).",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed reasoning that explains why each ratio is forecast to change, integrating gearing and both profitability measures."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides reasons for changes in either profitability or gearing, or both with less detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes basic statements about profitability or gearing."
+                }
+              ],
+              "exemplar": "The forecast changes in this business's financial ratios can be directly accounted for by the proposed $30 million expansion funded entirely through US debt.\\n\\nThe gearing ratio (debt to equity) is forecast to rise sharply from 85% to 150%. This is a direct consequence of taking on $30 million in additional long-term debt without a corresponding increase in equity. As debt rises while equity remains constant, the ratio mechanically increases, indicating heightened financial risk and greater reliance on borrowed funds.\\n\\nGross profit ratio is forecast to improve from 65% to 70%. The expansion into multiple new retail properties will significantly increase sales volume, allowing the business to negotiate better wholesale prices with leather suppliers and benefit from economies of scale and increased purchasing power. Although total COGS will rise in absolute terms, COGS as a percentage of sales will fall, widening the gross profit margin.\\n\\nHowever, net profit ratio is forecast to fall from 21% to 18%, despite the improvement in gross profit. This is explained by the substantial new expenses associated with the expansion — most notably the interest expense on the $30m USD loan, plus increased depreciation on the new properties, additional wages, and rent or rates. These rising operating and finance costs outweigh the gross margin improvement, causing the net profit ratio to deteriorate."
+            },
             {
               "id": "fin-proc-2022-q20",
               "year": 2022,
@@ -2037,6 +2509,21 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strategies-2021-q18",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "When a business uses factoring, they improve their",
+              "options": [
+                "cash flow by increasing their revenue.",
+                "cash flow but reduce their profitability.",
+                "working capital by reducing their costs.",
+                "working capital but increase their liabilities."
+              ],
+              "correct": "B",
+              "explanation": "Factoring is selling accounts receivable at a discount, which improves cash flow but reduces profitability because the business receives less than face value. It does not change revenue, reduce costs, or increase liabilities."
+            },
+            {
               "id": "fin-strat-2022-q18",
               "year": 2022,
               "type": "mcq",
@@ -2267,6 +2754,68 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-influences-2021-q23a",
+              "year": 2021,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline how corporate culture can affect staff turnover.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines the relationship between corporate culture and staff turnover."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides relevant information about either corporate culture or staff turnover."
+                },
+                {
+                  "band": "1-2",
+                  "description": "N/A"
+                }
+              ],
+              "exemplar": "Corporate culture refers to the shared values, beliefs, attitudes and behaviours of employees within a business. A positive corporate culture — characterised by mutual respect, recognition and open communication — makes employees feel valued and engaged, reducing voluntary staff turnover. Conversely, a toxic or negative culture creates dissatisfaction and disengagement, leading to higher rates of resignation and increased turnover costs."
+            },
+            {
+              "id": "hr-influences-2021-q23c",
+              "year": 2021,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Discuss the possible implications of these influences on human resource management.",
+              "stimulus": "In recent times governments have imposed restrictions on businesses such as lockdowns, social distancing and the movement of people. As a result, businesses have changed the way their employees work and communicate with each other.",
+              "suggested_words": 280,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed discussion of advantages and disadvantages of these influences on multiple aspects of human resource management."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies features of HR management and the implications of these influences for business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about HR management."
+                }
+              ],
+              "exemplar": "Government-imposed restrictions such as lockdowns and social distancing have created significant implications across all four key processes of human resource management — acquisition, development, maintenance and separation.\\n\\nIn terms of acquisition, reduced consumer demand for many businesses (particularly retail and hospitality) has resulted in hiring freezes and reduced recruitment. However, businesses able to operate remotely have benefited from a wider talent pool, recruiting skilled workers from interstate or overseas at potentially lower cost. For example, many Australian tech businesses such as Atlassian have permanently embraced remote-first hiring.\\n\\nDevelopment has also shifted significantly. Traditional face-to-face training has largely been replaced by online learning platforms and virtual workshops. While this lowers travel and venue costs, it can reduce engagement and the effectiveness of on-the-job training, particularly for new recruits requiring socialisation into corporate culture.\\n\\nMaintenance is perhaps the most heavily affected area. Work health and safety obligations have extended into employees' homes, requiring businesses to ensure home offices are ergonomic and that employee mental health is supported. Communication has shifted to digital platforms like Microsoft Teams and Zoom, raising new ethical concerns around online conduct, surveillance and the blurring of work-life boundaries. Maintaining corporate culture and team cohesion in remote environments presents an ongoing challenge.\\n\\nFinally, separations have increased in industries unable to operate during restrictions, with redundancies and stand-downs common. This raises legal and ethical responsibilities to provide fair redundancy payments and outplacement support.\\n\\nOverall, while these influences have presented challenges including increased compliance burdens and cultural fragmentation, they have also created opportunities for HR managers to embrace flexible working, reduce costs and access a broader, more diverse workforce, fundamentally reshaping HRM practice into the future."
+            },
+            {
+              "id": "hr-influences-2021-q6",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which row of the table shows how a recession would affect human resource management (HRM) processes and strategies in the tourism industry? A) Increase in separation / Decrease in monetary rewards B) Increase in acquisition / Increase in training expenditure C) Decrease in separation / Decrease in monetary rewards D) Decrease in acquisition / Increase in training expenditure",
+              "options": [
+                "Increase in separation / Decrease in monetary rewards",
+                "Increase in acquisition / Increase in training expenditure",
+                "Decrease in separation / Decrease in monetary rewards",
+                "Decrease in acquisition / Increase in training expenditure"
+              ],
+              "correct": "A",
+              "explanation": "In a recession, tourism demand falls, so businesses cut staff (increase in separations) and reduce monetary rewards to control costs. Acquisition and training expenditure would typically fall, not rise."
+            },
             {
               "id": "hr-infl-2022-q22a",
               "year": 2022,
@@ -2643,6 +3192,97 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-processes-2021-q17",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Joe was made redundant by his employer but believes that he was dismissed unfairly. He takes his case to a lawyer. What evidence would effectively support the employer's decision?",
+              "options": [
+                "Video of Joe stealing goods from the storeroom",
+                "Consistent warnings over ongoing poor performance",
+                "Financial records showing ongoing losses due to poor sales",
+                "Documents showing that a new employee is doing Joe's job"
+              ],
+              "correct": "C",
+              "explanation": "Genuine redundancy occurs when a role is no longer required due to operational reasons such as financial losses. Stealing supports summary dismissal (not redundancy). Poor performance supports performance-based dismissal. A new employee doing Joe's job would actually prove the redundancy was not genuine."
+            },
+            {
+              "id": "hr-processes-2021-q23b",
+              "year": 2021,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Why might a business use a contractor to recruit staff?",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear reason for using a contractor to recruit staff."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes a relevant statement about contracting or recruitment."
+                },
+                {
+                  "band": "1-2",
+                  "description": "N/A"
+                }
+              ],
+              "exemplar": "A business may use an external recruitment contractor because contractors possess specialist expertise in identifying, screening and attracting suitable candidates, particularly for specialised or senior roles. This allows the business to access a wider talent pool, save time and reduce recruitment errors, while freeing internal HR staff to focus on core functions such as training and performance management."
+            },
+            {
+              "id": "hr-processes-2021-q27",
+              "year": 2021,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse how human resource management strategies can improve the process of employee acquisition and maintenance.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly draws out and relates how HR strategies improve acquisition and maintenance processes, applies relevant case studies and contemporary issues, presents a sustained, logical and cohesive response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of HR strategies that improve acquisition and maintenance with some reference to case studies and contemporary issues."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes limited reference to HR management using basic business terminology."
+                }
+              ],
+              "exemplar": "Human resource management (HRM) is the strategic management of an organisation's most valuable asset — its people. The processes of acquisition (identifying, attracting and selecting suitable employees) and maintenance (retaining, motivating and supporting employees over the long term) are critical to organisational success. Effective HR strategies — including leadership style, recruitment, training and development, performance management, and rewards — directly improve both processes, reducing turnover costs, enhancing productivity and building a sustainable competitive advantage. This response analyses how key HR strategies improve acquisition and maintenance, drawing on contemporary case studies including Qantas, Atlassian and Google.\\n\\nHR STRATEGIES IMPROVING EMPLOYEE ACQUISITION\\n\\nAcquisition encompasses job analysis, recruitment and selection. Strategic decisions in these areas directly determine the quality of talent entering the organisation.\\n\\nRecruitment strategy — choosing between internal and external recruitment, and general versus specific skills — significantly affects acquisition outcomes. Internal recruitment, such as Atlassian's strong internal mobility program, improves acquisition by leveraging known performers, reducing onboarding time and signalling clear career paths. This attracts ambitious external talent who see growth opportunities. External recruitment, by contrast, brings fresh skills and perspectives — Google famously uses rigorous external recruitment through structured interviews and analytical hiring criteria to acquire top-tier engineering talent globally.\\n\\nJob design also improves acquisition. Roles designed with autonomy, variety and clear progression appeal to high-quality candidates. Atlassian designs roles around its 'ShipIt' days (where employees work on self-chosen projects) and flexible work arrangements, making the company highly attractive in the competitive tech labour market.\\n\\nLeadership style also influences acquisition by shaping employer brand. Transformational and democratic leaders — such as those modelled at Canva — cultivate inclusive, innovative cultures that attract top talent through word-of-mouth and Glassdoor reviews. Conversely, autocratic leadership styles often damage employer reputation, hindering acquisition.\\n\\nContemporary issues have reshaped acquisition. The 'Great Resignation' post-COVID and ongoing skills shortages in industries such as aged care, healthcare and tech have forced businesses to enhance their employer value proposition. Qantas, recovering from pandemic-era staff cuts, has invested heavily in recruitment marketing, hiring bonuses and partnerships with international labour markets (e.g. recruiting cabin crew from Asia) to overcome acquisition challenges.\\n\\nGlobal HR strategies also improve acquisition by widening the talent pool. Atlassian's adoption of 'Team Anywhere' (fully remote work) allows it to acquire talent from across Australia and globally, accessing skills unavailable in any single location, while reducing salary costs in some regions.\\n\\nHR STRATEGIES IMPROVING EMPLOYEE MAINTENANCE\\n\\nMaintenance focuses on keeping valued employees engaged, productive and committed over the long term. The cost of replacing an employee is estimated at 50-200% of annual salary, making maintenance a critical strategic priority.\\n\\nTraining and development is one of the most powerful maintenance strategies. By developing current and future skills, businesses signal investment in employees, increase their value and reduce turnover. Qantas's Future of Aviation Academy invests in pilot training and cabin crew development, creating clear career pathways that improve retention. Continual development also future-proofs the workforce against technological disruption — a major contemporary issue with AI automation.\\n\\nRewards strategy — both monetary and non-monetary, individual and group — is central to maintenance. Monetary rewards such as competitive salaries, performance pay and bonuses retain key performers, while non-monetary rewards (flexible working, recognition, additional leave) address diverse employee needs. Atlassian offers stock options, paid sabbaticals after five years, and remote work, addressing both extrinsic and intrinsic motivation. Performance-based pay, used effectively in sales-driven environments, directly links reward to contribution and retains top performers. However, poorly designed reward systems can harm maintenance — as seen in cases where excessive performance pay creates burnout (highlighted in the food delivery industry).\\n\\nPerformance management — when used developmentally rather than purely administratively — improves maintenance by providing employees with clear feedback, recognition and growth opportunities. Google's quarterly OKR (Objectives and Key Results) reviews focus on development and goal-setting rather than punitive evaluation, contributing to its high retention rates of senior engineers.\\n\\nLeadership style also drives maintenance. Democratic and transformational leaders foster engagement, psychological safety and discretionary effort. Research by Gallup consistently shows that 'people leave managers, not companies' — and businesses with strong people-centred leadership, such as Canva, report significantly lower turnover than industry averages.\\n\\nFinally, effective workplace dispute resolution maintains the workforce by addressing grievances before they escalate to resignations or industrial action. Through negotiation, mediation and clear grievance procedures, businesses preserve relationships and trust. Qantas's industrial disputes with the Transport Workers' Union over outsourcing in 2020 illustrate the maintenance damage when dispute resolution fails — resulting in legal action, reputational damage and significant employee disengagement.\\n\\nCONTEMPORARY ISSUES AND INTEGRATION\\n\\nAcquisition and maintenance are deeply interconnected. The same HR strategies that attract high-quality candidates — strong leadership, flexible roles, competitive rewards, development opportunities — also retain them. Contemporary issues including remote work, AI/automation, mental health awareness and the four-day work week (trialled by Unilever and Australian firms like Our Community) require HR managers to continually evolve strategies. Businesses that fail to adapt — such as those mandating rigid return-to-office policies in industries where competitors offer flexibility — face both acquisition and maintenance crises.\\n\\nCONCLUSION\\n\\nHR strategies including leadership style, recruitment, job design, training and development, performance management, rewards and effective dispute resolution directly improve the processes of employee acquisition and maintenance. Case studies of Atlassian, Google, Qantas and Canva demonstrate that businesses investing strategically in their people enjoy competitive advantage through stronger talent pipelines, lower turnover and higher productivity. In an era of skills shortages, demographic change and technological disruption, sophisticated HR strategy is no longer optional but central to organisational success."
+            },
+            {
+              "id": "hr-processes-2021-q4",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which statement about common law contracts is correct?",
+              "options": [
+                "Common law contracts are determined by the Fair Work Commission.",
+                "Common law contracts are required to pass the 'better off overall test'.",
+                "Common law contracts are negotiated by unions on behalf of employees.",
+                "Common law contracts are between individual employees and their employer."
+              ],
+              "correct": "D",
+              "explanation": "Common law contracts are individual agreements between an employer and employee. The Fair Work Commission deals with awards and enterprise agreements; the BOOT applies to enterprise agreements; union negotiation also relates to collective agreements."
+            },
+            {
+              "id": "hr-role-2021-q2",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which pair of business functions is conducted by human resource management?",
+              "options": [
+                "Pricing and scheduling",
+                "Scheduling and induction",
+                "Induction and recruitment",
+                "Recruitment and receivables"
+              ],
+              "correct": "C",
+              "explanation": "Induction and recruitment are both HR functions. Pricing is marketing, scheduling is operations, and receivables is finance."
+            },
+            {
               "id": "hr-proc-2022-q2",
               "year": 2022,
               "type": "mcq",
@@ -2740,6 +3380,21 @@
           "id": "hr-strategies",
           "name": "Strategies in human resource management",
           "questions": [
+            {
+              "id": "hr-strategies-2021-q15",
+              "year": 2021,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A food delivery business made a recent change to their human resource management strategy with the following results: Absenteeism 30% decrease, Deliveries per driver 25% increase, Number of accidents 100% increase, Worker satisfaction 15% decrease. Which human resource strategy is most likely to have resulted in the changes?",
+              "options": [
+                "An increase in work health and safety training",
+                "The reduced use of staff performance reviews",
+                "A move from an autocratic to a democratic leadership style",
+                "Move from a fixed salary to pay based on individual deliveries"
+              ],
+              "correct": "D",
+              "explanation": "Performance-based pay incentivises drivers to complete more deliveries (productivity up, absenteeism down) but encourages risky behaviour (accidents up) and reduces satisfaction due to pressure. WHS training would reduce accidents. Democratic leadership typically raises satisfaction."
+            },
             {
               "id": "hr-strat-2022-q22c",
               "year": 2022,
