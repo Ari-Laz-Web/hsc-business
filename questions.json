@@ -25,6 +25,21 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2019-q11",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A sole-trader cleaning business purchases generic products to lower costs and be price competitive. This is an example of which strategy?",
+              "options": [
+                "Cost leadership",
+                "Economies of scale",
+                "Inventory management",
+                "Goods and service differentiation"
+              ],
+              "correct": "A",
+              "explanation": "Cost leadership involves minimising costs to offer competitive prices, which is achieved here by purchasing cheaper generic products. Economies of scale relate to cost reductions through large-scale production; inventory management deals with stock levels; differentiation makes products unique."
+            },
+            {
               "id": "ops-role-2020-q23a",
               "year": 2020,
               "type": "short",
@@ -192,6 +207,30 @@
           "id": "ops-influences",
           "name": "Influences",
           "questions": [
+            {
+              "id": "ops-inf-2019-q24c",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Why might this business be reluctant to become more socially responsible?",
+              "stimulus": "A juice bar is operating in a shopping centre. The juice is served to customers in plastic cups with plastic straws. The high sales volume and quick turnover demand an efficient operations process.",
+              "suggested_words": 110,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed reasons why the juice bar might be reluctant to be more socially responsible, with clear application."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides reasons why the business might be reluctant with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about social responsibility."
+                }
+              ],
+              "exemplar": "This juice bar may be reluctant to become more socially responsible due to the significant cost implications. Switching from plastic cups and straws to biodegradable or compostable alternatives such as those made from cornstarch or paper typically costs three to five times more per unit, which directly increases the cost of goods sold and squeezes profit margins. The business would also need to source new ethical suppliers, which is time-consuming and may involve longer lead times that disrupt the efficient operations process required for high turnover. Additionally, biodegradable straws often perform poorly with thick smoothies, potentially compromising customer experience. To maintain margins, the business would likely need to raise prices, risking a loss of price-sensitive customers in a competitive shopping centre, which is why short-term financial pressures often outweigh long-term ethical considerations."
+            },
             {
               "id": "ops-inf-2019-short1",
               "year": 2019,
@@ -422,6 +461,99 @@
           "name": "Operations processes",
           "questions": [
             {
+              "id": "ops-proc-2019-q13",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The Gantt chart shows the following tasks and durations: Receive customer order (31/1/20), Purchase stock (29/2/20), Prepare tools for manufacture (29/2/20), Receive raw materials (31/3/20), Manufacture item (31/3/20), Quality improvement (30/4/20), Deliver finished item (30/4/20). In which month would this business begin manufacturing the item?",
+              "options": [
+                "January",
+                "February",
+                "March",
+                "April"
+              ],
+              "correct": "C",
+              "explanation": "According to the Gantt chart, the 'Manufacture item' task begins after raw materials are received, placing its commencement in March 2020. NESA accepted both C and D as correct due to ambiguity in interpreting the chart's bar positions."
+            },
+            {
+              "id": "ops-proc-2019-q19",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the critical path diagram with Task A (3 days), Task B (2 days), Task C (1 day, parallel path), Task D (1 day), Task E (1 day, parallel above), Task F (1 day, parallel above), Task G (1 day), which tasks need to be completed prior to completing Task D?",
+              "options": [
+                "A, B only",
+                "A, B, C only",
+                "A, B, E, F only",
+                "A, B, C, E, F only"
+              ],
+              "correct": "D",
+              "explanation": "Task D cannot begin until all tasks on every preceding path are complete. This means Tasks A and B must be done, along with the parallel paths through C and through E and F, which all converge before Task D."
+            },
+            {
+              "id": "ops-proc-2019-q20",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the critical path diagram, an improvement in technology reduces the time between Task C and Task D to one day. What is the new length of the critical path?",
+              "options": [
+                "3 days",
+                "5 days",
+                "6 days",
+                "10 days"
+              ],
+              "correct": "C",
+              "explanation": "The critical path is the longest path from Start to Finish. With Task C reduced, the path A (3) + B (2) + longest parallel path + D (1) + G (1) needs to be recalculated. The longest path becomes 3 + 2 + 1 (E or F) + 1 (D) + 1 (G... but considering parallel) totals 6 days."
+            },
+            {
+              "id": "ops-proc-2019-q24a",
+              "year": 2019,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Identify TWO transforming resources used in this business.",
+              "stimulus": "A juice bar is operating in a shopping centre. The juice is served to customers in plastic cups with plastic straws. The high sales volume and quick turnover demand an efficient operations process.",
+              "suggested_words": 30,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly identifies two transforming resources."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies one transforming resource correctly."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Attempts to identify a transforming resource."
+                }
+              ],
+              "exemplar": "Two transforming resources used in this juice bar are human resources (the staff who operate the juicers and serve customers) and facilities (the juice bar premises, juicing machines, refrigerators and point-of-sale equipment)."
+            },
+            {
+              "id": "ops-proc-2019-q24b",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How does variety impact the transformation process of this business?",
+              "stimulus": "A juice bar is operating in a shopping centre. The juice is served to customers in plastic cups with plastic straws. The high sales volume and quick turnover demand an efficient operations process.",
+              "suggested_words": 110,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly shows how variety impacts the transformation process with detailed application to the juice bar."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows how variety impacts the transformation process with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about the transformation process or variety."
+                }
+              ],
+              "exemplar": "Variety refers to the range of different products a business offers. For this juice bar, offering a wide variety of juice combinations such as fruit blends, vegetable juices, smoothies and superfood mixes increases customer choice and broadens the target market, leading to higher sales volume. However, variety significantly impacts the transformation process by adding complexity. Staff require additional training to prepare each recipe correctly, multiple ingredients must be stocked and managed (raising inventory and spoilage costs), and equipment may need upgrading to handle different textures and ingredients. This slows down the conversion of inputs to outputs and reduces the speed performance objective, which conflicts with the requirement for quick turnover, ultimately challenging the business to balance variety with efficiency."
+            },
+            {
               "id": "ops-proc-2020-q11",
               "year": 2020,
               "type": "mcq",
@@ -612,6 +744,44 @@
           "id": "ops-strategies",
           "name": "Operations strategies",
           "questions": [
+            {
+              "id": "ops-strat-2019-q27",
+              "year": 2019,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse the relationship between performance objectives and operations strategies.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and clearly relates the implications of the relationship between performance objectives and operations strategies, with strong application to case study/contemporary business issues and sustained logical structure."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the relationship between performance objectives and operations strategies with some case study reference and coherent communication."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited or basic reference to operations with minimal application."
+                }
+              ],
+              "exemplar": "Performance objectives are the goals that the operations function must achieve to support the overall strategic direction of a business. The six performance objectives — quality, speed, dependability, flexibility, customisation and cost — provide measurable benchmarks against which operational performance is assessed. Operations strategies are the deliberate plans and methods used to achieve these objectives, including new product design and development, supply chain management, outsourcing, technology, inventory management, quality management and overcoming resistance to change. The relationship between performance objectives and operations strategies is direct and causal: each strategy is selected and configured specifically to achieve one or more performance objectives, and the success of a business depends on the alignment between them. Qantas Airways provides an instructive case study of this relationship.\n\nQuality is a critical performance objective for Qantas because passenger safety and service experience determine the airline's reputation and market position. To achieve quality, Qantas applies a multi-layered quality management strategy comprising quality control (rigorous pre-flight inspections of aircraft), quality assurance (ISO 9001 certified maintenance processes) and quality improvement (continuous improvement programs such as Kaizen in customer service). The use of total quality management has positioned Qantas as one of the world's safest airlines, demonstrating that a quality-focused operations strategy directly delivers the quality performance objective.\n\nSpeed and dependability are interdependent performance objectives. For Qantas, on-time departures are a major dependability measure, while reduced check-in and boarding times reflect speed. To achieve both, Qantas has invested in technology strategies including self-service check-in kiosks, automated baggage drops and the Q Bag Tag system, as well as sophisticated route-scheduling software. The relationship is clear: technology strategies enable speed and dependability that meet the performance objectives.\n\nFlexibility and customisation respond to changing customer demand. Qantas offers different fare classes (Economy, Premium Economy, Business, First) and tailored loyalty rewards for frequent flyers, supported by a flexible workforce able to be redeployed during disruptions such as the COVID-19 pandemic. The operations strategy of flexible job design and cross-training of cabin crew enables Qantas to meet the flexibility and customisation performance objectives, demonstrating the operations strategy is the means and the performance objective is the end.\n\nCost is often a contested performance objective. Qantas faces intense competition from low-cost carriers such as Jetstar (its own subsidiary) and Virgin Australia. To pursue cost, Qantas adopts strategies including outsourcing of heavy maintenance to Singapore and the Philippines, global sourcing of aircraft parts, and economies of scale through bulk fuel purchasing. Outsourcing offers cost advantages but creates trade-offs: the 2011 grounding of the fleet and subsequent industrial disputes illustrated the tension between cost minimisation and other objectives such as dependability and quality. The relationship between performance objectives and operations strategies therefore involves trade-offs that management must carefully balance.\n\nSupply chain management is central to multiple performance objectives. Qantas uses logistics, e-commerce platforms and global sourcing to manage relationships with Boeing, Airbus, fuel suppliers and catering providers. Efficient supply chain management contributes to cost, dependability and speed simultaneously, again illustrating that one strategy can serve multiple performance objectives.\n\nInventory management strategies such as Just-In-Time delivery of catering supplies and FIFO rotation of perishables minimise holding costs and waste, supporting the cost objective while also maintaining quality. Conversely, holding strategic inventory of spare parts at major hubs increases dependability by avoiding aircraft-on-ground delays, even though it raises holding costs. Trade-offs between objectives shape the choice of inventory strategy.\n\nNew product design and development is critical in fast-changing markets. Qantas continuously refreshes cabin products, in-flight entertainment and the Qantas app to meet evolving customer expectations of customisation and quality. The relationship is reciprocal: performance objectives drive product development, and successful product development reinforces objectives such as flexibility and quality.\n\nOvercoming resistance to change is a strategy that supports all performance objectives. Implementing new technology or restructuring operations often meets resistance from staff due to inertia, fear of redundancy or retraining demands. Qantas's transformation programs during the 2010s involved redundancy payments, retraining and reorganised plant layouts at maintenance hangars, with management actively communicating the strategic rationale. Without effective change management, operations strategies cannot deliver performance objectives.\n\nContemporary business issues highlight the dynamic nature of this relationship. The COVID-19 pandemic forced Qantas to dramatically scale operations, prioritise dependability of repatriation flights and reduce costs through fleet reductions. Sustainability has emerged as an implicit performance objective, with Qantas committing to net-zero emissions by 2050 through strategies including investment in sustainable aviation fuel and more fuel-efficient aircraft such as the Boeing 787. Operations strategies must increasingly serve traditional performance objectives alongside ethical and environmental considerations.\n\nGlobal factors such as global sourcing, economies of scale and research and development further illustrate the relationship. Qantas's sourcing of aircraft from Airbus and Boeing achieves economies of scale and access to leading-edge technology, supporting cost, quality and speed objectives simultaneously.\n\nIn conclusion, performance objectives and operations strategies share an inseparable, causal relationship in which objectives define what the operations function must achieve and strategies define how it will be achieved. Qantas demonstrates how strategies such as quality management, technology, supply chain management, outsourcing, inventory management and overcoming resistance to change align with quality, speed, dependability, flexibility, customisation and cost. The most effective businesses recognise that trade-offs are inevitable and continuously realign their strategies as competitive, technological, environmental and social conditions change, ensuring that performance objectives remain the compass guiding all operational decisions."
+            },
+            {
+              "id": "ops-strat-2019-q9",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business reduces product defects by using inspections in the production process. This is an example of quality",
+              "options": [
+                "control.",
+                "improvement.",
+                "innovation.",
+                "production."
+              ],
+              "correct": "A",
+              "explanation": "Quality control uses inspections during production to identify and remove defects, ensuring products meet a predetermined standard. Quality improvement focuses on continuous enhancement (Kaizen); the other options are not formal quality management approaches."
+            },
             {
               "id": "ops-strat-2020-q13",
               "year": 2020,
@@ -1153,6 +1323,30 @@
           "name": "Role of marketing",
           "questions": [
             {
+              "id": "mkt-role-2019-q21b",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain the interdependence between marketing and finance for this business.",
+              "stimulus": "A business sells luxury cars. The cars are stylish, high performance and include advanced safety features integrating leading edge technology.",
+              "suggested_words": 110,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains why and how marketing and finance are mutually reliant, with strong application to the luxury car business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Explains how marketing and finance rely on each other with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about marketing and/or finance with little reference to interdependence."
+                }
+              ],
+              "exemplar": "Interdependence refers to the mutual reliance between business functions to achieve overall business goals. For this luxury car business, finance allocates the budget required by marketing to conduct market research, develop premium branding, run high-end advertising campaigns in magazines such as Vogue Living, and stage exclusive showroom events that reinforce the brand's prestige image. In turn, marketing generates sales revenue by attracting affluent customers willing to pay a premium price, which finance then uses to manage cash flow, repay debt, and reinvest in product development of new safety technology. Without finance, marketing cannot fund strategies; without marketing, finance has no revenue to manage. Together they ensure the business achieves profitability and growth."
+            },
+            {
               "id": "mkt-role-2021-q16",
               "year": 2021,
               "type": "mcq",
@@ -1266,6 +1460,45 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-inf-2019-q21a",
+              "year": 2019,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Describe ONE factor influencing customer choice for this business.",
+              "stimulus": "A business sells luxury cars. The cars are stylish, high performance and include advanced safety features integrating leading edge technology.",
+              "suggested_words": 80,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed characteristics and features of one factor influencing customer choice, clearly applied to the luxury car business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines one factor influencing customer choice with some link to the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a factor influencing customer choice with limited or no application."
+                }
+              ],
+              "exemplar": "Psychological factors strongly influence customer choice for this luxury car business. Psychological factors include perception, motivation, learning and attitudes, all of which shape how a customer evaluates products. For this business, customers may perceive the luxury car as a status symbol that communicates wealth, sophistication and success. Their motivation to purchase is driven by self-actualisation and the desire for prestige rather than basic transport needs. The advanced safety features and leading-edge technology also appeal to customers' attitudes toward quality and innovation, reinforcing the perception that the brand delivers superior value, which justifies the premium price."
+            },
+            {
+              "id": "mkt-inf-2019-q7",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which term refers to a sales technique disguised as market research?",
+              "options": [
+                "Sugging",
+                "Telemarketing",
+                "Implied conditions",
+                "Engaging in fair competition"
+              ],
+              "correct": "A",
+              "explanation": "Sugging (Selling Under the Guise of research) is the unethical practice of using a research format to make sales. Telemarketing is direct selling by phone; implied conditions relate to consumer law; fair competition refers to ethical conduct."
+            },
             {
               "id": "mkt-infl-2020-q4",
               "year": 2020,
@@ -1472,6 +1705,30 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2019-q21c",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Why is it important for this business to conduct market research?",
+              "stimulus": "A business sells luxury cars. The cars are stylish, high performance and include advanced safety features integrating leading edge technology.",
+              "suggested_words": 110,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly demonstrates why market research is important for this business, with strong application to luxury cars and detailed reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows why market research is important with some application to the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited or general information about market research."
+                }
+              ],
+              "exemplar": "Market research is the systematic collection, recording and analysis of data about a market, customers and competitors. It is critically important for this luxury car business because the high price point and narrow target market mean strategies must be precisely calibrated. By analysing primary data such as customer surveys and secondary data such as luxury market reports, the business can identify the psychographic and demographic profile of high-income earners attracted to prestige vehicles. This informs decisions about which advanced safety features to emphasise, the most effective advertising channels such as luxury lifestyle publications, and optimal pricing using price skimming. Without accurate research, the business risks misaligned marketing strategies, wasted expenditure, weak positioning against rivals such as BMW and Mercedes-Benz, and failure to meet objectives of increasing sales and market share."
+            },
             {
               "id": "mkt-proc-2020-q16",
               "year": 2020,
@@ -1774,6 +2031,74 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strat-2019-q1",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Sam runs a business that designs and sells custom-made, high fashion clothes. In which type of market is Sam's business operating?",
+              "options": [
+                "Intermediate",
+                "Mass",
+                "Niche",
+                "Resource"
+              ],
+              "correct": "C",
+              "explanation": "Custom-made, high fashion clothing targets a small, specialised segment of consumers, which defines a niche market. Mass markets target broad audiences with standardised products; intermediate markets involve resellers; resource markets supply raw materials."
+            },
+            {
+              "id": "mkt-strat-2019-q26",
+              "year": 2019,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse the relationship between market segmentation and marketing strategies.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and clearly relates the implications of the relationship between market segmentation and marketing strategies, with strong application to case study/contemporary business issues and sustained logical structure."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies the relationship between segmentation and strategies with some case study reference and coherent communication."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited or basic reference to marketing with minimal application."
+                }
+              ],
+              "exemplar": "Market segmentation is the process of dividing a total market into distinct groups of consumers with similar characteristics, needs or buying behaviours. The relationship between market segmentation and marketing strategies is fundamental: segmentation provides the foundation upon which all elements of the marketing mix — product, price, promotion, place, people, processes and physical evidence — are designed. Without accurate segmentation, marketing strategies become generic, wasteful and ineffective. Apple Inc. provides a compelling case study demonstrating this interdependent relationship.\n\nSegmentation is conducted on four key bases: demographic (age, income, gender), geographic (location, climate), psychographic (lifestyle, values) and behavioural (usage, loyalty). Apple combines all four to identify segments such as affluent professionals aged 25–45 who value innovation, status and seamless ecosystem integration. This segmentation directly informs Apple's product strategy, with premium devices such as the iPhone Pro Max and MacBook Pro engineered with cutting-edge technology, sleek minimalist design and tight integration across the Apple ecosystem. The product element of the marketing mix is therefore a direct response to the identified segment's needs.\n\nPricing strategies similarly flow from segmentation. Because Apple targets a price-insensitive premium segment, it applies price skimming, launching new products at high price points to maximise revenue from early adopters before gradually lowering prices. This contrasts with Aldi, which targets a value-conscious segment using cost leadership and penetration pricing on private-label products. The same product category — consumer electronics or groceries — produces vastly different pricing strategies because the underlying segments differ.\n\nPromotion strategies are perhaps the most visible expression of segmentation. Apple's promotional mix emphasises aspirational advertising on premium platforms (cinema, lifestyle magazines, curated YouTube content), highly produced product launches that generate publicity, and minimal use of price-based sales promotions, all of which reinforce exclusivity for the target segment. The communication process relies on opinion leaders such as tech reviewers and word-of-mouth from loyal customers. In contrast, McDonald's, which targets a mass market segment of families and young people, uses television, in-store discounts, the Macca's app and frequent value promotions such as Loose Change Menu items. Each promotional decision is calibrated to the identified segment.\n\nPlace and distribution strategies also depend on segmentation. Apple uses selective distribution through its own flagship stores, authorised resellers and its online store, controlling the customer experience to align with the premium positioning required by its segment. By comparison, Coca-Cola uses intensive distribution to reach mass-market consumers wherever they may be — supermarkets, vending machines, restaurants, service stations — because its segment values convenience and ubiquity. Channel choice therefore directly reflects the behaviour and expectations of the targeted segment.\n\nThe extended elements of services marketing — people, processes and physical evidence — further illustrate the relationship. Apple invests heavily in training Genius Bar staff and designing minimalist, gallery-like store environments because its premium segment expects expert service and an elevated retail experience. Apple's physical evidence, from packaging to retail architecture, communicates the brand promise made to its segment.\n\nGlobal marketing decisions also reflect the segmentation–strategy relationship. Apple pursues a largely standardised global strategy because its target segment shares consistent psychographics worldwide. Conversely, McDonald's customises its menu by region — McSpicy Paneer in India, Teriyaki Burger in Japan — because its segments differ across geographic markets. Standardisation versus customisation is therefore a strategic decision driven by segmentation.\n\nThe importance of accurate segmentation is demonstrated when it fails. New Coke (1985) is a classic case where Coca-Cola misjudged the loyalty and identity of its core segment, launching a reformulated product that triggered a consumer backlash and forced the reintroduction of Coca-Cola Classic within 79 days. Marketing strategies cannot succeed if the underlying segmentation is incorrect, demonstrating that the relationship is causal and inseparable.\n\nContemporary business issues amplify this relationship. The rise of e-marketing and data analytics allows micro-segmentation, with businesses such as Netflix and Amazon using algorithms to segment customers into granular behavioural groups and tailor strategies — personalised recommendations, dynamic pricing and targeted promotion — to each. Ethical considerations also arise: aggressive segmentation of vulnerable groups (such as children or low-income consumers) for gambling or sugary food has prompted regulatory and reputational consequences.\n\nFinally, segmentation drives product positioning and differentiation. Once a segment is defined, the business must position its product favourably in the minds of those consumers relative to competitors. Apple positions itself as the premium innovator; Samsung positions itself as the versatile technology leader; Xiaomi positions itself as the value disruptor. Each positioning strategy targets a different segment and dictates a distinct marketing mix.\n\nIn conclusion, the relationship between market segmentation and marketing strategies is one of cause and effect: segmentation identifies who the customer is, while marketing strategies determine how the business meets that customer's needs. Apple, Aldi, McDonald's and Coca-Cola each demonstrate that effective marketing strategies are impossible without accurate segmentation, and that all elements of the marketing mix must be coherently aligned with the chosen segment. As contemporary issues such as data analytics, globalisation and ethical scrutiny intensify, the precision of segmentation will increasingly determine the success or failure of marketing strategies in highly competitive markets."
+            },
+            {
+              "id": "mkt-strat-2019-q5",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A bakery produces organic bread that is sold in health food stores. Which is the most appropriate channel choice for this product?",
+              "options": [
+                "Exclusive",
+                "Extensive",
+                "Intensive",
+                "Selective"
+              ],
+              "correct": "D",
+              "explanation": "Selective distribution uses a limited number of carefully chosen outlets that fit the product's image, which suits organic bread sold in health food stores. Exclusive uses very few outlets (luxury products); intensive uses as many outlets as possible (convenience goods); 'extensive' is not a recognised channel choice."
+            },
+            {
+              "id": "mkt-strat-2019-q6",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A biscuit manufacturer reduces the price of its biscuits to below cost in order to attract more customers. Which of the following identifies this approach?",
+              "options": [
+                "Skimming",
+                "Loss leader",
+                "Price points",
+                "Production leader"
+              ],
+              "correct": "B",
+              "explanation": "A loss leader is a product priced below cost to attract customers, who may then purchase other higher-margin products. Skimming sets prices high initially; price points are predetermined attractive selling prices; 'production leader' is not a pricing strategy."
+            },
             {
               "id": "mkt-strat-2020-q10",
               "year": 2020,
@@ -2239,6 +2564,81 @@
           "name": "Influences on financial management",
           "questions": [
             {
+              "id": "fin-inf-2019-q12",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following allows shareholders of a public company to acquire additional shares at a discount?",
+              "options": [
+                "New issues",
+                "Placements",
+                "Private equity",
+                "Unsecured notes"
+              ],
+              "correct": "B",
+              "explanation": "Placements (rights issues) allow existing shareholders to purchase additional shares at a discount to the market price. New issues are initial offerings; private equity is investment by private investors; unsecured notes are a form of debt finance."
+            },
+            {
+              "id": "fin-inf-2019-q16",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which independent federal body ensures that businesses adhere to government regulations, maintain appropriate financial information and provide consumer protection?",
+              "options": [
+                "Reserve Bank of Australia",
+                "Australian Securities Exchange",
+                "Australian Prudential Regulation Authority",
+                "Australian Securities and Investment Commission"
+              ],
+              "correct": "D",
+              "explanation": "ASIC is the independent federal regulator responsible for corporate governance, financial reporting and consumer protection in financial services. The RBA conducts monetary policy; the ASX is the stock exchange; APRA prudentially regulates banks and insurers."
+            },
+            {
+              "id": "fin-inf-2019-q4",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business requires new manufacturing equipment. Which of the following would provide leasing for this equipment?",
+              "options": [
+                "Unit trusts",
+                "Property trusts",
+                "Finance companies",
+                "Superannuation funds"
+              ],
+              "correct": "C",
+              "explanation": "Finance companies are non-bank financial intermediaries that specialise in providing leases and short-to-medium term loans to businesses, including for equipment. Unit and property trusts pool investor funds for investments; superannuation funds manage retirement savings."
+            },
+            {
+              "id": "fin-inf-2019-q8",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What effect would a global downturn in the economic outlook have on Australia's unemployment, output and exchange rates?",
+              "options": [
+                "Unemployment Increase, Output Increase, Exchange rates Decrease",
+                "Unemployment Decrease, Output Increase, Exchange rates Increase",
+                "Unemployment Decrease, Output Decrease, Exchange rates Increase",
+                "Unemployment Increase, Output Decrease, Exchange rates Decrease"
+              ],
+              "correct": "D",
+              "explanation": "A global economic downturn reduces demand, causing output to fall and unemployment to rise as businesses cut back. Reduced demand for Australian exports and lower investor confidence put downward pressure on the Australian dollar's exchange rate."
+            },
+            {
+              "id": "fin-proc-2019-q2",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business is purchasing a new property. Which source of finance would be the most appropriate?",
+              "options": [
+                "Shares",
+                "Mortgage",
+                "Debenture",
+                "Letter of credit"
+              ],
+              "correct": "B",
+              "explanation": "A mortgage is a long-term secured loan specifically designed for purchasing property. Shares raise equity for general purposes; debentures are unsecured corporate borrowings; a letter of credit is used in international trade."
+            },
+            {
               "id": "fin-influences-2021-q19",
               "year": 2021,
               "type": "mcq",
@@ -2415,6 +2815,105 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2019-q14",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is the correct order for financial planning?",
+              "options": [
+                "Developing budgets, determining financial needs, maintaining record systems, identifying financial risks, establishing financial controls",
+                "Determining financial needs, establishing financial controls, identifying financial risks, maintaining record systems, developing budgets",
+                "Determining financial needs, developing budgets, maintaining record systems, identifying financial risks, establishing financial controls",
+                "Developing budgets, maintaining record systems, identifying financial risks, establishing financial controls, determining financial needs"
+              ],
+              "correct": "C",
+              "explanation": "The financial planning process begins with determining financial needs, then developing budgets, maintaining record systems, identifying financial risks, and finally establishing financial controls. This logical sequence ensures needs drive budgets and controls protect those plans."
+            },
+            {
+              "id": "fin-proc-2019-q15",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the balance sheet (Current assets: Cash $10,000, Accounts receivable $5,000, Stock $8,000; Non-current assets: Plant and equipment $35,000, Land and buildings $292,000; Total assets $350,000. Current liabilities: Accounts payable $10,000, Overdraft $5,000; Non-current liabilities: Mortgage $135,000; Total equity: Capital $184,000, Net profit $16,000; Total $350,000), what is the gearing ratio (total liabilities ÷ total equity) for this business?",
+              "options": [
+                "0.67 : 1",
+                "0.73 : 1",
+                "0.75 : 1",
+                "0.81 : 1"
+              ],
+              "correct": "C",
+              "explanation": "Total liabilities = $10,000 + $5,000 + $135,000 = $150,000. Total equity = $184,000 + $16,000 = $200,000. Gearing ratio = $150,000 ÷ $200,000 = 0.75 : 1."
+            },
+            {
+              "id": "fin-proc-2019-q22a",
+              "year": 2019,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline ONE ethical issue related to the preparation of financial reports.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Outlines one ethical issue in financial report preparation with clear explanation."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies an ethical issue with some explanation."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies an ethical issue with limited detail."
+                }
+              ],
+              "exemplar": "One ethical issue in preparing financial reports is the manipulation of figures, where businesses overstate revenue or understate expenses to present a more favourable financial position. This misleads investors, creditors and other stakeholders into making decisions based on inaccurate information, as seen historically in the collapse of HIH Insurance."
+            },
+            {
+              "id": "fin-proc-2019-q22b",
+              "year": 2019,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain ONE advantage of debt financing.",
+              "suggested_words": 80,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains how and why debt financing offers an advantage, with clear reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides features of an advantage of debt finance."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies an advantage with limited explanation."
+                }
+              ],
+              "exemplar": "One advantage of debt financing is that interest payments, fees and charges are tax-deductible business expenses. By using debt finance such as a bank loan or mortgage, a business reduces its taxable income, which lowers its overall tax liability and increases after-tax profits. Additionally, debt does not dilute ownership, so existing owners retain full control of the business while benefiting from leverage to expand operations or invest in productive assets that generate returns exceeding the cost of borrowing."
+            },
+            {
+              "id": "fin-proc-2019-q22c",
+              "year": 2019,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain ONE disadvantage of equity financing.",
+              "suggested_words": 80,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains how and why equity financing presents a disadvantage with clear reasoning."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides features of a disadvantage of equity finance."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a disadvantage with limited explanation."
+                }
+              ],
+              "exemplar": "One disadvantage of equity financing is that returns paid to owners or shareholders, such as dividends or retained profits reinvested in the business, are not tax-deductible because they are distributions of profit rather than expenses. This makes equity more expensive than debt on an after-tax basis. Furthermore, issuing new shares dilutes the ownership and control of existing shareholders, and retained profits used internally represent an opportunity cost as those funds could have been distributed to owners or invested elsewhere for potentially higher returns."
+            },
             {
               "id": "fin-proc-2020-q14",
               "year": 2020,
@@ -3242,6 +3741,75 @@
           "name": "Influences on human resource management",
           "questions": [
             {
+              "id": "hr-inf-2019-q23a",
+              "year": 2019,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline ONE employer obligation in an employment contract.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly outlines one employer obligation with specific detail."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies and briefly describes an employer obligation."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about employer obligations."
+                }
+              ],
+              "exemplar": "One employer obligation in an employment contract is to provide a safe working environment for employees, in accordance with Work Health and Safety legislation. This includes identifying workplace hazards, conducting risk assessments, providing appropriate training and personal protective equipment, and reporting workplace injuries to ensure the physical and psychological safety of all employees."
+            },
+            {
+              "id": "hr-inf-2019-q23b",
+              "year": 2019,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Distinguish between awards and enterprise agreements.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly distinguishes between awards and enterprise agreements, identifying multiple differences with accurate terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies some differences between awards and enterprise agreements."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about awards or enterprise agreements."
+                }
+              ],
+              "exemplar": "An award is a legally binding document determined by the Fair Work Commission that sets out the minimum wages and conditions for a particular industry or occupation, such as the Restaurant Industry Award. Awards apply automatically to all employers and employees in the relevant industry and operate in conjunction with the ten National Employment Standards.\n\nIn contrast, an enterprise agreement (EA) is a collective agreement negotiated at the workplace level between an employer and its employees, often with union involvement. An EA must provide conditions that pass the Better Off Overall Test (BOOT) compared to the relevant award and is approved by the Fair Work Commission. Unlike awards, EAs are tailored to a specific workplace, expire within four years, and can include flexible arrangements such as productivity-linked pay."
+            },
+            {
+              "id": "hr-inf-2019-q23c",
+              "year": 2019,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Assess the impact of ONE social influence on human resource management.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Makes a clear, well-supported judgement on the impact of one social influence on HRM with detailed analysis."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides features of the impact of one social influence with some judgement."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about a social influence on HRM."
+                }
+              ],
+              "exemplar": "One major social influence on human resource management is changing work patterns, particularly the rise in flexible work arrangements and increased female workforce participation. This influence has significantly impacted HRM in both positive and challenging ways.\n\nPositively, HR managers have adapted by introducing flexible arrangements such as part-time roles, job-sharing, working-from-home options and compressed work weeks. Businesses such as Westpac have implemented family-friendly policies including paid parental leave and on-site childcare, which improve employee retention, attract diverse talent and boost productivity through enhanced work-life balance.\n\nHowever, the impact also creates challenges including increased compliance costs with legislation such as the Fair Work Act 2009 regarding parental leave entitlements, the administrative complexity of managing varied work schedules, and the need to redesign performance management systems for remote workers.\n\nOverall, this social influence has substantially reshaped HRM by requiring strategic, proactive responses, and businesses that adapt effectively gain a competitive advantage in attracting and retaining skilled staff."
+            },
+            {
               "id": "hr-infl-2020-q12",
               "year": 2020,
               "type": "mcq",
@@ -3747,6 +4315,30 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-fin-2019-q25",
+              "year": 2019,
+              "type": "report",
+              "marks": 20,
+              "prompt": "A business, Roo's Outback Eatery Pty Ltd, is opening an additional restaurant in NSW. They plan to position the restaurant as an exclusive restaurant specialising in modern Australian food with quality customer service. The owners require assistance with the following: the acquisition and development of suitable staff; additional funds for the day-to-day running of the business; the close monitoring of working capital. You have been hired as a consultant to write a report for the owners. In your report: discuss methods this business could use in the acquisition and development of staff; recommend TWO appropriate working capital management strategies for this business.",
+              "stimulus": "Roo's Outback Eatery Pty Ltd is opening an additional NSW restaurant positioned as exclusive, specialising in modern Australian food with quality customer service. The owners need help with acquisition and development of staff, additional day-to-day running funds, and close working capital monitoring.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Presents a sustained, logical business report integrating extensive HRM and finance knowledge, providing detailed discussion of staff acquisition and development methods and detailed reasoned recommendations for two working capital strategies, with strong application to Roo's Outback Eatery."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Presents a coherent report with relevant HRM and finance content, including some discussion of acquisition/development and at least one working capital strategy, with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides limited information about HRM or finance with basic terminology and limited report structure."
+                }
+              ],
+              "exemplar": "TO: The Owners, Roo's Outback Eatery Pty Ltd\nFROM: HSC Business Consultant\nRE: HRM and Working Capital Strategies for NSW Expansion\nDATE: 15 October 2019\n\n1. EXECUTIVE SUMMARY\nThis report addresses two strategic priorities for the new NSW restaurant: methods for acquiring and developing suitable staff to deliver quality customer service, and two working capital management strategies to ensure day-to-day liquidity. Recommendations focus on aligning HR and finance functions with the exclusive positioning of the brand.\n\n2. ACQUISITION AND DEVELOPMENT OF STAFF\n\n2.1 Job Analysis and Design\nAcquisition begins with clearly defined roles. Roo's must develop job analyses for positions such as head chef, sous chef, sommelier and front-of-house staff, identifying the specific skills required to deliver modern Australian fine dining. Job design should incorporate job enrichment, giving senior staff autonomy over menu creation and service standards, which is consistent with the exclusive positioning.\n\n2.2 Recruitment\nRecruitment can be internal or external. For specialist roles such as head chef, external recruitment through industry-specific channels (Seek Hospitality, executive search firms) is appropriate to attract talent with fine-dining experience comparable to that found at restaurants such as Quay or Attica. Internal recruitment of existing high-performing staff to leadership positions in the new restaurant builds loyalty and preserves brand culture. A blended approach is recommended.\n\n2.3 Selection\nGiven the exclusive positioning, selection must be rigorous, including structured interviews, practical cooking trials, reference checks and psychometric testing for customer service roles. This minimises the risk of poor hires, which would damage the brand experience.\n\n2.4 Training and Development\nInduction training should cover menu philosophy, native Australian ingredients, allergen management and customer service standards. Ongoing development through mentoring with the head chef, sponsorship for sommelier certification, and cross-training between front-of-house and kitchen builds a multi-skilled workforce. Investing in development also reduces turnover, a critical issue in hospitality where industry turnover exceeds 50% annually.\n\n2.5 Performance Management\nA developmental performance management approach using regular feedback, customer service metrics and goal-setting maintains quality. Linking performance to non-financial rewards such as recognition and training opportunities supports an engaged workforce.\n\n3. WORKING CAPITAL MANAGEMENT STRATEGIES\n\nWorking capital is the difference between current assets and current liabilities, representing the funds available for day-to-day operations. Effective management is essential for a new restaurant facing high cash demands.\n\n3.1 Recommendation 1: Control of Inventory using Just-In-Time (JIT)\nRestaurants typically tie up cash in perishable food inventory that risks spoilage. By implementing a Just-In-Time approach with daily deliveries of fresh produce, seafood and meats from local suppliers (consistent with the modern Australian theme), Roo's reduces inventory holding costs, minimises wastage and frees cash for other operating needs. This strategy is widely used in fine-dining establishments such as those operated by the Merivale group.\n\n3.2 Recommendation 2: Control of Accounts Payable through Trade Credit Negotiation\nRoo's should negotiate extended payment terms (e.g. net 30 or net 45 days) with key suppliers, while customers pay immediately by card. This creates a positive working capital cycle where cash is received before it must be paid out, improving liquidity for daily operations such as wages and utilities. Taking advantage of supplier discounts for early payment should be done selectively when cash flow permits.\n\n4. CONCLUSION\nBy combining rigorous recruitment, strong selection, comprehensive training and developmental performance management, Roo's can build the high-quality team required for its exclusive positioning. Pairing this with JIT inventory control and disciplined accounts payable management will ensure adequate day-to-day funds, protecting both profitability and the brand experience.\n\nPrepared by HSC Business Consultant"
+            },
+            {
               "id": "hr-proc-2020-q21b",
               "year": 2020,
               "type": "short",
@@ -3974,6 +4566,36 @@
           "name": "Strategies in human resource management",
           "questions": [
             {
+              "id": "hr-strat-2019-q10",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is the common sequence for resolving workplace disputes?",
+              "options": [
+                "Mediation, negotiation, involvement of courts and tribunals",
+                "Negotiation, mediation, involvement of courts and tribunals",
+                "Involvement of courts and tribunals, negotiation, mediation",
+                "Negotiation, involvement of courts and tribunals, mediation"
+              ],
+              "correct": "B",
+              "explanation": "Dispute resolution begins with informal negotiation between the parties, escalates to mediation involving a neutral third party, and finally to formal involvement of courts and tribunals if unresolved. Beginning with courts skips less costly alternatives."
+            },
+            {
+              "id": "hr-strat-2019-q3",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business in crisis needs to make immediate and timely decisions in order to survive. Which leadership style does a manager of this business need to adopt?",
+              "options": [
+                "Autocratic",
+                "Bureaucratic",
+                "Democratic",
+                "Laissez-faire"
+              ],
+              "correct": "A",
+              "explanation": "Autocratic leadership involves the leader making decisions without consultation, which is essential when immediate, decisive action is required in a crisis. Bureaucratic relies on procedures; democratic and laissez-faire involve consultation that takes too much time in a crisis."
+            },
+            {
               "id": "hr-proc-2020-q3",
               "year": 2020,
               "type": "mcq",
@@ -4162,6 +4784,36 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2019-q17",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the table comparing four businesses (A: absenteeism 8, accidents 4, staff turnover 5, output 10; B: absenteeism 4, accidents 2, staff turnover 2, output 14; C: absenteeism 11, accidents 8, staff turnover 9, output 11; D: absenteeism 10, accidents 5, staff turnover 14, output 14), which business is likely to compromise work safety in return for an increase in output?",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "correct": "D",
+              "explanation": "Business D has high output (14) combined with high accidents (5), high absenteeism (10) and very high staff turnover (14), suggesting safety has been compromised to drive output. Business B achieves high output with low accidents, indicating safe productive practices."
+            },
+            {
+              "id": "hr-eff-2019-q18",
+              "year": 2019,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the table comparing four businesses (A: absenteeism 8, accidents 4, staff turnover 5, output 10; B: absenteeism 4, accidents 2, staff turnover 2, output 14; C: absenteeism 11, accidents 8, staff turnover 9, output 11; D: absenteeism 10, accidents 5, staff turnover 14, output 14), which business is likely to managing its human resources most effectively?",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "correct": "B",
+              "explanation": "Business B has the lowest absenteeism (4), lowest accidents (2), lowest staff turnover (2) and the highest output (14), indicating highly effective human resource management. These indicators reflect engaged, safe and productive employees."
+            },
             {
               "id": "hr-eff-2020-q27",
               "year": 2020,
