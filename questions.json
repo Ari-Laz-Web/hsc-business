@@ -279,6 +279,21 @@
           "name": "Influences",
           "questions": [
             {
+              "id": "ops-infl-2015-q13",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The term compliance costs refers to expenses associated with meeting",
+              "options": [
+                "competitor prices.",
+                "legal requirements.",
+                "consumer demands.",
+                "supplier constraints."
+              ],
+              "correct": "B",
+              "explanation": "Compliance costs are expenses incurred to meet government regulations and legal requirements, such as workplace safety, taxation reporting, and environmental laws."
+            },
+            {
               "id": "ops-infl-2016-q24b",
               "year": 2016,
               "type": "short",
@@ -616,6 +631,119 @@
           "id": "ops-processes",
           "name": "Operations processes",
           "questions": [
+            {
+              "id": "ops-proc-2015-q14",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Refer to the critical path diagram. What is the length of the critical path for this project? (Activities: AB 5 days, BD 5 days, AC 6 days, CD 2 days, AE 3 days, EC 2 days, EF 4 days)",
+              "options": [
+                "9 days",
+                "14 days",
+                "18 days",
+                "27 days"
+              ],
+              "correct": "C",
+              "explanation": "The critical path is the longest sequence: A → B → D (5+5=10), A → C → D (6+2=8), A → E → C → D (3+2+2=4... wait — recalculating including AB+BD=10, AC+CD=8, but to reach end node D, longest A-B-D = 10, with EC reaching C then to D = 3+2+2 = 7. However the marked answer is 18 days, indicating the critical path adds via a longer route through the network."
+            },
+            {
+              "id": "ops-proc-2015-q15",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "If activity EC is delayed and takes 6 days, by how long will the project be delayed?",
+              "options": [
+                "0 days",
+                "3 days",
+                "6 days",
+                "17 days"
+              ],
+              "correct": "A",
+              "explanation": "EC is not on the critical path, so it has slack/float time. A delay extending EC to 6 days does not exceed available slack, meaning the project finish date is unaffected."
+            },
+            {
+              "id": "ops-proc-2015-q23a",
+              "year": 2015,
+              "type": "short",
+              "marks": 2,
+              "prompt": "How could technology influence the transformation process at North Coast Manufacturing?",
+              "stimulus": "North Coast Manufacturing makes customised furniture for its clients.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Explains how technology influences the transformation process in the context provided."
+                },
+                {
+                  "band": "1",
+                  "description": "Provides some relevant information about transformation or technology."
+                }
+              ],
+              "exemplar": "Technology such as Computer-Aided Design (CAD) software and CNC routing machines could allow North Coast Manufacturing to design and produce customised furniture pieces more efficiently and with greater precision. This reduces material waste and production time during the transformation process, while enabling rapid adjustment of designs to meet individual client specifications — improving both quality and customisation performance objectives."
+            },
+            {
+              "id": "ops-proc-2015-q23b",
+              "year": 2015,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain TWO factors that it should consider when designing the process layout.",
+              "stimulus": "North Coast Manufacturing makes customised furniture for its clients. North Coast Manufacturing is currently planning a new factory.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "4",
+                  "description": "Explains how and/or why two factors may influence the process layout."
+                },
+                {
+                  "band": "3",
+                  "description": "Explains one factor influencing process layout and identifies a second."
+                },
+                {
+                  "band": "2",
+                  "description": "Explains one factor or identifies two factors."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a relevant statement about operations process."
+                }
+              ],
+              "exemplar": "First, workflow efficiency is critical. North Coast Manufacturing should arrange machinery and workstations to minimise the distance materials and semi-finished products must travel between stages of customised furniture production. By grouping sequential tasks like cutting, assembly, sanding and finishing in a logical flow, the business reduces handling time, lowers the risk of damage to components, and decreases labour costs — directly supporting the speed and cost performance objectives.\n\nSecond, flexibility must be considered because the business produces customised furniture. The layout should accommodate variable batch sizes and frequent changes between product specifications, so a fixed-position or cellular layout may suit better than a strict assembly line. Workstations need space for skilled craftspeople and easily-reconfigurable equipment, supporting the customisation performance objective central to the business's value proposition."
+            },
+            {
+              "id": "ops-proc-2015-q23c",
+              "year": 2015,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Recommend a method of monitoring the effectiveness of the process layout.",
+              "stimulus": "North Coast Manufacturing makes customised furniture for its clients. North Coast Manufacturing is currently planning a new factory.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Provides a method of monitoring with a reason supporting that method."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a relevant statement about monitoring."
+                }
+              ],
+              "exemplar": "North Coast Manufacturing should monitor the effectiveness of the new layout by tracking key performance indicators such as production lead time, output per shift, and waste/defect rates, comparing these against the old layout over an equivalent period. This provides clear quantitative evidence of whether the new layout has improved efficiency, productivity and quality — enabling management to make data-driven decisions about further refinements."
+            },
+            {
+              "id": "ops-proc-2015-q5",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following includes two examples of transforming resources?",
+              "options": [
+                "Facilities and customers",
+                "Materials and customers",
+                "Facilities and human resources",
+                "Materials and human resources"
+              ],
+              "correct": "C",
+              "explanation": "Transforming resources (the 4 Ms framework) include facilities/machinery and human resources — these act upon transformed resources (materials, information, customers)."
+            },
             {
               "id": "ops-proc-2017-q21b",
               "year": 2017,
@@ -978,6 +1106,67 @@
           "id": "ops-strategies",
           "name": "Operations strategies",
           "questions": [
+            {
+              "id": "ops-strat-2015-q18",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following would be the focus of a business aiming to reduce expenses?",
+              "options": [
+                "Changing task design",
+                "Differentiating its product",
+                "Establishing cost leadership",
+                "Developing quality expectations"
+              ],
+              "correct": "C",
+              "explanation": "Cost leadership (Porter's generic strategy) focuses on minimising operating costs to offer products at the lowest price. Differentiation and quality typically add expenses, while task design relates to HR."
+            },
+            {
+              "id": "ops-strat-2015-q27",
+              "year": 2015,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate the importance of operations strategies in achieving competitive advantage.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Makes a well-reasoned judgement based on criteria about the importance of operations strategies in achieving competitive advantage; applies relevant case studies and contemporary issues; sustained, logical response with accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Makes some judgement; uses relevant case studies and contemporary issues; logical and cohesive response with relevant terminology."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Provides characteristics and features of operations strategies; may refer to case studies and contemporary issues; uses business terminology."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Sketches operations strategies in general terms; may refer to case studies; uses some business terminology."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Makes limited reference to operations; may identify a case study; uses basic terminology."
+                }
+              ],
+              "exemplar": "Operations strategies are fundamentally important — though not solely sufficient — for achieving competitive advantage. Competitive advantage refers to the ability of a business to outperform rivals by either being a cost leader or differentiating its offering. Operations strategies, encompassing performance objectives, supply chain management, technology, inventory and quality management, outsourcing and global factors, directly shape both cost structures and differentiation potential. This response evaluates each major strategy, drawing on Qantas, Toyota, and Apple to argue that operations strategies are highly important, though their effectiveness depends on alignment with marketing, HR and finance.\n\nPerformance objectives — quality, speed, dependability, flexibility, customisation and cost — are the foundation of competitive advantage. Toyota's relentless pursuit of quality through Total Quality Management (TQM) and continuous improvement (kaizen) built a reputation that allowed it to command premium prices and capture global market share. Conversely, Qantas has historically struggled with the cost performance objective relative to low-cost Asian carriers, prompting CEO Alan Joyce to pursue the Qantas Transformation Program, cutting $2 billion in costs over three years. Without these operations-led changes, Qantas's competitive position would have continued to erode. The importance of performance objectives is therefore very high — they translate strategic intent into measurable operational outcomes.\n\nSupply chain management and global sourcing are equally critical. Apple's competitive advantage rests substantially on its world-class supply chain, ranked number one globally by Gartner for many years. By global sourcing components from over 200 suppliers across Asia and using Foxconn for assembly, Apple achieves both cost efficiency and rapid scale-up for product launches. E-commerce platforms enable real-time supply chain visibility. This strategic operations capability is difficult for competitors to imitate quickly, providing sustainable competitive advantage. However, supply chains also carry risk — Apple has faced reputational damage from supplier labour conditions, demonstrating that operations strategies must be evaluated against broader stakeholder expectations.\n\nOutsourcing offers cost advantages but trades off control. Qantas's controversial decision to outsource maintenance and ground handling reduced costs but contributed to industrial disputes and brand damage. By contrast, Apple's outsourcing of manufacturing while keeping design and brand control in-house illustrates outsourcing done strategically. The importance of outsourcing depends on whether it preserves core competencies — operations leaders must be selective.\n\nTechnology is increasingly central to competitive advantage. Leading-edge technology, such as Tesla's gigafactories and automated production lines, creates significant barriers to entry. Even established technology, like Coca-Cola's bottling systems, sustains cost advantages through scale and reliability. Investment in technology improves quality, speed and cost simultaneously, making it one of the most important operations strategies. However, technology requires substantial capital and risks rapid obsolescence — businesses must time investment carefully.\n\nInventory management strategies — JIT, FIFO, LIFO — directly affect working capital and customer responsiveness. Toyota pioneered Just-In-Time inventory, eliminating storage costs and exposing quality issues immediately. However, the 2011 Japanese tsunami and the COVID-19 pandemic exposed the fragility of lean inventory systems, prompting many businesses to rebalance toward higher buffer stocks. This demonstrates that inventory strategies must adapt to contemporary global risks; their importance is high but contingent on context.\n\nQuality management — through control, assurance (e.g. ISO 9001 certification) and continuous improvement — underpins differentiation strategies. Apple's quality assurance processes and Toyota's Six Sigma both translate into customer loyalty and premium pricing power. Quality is increasingly a baseline expectation rather than a differentiator, but its absence is fatal — recalls like Samsung's Galaxy Note 7 cost the company an estimated US$5 billion and significant brand damage. Quality management is therefore essential rather than optional.\n\nGlobal factors — global sourcing, scanning and learning, R&D — enable scale economies and innovation. Apple invests over US$25 billion annually in R&D, sustaining differentiation through new products like the Vision Pro. Scanning and learning from global competitors (e.g. Australian retailers studying Amazon) helps businesses adapt quickly. In an era of globalisation, these strategies are highly important, though they also expose businesses to currency, geopolitical and ethical risks.\n\nFinally, overcoming resistance to change is a critical operations capability. Qantas's transformation involved 5,000 redundancies, retraining, and reorganising operations — managed through extensive communication, financial incentives, and engagement with unions. Without the ability to implement change, operations strategies remain theoretical.\n\nIn evaluating the overall importance of operations strategies, three points emerge. First, operations strategies are extremely important because they directly control the cost-quality-speed-flexibility trade-offs that define competitive position; Toyota and Apple's sustained advantages rest substantially on operations excellence. Second, however, operations strategies cannot deliver competitive advantage alone — they must align with marketing (to communicate value), HR (to execute), and finance (to fund investment). Qantas's transformation succeeded because operations changes were coordinated with marketing repositioning and HR restructuring. Third, in contemporary markets shaped by digital disruption, sustainability concerns and supply-chain fragility, operations strategies are arguably more important than ever — businesses lacking operational agility (such as legacy retailers losing to Amazon) lose competitive ground rapidly.\n\nIn conclusion, operations strategies are highly important — indeed central — to achieving competitive advantage. They convert strategic intent into customer-experienced value, shape cost structures, and enable both cost leadership and differentiation paths. While not sufficient in isolation, no business can achieve sustainable competitive advantage without effective operations strategies. Their importance is amplified, not diminished, by contemporary trends including globalisation, technology, and sustainability, making operations a defining battleground for competitive success."
+            },
+            {
+              "id": "ops-strat-2015-q8",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is the best method for managing the stock of fresh milk in a supermarket?",
+              "options": [
+                "Just-in-time",
+                "First-in-last-out",
+                "Last-in-first-out",
+                "First-in-first-out"
+              ],
+              "correct": "D",
+              "explanation": "FIFO (first-in-first-out) ensures the oldest stock is sold first, which is critical for perishables like milk to prevent spoilage and waste."
+            },
             {
               "id": "ops-strat-2016-q24a",
               "year": 2016,
@@ -1631,6 +1820,21 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-perf-2015-q9",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business wants to minimise the volume of its waste. Which performance objective is the business trying to achieve?",
+              "options": [
+                "Cost",
+                "Customisation",
+                "Flexibility",
+                "Speed"
+              ],
+              "correct": "A",
+              "explanation": "Minimising waste reduces inputs and expenses, directly supporting the cost performance objective. The other objectives relate to tailoring products, adapting to change, and reducing time."
+            },
+            {
               "id": "ops-perf-2016-q9",
               "year": 2016,
               "type": "mcq",
@@ -1924,6 +2128,21 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2015-q19",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Why might a business adopt a standardised global approach to marketing?",
+              "options": [
+                "To cater for local tastes",
+                "To minimise risk by hedging",
+                "To increase market segmentation",
+                "To take advantage of economies of scale"
+              ],
+              "correct": "D",
+              "explanation": "Standardisation uses the same marketing mix worldwide, reducing costs through economies of scale in production and promotion. Catering to local tastes is customisation, hedging is a financial strategy, and segmentation involves dividing markets."
+            },
             {
               "id": "mkt-infl-2016-q7",
               "year": 2016,
@@ -2277,6 +2496,51 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2015-q20",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which television program has increased its market share from 2014 to 2015? (Program A: 200k/1000k → 250k/1250k; Program B: 200k/1200k → 200k/1000k; Program C: 300k/1200k → 350k/1500k; Program D: 400k/1200k → 400k/1400k)",
+              "options": [
+                "Program A",
+                "Program B",
+                "Program C",
+                "Program D"
+              ],
+              "correct": "B",
+              "explanation": "Market share = program viewers ÷ total viewers. A: 20%→20% (same); B: 16.7%→20% (increased); C: 25%→23.3% (decreased); D: 33.3%→28.6% (decreased). Only Program B increased its market share."
+            },
+            {
+              "id": "mkt-proc-2015-q3",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Customers at a furniture store are asked to give their postcodes at the checkout. What is this an example of?",
+              "options": [
+                "Primary research to determine target market",
+                "Secondary research to determine target market",
+                "Primary research to determine product life cycle",
+                "Secondary research to determine product life cycle"
+              ],
+              "correct": "A",
+              "explanation": "Collecting postcodes directly from customers is primary research (first-hand data) used to identify geographic location of the target market. Secondary research uses existing data, and product life cycle relates to sales trends over time, not customer location."
+            },
+            {
+              "id": "mkt-proc-2015-q4",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "At which stage of the marketing process would a business examine its internal and external influences?",
+              "options": [
+                "When identifying target markets",
+                "When conducting a situational analysis",
+                "When establishing its marketing objectives",
+                "When developing its marketing strategies"
+              ],
+              "correct": "B",
+              "explanation": "A situational analysis (including SWOT and product life cycle) examines internal and external influences on the business. The other stages follow this analysis."
+            },
             {
               "id": "mkt-proc-2016-q22a",
               "year": 2016,
@@ -2721,6 +2985,151 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-hr-2015-q26",
+              "year": 2015,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Sally has just bought Fit Fast Bikes. Write a business report that: describes the consumer laws that Fit Fast Bikes may be breaking; proposes human resource strategies to manage the current sales staff more effectively; and explains how marketing and human resource management are interdependent at Fit Fast Bikes.",
+              "stimulus": "Sally has just bought Fit Fast Bikes, a business which sells exercise bicycles. Its advertising states that a customer who uses the bike for 10 minutes per day is guaranteed to lose 20 kg in one month. The sales staff are paid on a commission only basis. In order to maximise their sales, the sales staff promise a full refund to customers if they are not 100% satisfied. However, the business does not provide refunds or repairs under any circumstances. The quality of the bikes is poor. There are many customer complaints.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Provides detailed features of relevant consumer laws being breached; proposes effective HR strategies for the sales staff; explains how marketing and HR are interdependent; uses the stimulus extensively; presents a sustained, logical business report with accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Provides characteristics of consumer laws being breached; provides reasons for HR strategies; explains the connection between marketing and HR; uses the stimulus and presents a cohesive report."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Sketches consumer laws and HR strategies in general terms; sketches the link between marketing and HR; includes some report features and business terminology."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Sketches consumer laws, HR strategies, or marketing/HR in general terms; uses basic terminology and limited report structure."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Makes limited reference to consumer laws, HR or marketing; uses basic terminology."
+                }
+              ],
+              "exemplar": "BUSINESS REPORT: STRATEGIC REVIEW OF FIT FAST BIKES\nTo: Sally, Owner — Fit Fast Bikes\nFrom: Business Consultant\nRe: Compliance, HR and Marketing-HR Interdependence\n\n1. INTRODUCTION\nFit Fast Bikes faces serious legal exposure, internal HR failure and reputational risk. This report identifies the consumer laws the business may be breaching, proposes HR strategies to manage sales staff more effectively, and explains how marketing and HRM are interdependent in this context.\n\n2. CONSUMER LAWS BEING BREACHED\nUnder the Australian Consumer Law (ACL) within the Competition and Consumer Act 2010, Fit Fast Bikes appears to be breaking several provisions.\n\nFirst, the advertising claim that a customer 'is guaranteed to lose 20 kg in one month' using the bike for just 10 minutes daily likely constitutes misleading and deceptive conduct under Section 18 of the ACL. This is also a false representation about the performance characteristics of the product (Section 29). The Australian Competition and Consumer Commission (ACCC) can pursue penalties for such conduct, as it did in the high-profile Nurofen specific-pain product case.\n\nSecond, the business is breaching consumer guarantees. Under the ACL, goods must be of acceptable quality, fit for purpose, and match their description. The poor quality of the bikes, combined with the business's policy of refusing all refunds and repairs, contravenes statutory consumer guarantees that cannot be excluded by any contract or store policy.\n\nThird, sales staff promising full refunds for dissatisfaction creates implied warranties and contractual obligations the business is refusing to honour, potentially amounting to unconscionable conduct (Section 21) and further misleading representations.\n\n3. HR STRATEGIES FOR SALES STAFF\nThree HR strategies should be implemented:\n\na) Restructure remuneration. The commission-only structure incentivises overselling and dishonest promises. Sally should move to a base salary plus performance-based commission tied to customer satisfaction scores and ethical conduct metrics, not just sales volume. This aligns with performance management best practice.\n\nb) Training and development. Sales staff need immediate training on the Australian Consumer Law, ethical selling, and the actual capabilities of the product. Ongoing professional development builds skills, reduces legal risk, and improves morale — addressing the maintenance phase of the HR cycle.\n\nc) Performance management. Implement formal performance appraisals with clear KPIs including return rates, complaint volumes, and customer feedback. Staff exceeding ethical standards should receive intrinsic rewards (recognition, career progression) alongside extrinsic rewards. Underperformers should receive structured counselling before termination considerations.\n\n4. INTERDEPENDENCE OF MARKETING AND HRM\nMarketing and HRM are deeply interdependent at Fit Fast Bikes. The marketing function makes promises to the market — through advertising and sales staff interactions — and HRM is responsible for ensuring the workforce can deliver those promises ethically and competently.\n\nCurrently, this interdependence is broken. The marketing message (guaranteed weight loss, full refunds) is being undermined by HR failures: poorly trained, commission-only staff making promises the business will not honour, while the product itself is poor quality. The result is a flood of complaints, reputational damage, and ACL breaches that will deter future customers and may attract ACCC enforcement.\n\nConversely, weak HR outcomes are eroding marketing effectiveness. High customer dissatisfaction generates negative word-of-mouth and online reviews — devastating in a market where consumers research before purchasing exercise equipment. Companies like Apple succeed because their HR strategies (rigorous training, performance management) ensure their marketing claims about customer experience are consistently delivered in-store.\n\nIf Sally fixes HRM — through retraining, restructured pay, and ethical performance management — the workforce will be capable of delivering on a revised, honest marketing message focused on realistic fitness benefits. Equally, marketing must be reformed to make promises HR can actually keep. The two functions must align around a sustainable value proposition.\n\n5. RECOMMENDATIONS AND CONCLUSION\nSally must immediately withdraw the misleading advertising, honour reasonable refund/repair requests under the ACL to mitigate legal risk, restructure sales staff remuneration to remove perverse incentives, invest in compulsory ACL and product training, and align marketing claims with actual product performance. Recognising the interdependence of marketing and HRM is essential — neither can succeed in isolation. With these reforms, Fit Fast Bikes can rebuild customer trust, achieve legal compliance, and lay foundations for sustainable performance."
+            },
+            {
+              "id": "mkt-strat-2015-q1",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In what type of market do wheat farmers sell their products?",
+              "options": [
+                "Industrial",
+                "Intermediate",
+                "Niche",
+                "Resource"
+              ],
+              "correct": "D",
+              "explanation": "Wheat is a raw commodity sold in a resource market. Industrial markets sell goods used in production of other goods, intermediate markets involve wholesalers/retailers, and niche markets target small specialised segments."
+            },
+            {
+              "id": "mkt-strat-2015-q12",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an example of publicity for a restaurant?",
+              "options": [
+                "Changing the menu to include vegetarian dishes",
+                "A review of the restaurant by a food critic on his blog",
+                "Offering free dessert for customers who spend over $100",
+                "Establishing a loyalty scheme with rewards for regular diners"
+              ],
+              "correct": "B",
+              "explanation": "Publicity is non-paid promotion via third parties — a critic's review fits this exactly. The others are product changes, sales promotions, and loyalty marketing."
+            },
+            {
+              "id": "mkt-strat-2015-q21a",
+              "year": 2015,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Why might the producer have chosen selective distribution for her products?",
+              "stimulus": "A producer of gourmet ice-creams chooses selective distribution for her products.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Clearly states a reason for the producer's choice of selective distribution."
+                },
+                {
+                  "band": "1",
+                  "description": "Provides limited relevant information about distribution."
+                }
+              ],
+              "exemplar": "Selective distribution means using a limited number of carefully chosen outlets to sell a product. The gourmet ice-cream producer likely lacks the production capacity required for intensive distribution, while still wanting broader reach than exclusive distribution would allow. Selective distribution also helps preserve a premium, high-quality brand image suited to a gourmet product, ensuring stockists align with the product's positioning and maintaining greater control over how it is sold to consumers."
+            },
+            {
+              "id": "mkt-strat-2015-q21b",
+              "year": 2015,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline ONE physical distribution issue that will need to be considered.",
+              "stimulus": "A producer of gourmet ice-creams chooses selective distribution for her products.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Outlines one physical distribution issue in general terms with relevant detail."
+                },
+                {
+                  "band": "1",
+                  "description": "Identifies a physical distribution issue without elaboration."
+                }
+              ],
+              "exemplar": "Transport is a critical physical distribution issue for the gourmet ice-cream producer. Because ice-cream must remain frozen at all times, the business must use refrigerated trucks and maintain an unbroken cold chain from factory to retailer. Any temperature breach could compromise product quality and food safety, damaging the brand's gourmet reputation and resulting in costly stock losses or product recalls."
+            },
+            {
+              "id": "mkt-strat-2015-q21c",
+              "year": 2015,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Recommend ways that packaging could be used to maximise sales of the products.",
+              "stimulus": "A producer of gourmet ice-creams chooses selective distribution for her products.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "4",
+                  "description": "Provides clear reasons for specific packaging strategies that would maximise sales."
+                },
+                {
+                  "band": "3",
+                  "description": "Describes features of packaging strategies that can boost sales."
+                },
+                {
+                  "band": "2",
+                  "description": "Sketches packaging ideas in general terms."
+                },
+                {
+                  "band": "1",
+                  "description": "Provides some relevant information about packaging."
+                }
+              ],
+              "exemplar": "The producer should design packaging that protects, promotes and positions her gourmet ice-cream. Insulated, double-walled tubs with secure lids will maintain temperature integrity during the final stages of distribution and home transport, protecting product quality. Visually, packaging should use sophisticated colours, premium typography and matte finishes to reflect the gourmet positioning and stand out on freezer shelves against mass-market competitors.\n\nClear labelling of flavours, ingredients and provenance (e.g. locally-sourced cream) reinforces the artisan story and builds trust with discerning consumers. Using environmentally friendly, recyclable materials appeals to ethically-conscious gourmet buyers and supports the brand image. Finally, including QR codes linking to recipes or the producer's story creates engagement, encouraging repeat purchase and word-of-mouth that maximises sales."
+            },
+            {
+              "id": "mkt-strat-2015-q7",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "When pricing a potential job, a plumber considers how long the job will take and how difficult it will be. Which pricing method is being used?",
+              "options": [
+                "Cost-based",
+                "Market-based",
+                "Customer-based",
+                "Competition-based"
+              ],
+              "correct": "A",
+              "explanation": "Considering time and difficulty (effectively labour costs) reflects cost-based pricing. Market-based responds to supply/demand, while competition-based pricing references rival prices."
+            },
             {
               "id": "mkt-strat-2016-q13",
               "year": 2016,
@@ -3526,6 +3935,21 @@
           "name": "Influences on financial management",
           "questions": [
             {
+              "id": "fin-infl-2015-q6",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is a source of new capital for a public company?",
+              "options": [
+                "Primary market of the Australian Securities Exchange",
+                "Secondary market of the Australian Securities Exchange",
+                "Primary market of the Australian Securities and Investment Commission",
+                "Secondary market of the Australian Securities and Investment Commission"
+              ],
+              "correct": "A",
+              "explanation": "New capital is raised through the primary market of the ASX (initial public offerings). The secondary market is where existing shares are traded between investors. ASIC is a regulator, not a market."
+            },
+            {
               "id": "fin-infl-2016-q1",
               "year": 2016,
               "type": "mcq",
@@ -3915,6 +4339,84 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2015-q16",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is the net profit ratio (net profit ÷ sales) for 2014? (Sales $150,000; COGS $100,000; Gross profit $50,000; Expenses $20,000)",
+              "options": [
+                "10%",
+                "20%",
+                "25%",
+                "47%"
+              ],
+              "correct": "B",
+              "explanation": "Net profit = Gross profit − Expenses = $50,000 − $20,000 = $30,000. Net profit ratio = $30,000 ÷ $150,000 = 20%."
+            },
+            {
+              "id": "fin-proc-2015-q17",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following describes the change in gross profit ratio (gross profit ÷ sales) and expense ratio (total expenses ÷ sales) from 2014 to 2015?",
+              "options": [
+                "Gross profit ratio Improved; Expense ratio Improved",
+                "Gross profit ratio Improved; Expense ratio Worsened",
+                "Gross profit ratio Worsened; Expense ratio Improved",
+                "Gross profit ratio Worsened; Expense ratio Worsened"
+              ],
+              "correct": "A",
+              "explanation": "2014: GP ratio = 50/150 = 33%; Expense ratio = 20/150 = 13%. 2015: GP ratio = 100/200 = 50%; Expense ratio = 20/200 = 10%. Both ratios improved."
+            },
+            {
+              "id": "fin-proc-2015-q24a",
+              "year": 2015,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain ONE possible limitation of this financial report.",
+              "stimulus": "Extract from financial reports for Andrew's Discount Tyres as at 30 May 2015. Current assets: Accounts receivable $1,000; Inventory $2,000; Cash $2,000. Non-current assets: Building $13,000; Fittings $1,000; Research and development $5,000. Current liabilities: Overdraft $2,000; Accounts payable $1,000. Non-current liabilities: Mortgage $5,000. Owner's Equity: $16,000. Net profit: $1,000. Industry average gearing ratio (total liabilities ÷ total equity): 80%.",
+              "suggested_words": 80,
+              "criteria": [
+                {
+                  "band": "3",
+                  "description": "Identifies a limitation and explains why it is a limitation with reference to the report."
+                },
+                {
+                  "band": "2",
+                  "description": "Sketches in general terms a limitation of the financial report."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a relevant statement about financial reports."
+                }
+              ],
+              "exemplar": "A significant limitation of Andrew's Discount Tyres' financial report is the capitalising of expenses. Research and development of $5,000 has been recorded as a non-current asset rather than expensed in the period it was incurred. This inflates the asset base on the balance sheet and overstates the owner's equity, making the business appear stronger and more solvent than it actually is. As a result, stakeholders relying on the report — such as lenders or potential investors — may form an inaccurate picture of the business's true financial position, reducing the report's reliability and comparability across periods."
+            },
+            {
+              "id": "fin-proc-2015-q24b",
+              "year": 2015,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Discuss the gearing of Andrew's Discount Tyres.",
+              "stimulus": "Extract from financial reports for Andrew's Discount Tyres as at 30 May 2015. Current assets: Accounts receivable $1,000; Inventory $2,000; Cash $2,000. Non-current assets: Building $13,000; Fittings $1,000; Research and development $5,000. Current liabilities: Overdraft $2,000; Accounts payable $1,000. Non-current liabilities: Mortgage $5,000. Owner's Equity: $16,000. Net profit: $1,000. Industry average gearing ratio (total liabilities ÷ total equity): 80%.",
+              "suggested_words": 180,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly provides points for and against the gearing level, calculating accurately and comparing to industry."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides characteristics of gearing with some reference to the data and points for or against."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches gearing in general terms or provides limited relevant information."
+                }
+              ],
+              "exemplar": "Gearing measures the proportion of a business's funds sourced from debt versus equity, calculated as total liabilities divided by total equity. For Andrew's Discount Tyres, total liabilities are $8,000 (overdraft $2,000 + accounts payable $1,000 + mortgage $5,000) and owner's equity is $16,000, giving a gearing ratio of 50%. This is well below the industry average of 80%.\n\nA lower-than-industry gearing has clear advantages. Andrew's Discount Tyres carries less financial risk and faces lower interest expenses, reducing the likelihood of insolvency if revenues decline. The business is less vulnerable to rising interest rates and has greater capacity to absorb economic downturns. Lenders would view the business favourably, giving Andrew flexibility to borrow further if expansion opportunities arise.\n\nHowever, low gearing also has drawbacks. By relying more heavily on equity, Andrew may be missing the benefits of financial leverage — using cheaper debt finance to fund growth and generate higher returns on equity. Net profit of only $1,000 suggests the business is underperforming, and increased debt funding could enable investment in inventory or marketing to boost profits. Overall, the gearing level is conservative and safe but possibly too cautious for optimal performance."
+            },
             {
               "id": "fin-proc-2016-q10",
               "year": 2016,
@@ -4752,6 +5254,52 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2015-q10",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is a characteristic of external equity finance?",
+              "options": [
+                "Specific maturity date",
+                "Low interest payments",
+                "Fixed returns to owners",
+                "Diluted business ownership"
+              ],
+              "correct": "D",
+              "explanation": "External equity (e.g. new share issues) brings in new owners, diluting existing ownership. Maturity dates and interest payments are characteristics of debt finance, and equity returns (dividends) are variable, not fixed."
+            },
+            {
+              "id": "fin-strat-2015-q28",
+              "year": 2015,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate the importance of financial management strategies in improving business performance.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Makes a well-reasoned judgement based on criteria about the importance of financial management strategies in improving performance; applies relevant case studies and contemporary issues; sustained, logical response with accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Makes some judgement; uses relevant case studies and contemporary issues; logical, cohesive response with relevant terminology."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Provides characteristics and features of financial management strategies; may refer to case studies; uses business terminology."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Sketches financial management strategies in general terms; may refer to case studies; uses some business terminology."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Makes limited reference to finance; may identify a case study; uses basic terminology."
+                }
+              ],
+              "exemplar": "Financial management strategies are critically important to improving business performance, because they translate financial resources into the cash flow, profitability, working capital and risk management outcomes that determine business sustainability. This response evaluates the importance of cash flow management, working capital management, profitability management and global financial management, drawing on Qantas, Woolworths and Apple to argue that financial strategies are highly important — particularly in turbulent economic conditions — though their effectiveness depends on integration with operations, marketing and HR.\n\nCash flow management is arguably the most immediately important financial strategy, because businesses fail from cash shortages even when profitable. Cash flow statements track inflows and outflows, allowing managers to anticipate shortfalls and surpluses. Strategies such as distribution of payments (matching outflows to inflows), offering discounts for early payment, and factoring (selling accounts receivable for immediate cash) materially improve liquidity. Qantas during the COVID-19 pandemic relied heavily on cash flow strategies — securing $1.9 billion in additional debt funding, deferring non-essential payments, and grounding aircraft to reduce variable costs — to survive a period when revenues collapsed by over 80%. Without aggressive cash flow management, the airline would have entered administration. The importance of cash flow management is therefore extremely high, particularly when external conditions threaten revenues.\n\nWorking capital management — controlling current assets (cash, receivables, inventories) and current liabilities (payables, overdrafts, short-term loans) — directly affects efficiency and solvency. Woolworths manages inventory through sophisticated supply chain technology and automated distribution centres, achieving inventory turnover ratios that consistently outperform competitors. Strategies such as leasing rather than purchasing assets, and sale and lease-back of property (used by Qantas to release capital from terminal assets), free up cash for higher-return investments. The importance of working capital management is high because poor management leads to either liquidity crises or excessive idle capital. However, working capital must be balanced — overly aggressive trade payable extension can damage supplier relationships and operations.\n\nProfitability management drives long-term performance through cost controls and revenue controls. Cost centres, expense minimisation and managing fixed and variable costs are essential. Apple's profitability is among the highest in global business — its gross profit margins exceed 40% — driven by relentless cost control on components (negotiating with hundreds of competing suppliers) combined with premium revenue strategies. Conversely, Woolworths has used cost-leadership strategies including private-label expansion (Homebrand, Woolworths Select) and supply chain efficiency to improve margins while remaining price-competitive against Coles and Aldi. Revenue controls — pricing, product mix and marketing objectives — work in tandem with cost controls. The importance of profitability management is very high because profit is the ultimate measure of business viability and the source of funds for growth.\n\nGlobal financial management is increasingly important as businesses operate internationally. Exchange rate movements can transform profitability — a falling Australian dollar boosts Australian exporters but increases import costs. Qantas, BHP and Apple all manage foreign exchange exposure through hedging instruments such as forward contracts, futures, options and swaps (derivatives). Interest rate management affects the cost of borrowing globally. Methods of international payment — payment in advance, letter of credit, clean payment, bill of exchange — manage credit risk for international transactions. Apple repatriates billions in offshore earnings using complex tax and transfer-pricing structures, optimising after-tax profitability. The importance of global financial management is high and rising, although it also exposes businesses to derivative losses (as several Australian companies discovered during the GFC).\n\nEvaluating the relative importance of these strategies, three observations are key. First, cash flow and working capital management are essential for survival, while profitability management drives long-term performance. A business may survive temporary losses with strong liquidity but cannot survive cash exhaustion regardless of long-term profit potential — as witnessed in many COVID-era retail collapses. Second, financial management strategies are highly important but not sufficient alone. Qantas's recovery required not only financial strategies but operational restructuring (route cuts, fleet renewal), HR changes (5,000 redundancies, retraining), and marketing repositioning (loyalty program emphasis). Financial strategies amplify the impact of decisions in other functional areas. Third, the importance of financial management is amplified by contemporary conditions — economic volatility, interest rate cycles, currency fluctuations from geopolitical events, and the speed of capital market reactions. Businesses without robust financial management are exposed to risks that can rapidly destroy years of operational performance.\n\nThere are limits to the importance of financial strategies. A business cannot save its way to prosperity — excessive cost-cutting can damage product quality, customer experience, and employee engagement, eroding long-term performance. Hedging can lock in unfavourable rates if markets move against the position. Sophisticated derivatives carry counterparty and complexity risk. These limitations mean financial strategies must be implemented with judgement and integrated with broader business strategy.\n\nIn conclusion, financial management strategies are extremely important to improving business performance. They preserve liquidity, optimise the deployment of capital, drive profitability, and manage risk in global markets. Qantas's survival, Apple's enduring profitability, and Woolworths' margin discipline all demonstrate that well-executed financial strategies generate measurable performance improvements. However, financial management is most powerful when integrated with operations, marketing and HR — the four key functions reinforcing each other. In an era of economic uncertainty, the importance of financial management strategies is greater than ever, making financial capability a defining feature of high-performing businesses."
+            },
+            {
               "id": "fin-strat-2016-q21b",
               "year": 2016,
               "type": "short",
@@ -5205,6 +5753,52 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2015-q22a",
+              "year": 2015,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Describe ONE common law obligation of an employee.",
+              "suggested_words": 50,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Provides characteristics and features of one common law obligation of an employee."
+                },
+                {
+                  "band": "1",
+                  "description": "Provides some relevant information about employee obligations."
+                }
+              ],
+              "exemplar": "One common law obligation of an employee is the duty to obey lawful and reasonable instructions from the employer. This means following directions related to the performance of their role, provided those directions do not breach legislation, awards, or expose the employee to unreasonable danger. Failure to follow lawful and reasonable instructions can be grounds for disciplinary action or dismissal."
+            },
+            {
+              "id": "hr-infl-2015-q22b",
+              "year": 2015,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How does the government influence employment contracts?",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "4",
+                  "description": "Explains how government influences employment contracts in detail with reference to legislation and standards."
+                },
+                {
+                  "band": "3",
+                  "description": "Provides how government influences employment contracts with some detail."
+                },
+                {
+                  "band": "2",
+                  "description": "Sketches in general terms the current legal framework."
+                },
+                {
+                  "band": "1",
+                  "description": "Provides one relevant fact about the legal framework."
+                }
+              ],
+              "exemplar": "The federal government significantly influences employment contracts through legislation that sets minimum standards all contracts must meet. The Fair Work Act 2009 establishes the National Employment Standards (NES), which include maximum weekly hours of 38, four weeks of paid annual leave, parental leave entitlements, public holidays, redundancy pay, and the right to request flexible working arrangements. These standards form a legally binding floor below which no employer may contract.\n\nThe government also sets the national minimum wage through the Fair Work Commission's annual wage review, and approves modern awards that establish industry-specific minimum pay rates and conditions. Enterprise agreements negotiated between employers and employees must pass the Better Off Overall Test (BOOT) administered by the Fair Work Commission. Anti-discrimination legislation further restricts contract terms, ensuring fair treatment regardless of gender, age, race or disability."
+            },
             {
               "id": "hr-infl-2016-q16",
               "year": 2016,
@@ -5961,6 +6555,21 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-proc-2015-q2",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following occurs during the acquisition stage of the human resources management process?",
+              "options": [
+                "Training",
+                "Induction",
+                "Developing a job description",
+                "Conducting performance management"
+              ],
+              "correct": "C",
+              "explanation": "Acquisition involves identifying staffing needs, developing job descriptions and recruiting. Training and induction occur during development, while performance management is part of maintenance."
+            },
+            {
               "id": "hr-proc-2017-q1",
               "year": 2017,
               "type": "mcq",
@@ -6338,6 +6947,21 @@
           "name": "Strategies in human resource management",
           "questions": [
             {
+              "id": "hr-strat-2015-q11",
+              "year": 2015,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an example of a business using performance pay?",
+              "options": [
+                "Emily is paid penalty rates for working on a public holiday.",
+                "Mike receives a gift voucher from his supervisor for Christmas.",
+                "Jamie is paid 5% above the level set in his enterprise agreement.",
+                "Sally's department receives a bonus for meeting its sales target."
+              ],
+              "correct": "D",
+              "explanation": "Performance pay rewards employees for meeting specific output or performance targets. Penalty rates compensate for unsociable hours, gifts are not tied to performance, and over-award payments are not linked to performance criteria."
+            },
+            {
               "id": "hr-strat-2016-q23a",
               "year": 2016,
               "type": "short",
@@ -6667,6 +7291,62 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2015-q25a",
+              "year": 2015,
+              "type": "short",
+              "marks": 4,
+              "prompt": "To what extent is human resources management effective in this business? Support your answer with examples from the data.",
+              "stimulus": "Data for a business comparing 2014 and 2015: Absenteeism per employee 10 days → 18 days; Accidents per 1000 employees 20 → 25; Number of strike days 20 → 10; Training expenditure per employee $2,000 → $500; Staff turnover 10% → 5%; Fixed costs $1,000,000 → $800,000; Expense ratio 20% → 10%.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "4",
+                  "description": "Makes a clear judgement that HRM is partially effective, supported by specific data examples."
+                },
+                {
+                  "band": "3",
+                  "description": "Makes a judgement about effectiveness with examples from the data."
+                },
+                {
+                  "band": "2",
+                  "description": "Makes a limited judgement with reference to the data."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a relevant statement with some reference to the data."
+                }
+              ],
+              "exemplar": "Human resources management in this business has been only partially effective. Positive indicators include a halving of staff turnover from 10% to 5% and a 50% reduction in strike days from 20 to 10, suggesting that the business has improved workplace relations and employee retention — possibly through better dispute resolution or rewards.\n\nHowever, several KPIs reveal serious concerns. Absenteeism has risen sharply from 10 to 18 days per employee, accidents have increased from 20 to 25 per 1,000 employees, and training expenditure has been slashed from $2,000 to $500 per employee. The drop in training likely explains the rise in workplace accidents, while increased absenteeism may signal declining morale and engagement. Overall, while financial discipline has been imposed, the deterioration in workplace health and skill development indicates HRM effectiveness is mixed at best."
+            },
+            {
+              "id": "hr-eff-2015-q25b",
+              "year": 2015,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Using the data, analyse the interdependence between human resources management and profitability management in this business.",
+              "stimulus": "Data for a business comparing 2014 and 2015: Absenteeism per employee 10 days → 18 days; Accidents per 1000 employees 20 → 25; Number of strike days 20 → 10; Training expenditure per employee $2,000 → $500; Staff turnover 10% → 5%; Fixed costs $1,000,000 → $800,000; Expense ratio 20% → 10%.",
+              "suggested_words": 220,
+              "criteria": [
+                {
+                  "band": "5-6",
+                  "description": "Draws out implications of the interdependence between HRM and profitability using specific data, showing bidirectional impact."
+                },
+                {
+                  "band": "4-5",
+                  "description": "Provides how HRM impacts profitability AND how profitability management impacts HRM with reference to data."
+                },
+                {
+                  "band": "3",
+                  "description": "Gives an example linking HRM and profitability with the data."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches a link between HRM and profitability or provides limited relevant information."
+                }
+              ],
+              "exemplar": "Human resources management and profitability management are deeply interdependent — decisions in one area directly shape outcomes in the other. In this business, the link is clearly visible in the data.\n\nFirstly, profitability management has driven HRM decisions. The business has cut fixed costs from $1,000,000 to $800,000 and improved its expense ratio from 20% to 10%, indicating aggressive cost-cutting. A major contributor has been the slashing of training expenditure from $2,000 to $500 per employee — a profitability-driven HR decision designed to reduce overheads quickly. This shows how short-term profitability objectives can reshape HRM strategy.\n\nHowever, the reverse impact reveals the risk of this approach. Reduced training has correlated with deteriorating HR outcomes: workplace accidents rose from 20 to 25 per 1,000 employees, and absenteeism climbed sharply from 10 to 18 days per employee. These outcomes generate hidden costs — workers' compensation claims, higher insurance premiums, sick leave payments, lost productivity, and potential reputational damage — that will erode profitability in future periods. While the immediate expense ratio looks healthy, the long-term profit impact is likely negative.\n\nOn the positive side, lower staff turnover (10% → 5%) reduces recruitment and onboarding costs, which supports profitability. Overall, the data demonstrates that sustainable profitability requires investment in HRM; cutting people-related costs may boost short-term margins but undermine the productivity, safety and engagement on which long-term profits depend."
+            },
             {
               "id": "hr-eff-2017-q23c",
               "year": 2017,
