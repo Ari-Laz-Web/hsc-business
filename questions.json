@@ -10,6 +10,21 @@
           "name": "Role of operations management",
           "questions": [
             {
+              "id": "ops-role-2016-q8",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business plans to increase its stock to be ready for the grand opening of five new stores. This shows the interdependence between which business functions?",
+              "options": [
+                "Operations and finance",
+                "Operations and marketing",
+                "Finance and human resources",
+                "Human resources and marketing"
+              ],
+              "correct": "B",
+              "explanation": "Operations (managing inventory/stock) is responding to marketing (the opening of new stores and the resulting customer demand). This demonstrates interdependence between operations and marketing. Finance and HR are not directly referenced in the stock decision."
+            },
+            {
               "id": "ops-role-2017-q21a",
               "year": 2017,
               "type": "short",
@@ -263,6 +278,53 @@
           "id": "ops-influences",
           "name": "Influences",
           "questions": [
+            {
+              "id": "ops-infl-2016-q24b",
+              "year": 2016,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain why corporate social responsibility should be a key concern in operations management for this business.",
+              "stimulus": "A fruit shop has experienced strong growth in its sales of fresh organic fruit since it started to sell online.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains how and why CSR should be central to operations management for an organic fruit business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines how CSR affects operations with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches CSR in general terms."
+                }
+              ],
+              "exemplar": "Corporate social responsibility (CSR) goes beyond legal compliance to consider ethical, social and environmental impacts. For an organic fruit business, CSR is central because customers buying organic fruit explicitly value ethical and sustainable practices — that is why they pay a premium. Operations decisions such as sourcing from local farmers using sustainable methods, using biodegradable packaging for online deliveries, minimising food waste through donations to charities, and ensuring fair payment to suppliers all reinforce the brand's ethical positioning. Strong CSR builds customer loyalty, justifies premium pricing, and protects the business from reputational damage that could quickly destroy an organic brand in the era of social media."
+            },
+            {
+              "id": "ops-infl-2016-q27",
+              "year": 2016,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate the response of operations management to external influences.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Makes a well-reasoned, criteria-based judgement on how effectively operations management has responded to external influences. Applies relevant case study/studies and contemporary issues. Sustained, logical, cohesive response with sophisticated terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes some judgement on operations management responses to external influences with relevant case studies. Logical and cohesive with appropriate terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches operations management and/or external influences in general terms with limited case study reference and basic terminology."
+                }
+              ],
+              "exemplar": "Operations management — the transformation of inputs into outputs through value-adding processes — must continually respond to external influences in the business environment to remain competitive. These influences include globalisation, technology, quality expectations, cost-based competition, government policies, legal regulation, and environmental sustainability. This response will evaluate how operations management at Qantas and Apple have responded to these external influences, judging their effectiveness against criteria of cost efficiency, quality maintenance, and long-term competitive advantage.\\n\\nGLOBALISATION AND COST-BASED COMPETITION\\nGlobalisation has intensified cost-based competition by exposing businesses to international rivals. Operations managers have responded primarily through global sourcing and global outsourcing. Apple exemplifies this response — designing products in California while outsourcing manufacturing almost entirely to Foxconn factories in China, Vietnam and India. This strategy reduces production costs by approximately 30-50% compared to US-based manufacturing, enabling Apple to maintain industry-leading gross margins of around 40% while remaining price-competitive.\\n\\nEvaluating this response: it has been highly effective on cost and shareholder returns. However, it carries significant risks. Apple's reliance on China was exposed during COVID-19 lockdowns at Foxconn's Zhengzhou plant in late 2022, which severely disrupted iPhone 14 Pro production during peak Christmas demand. In response, Apple has diversified by accelerating production in India and Vietnam. This shows operations management is increasingly responding to globalisation with supply chain resilience strategies, not just cost minimisation — a sophisticated and necessary evolution.\\n\\nQantas's global sourcing strategy is more constrained because aviation requires Australian aircraft maintenance for domestic safety regulation. However, Qantas has outsourced heavy maintenance to Singapore and Brisbane to reduce costs, and sourced uniforms and catering inputs internationally. This response has been moderately effective but has triggered industrial relations disputes, demonstrating that operations responses to globalisation must balance cost with stakeholder relations.\\n\\nTECHNOLOGY\\nTechnology, particularly automation, AI, and data analytics, has revolutionised operations. Qantas has invested heavily in technology including predictive maintenance using sensor data from aircraft engines, which detects faults before they cause delays — improving on-time performance and reducing costly unscheduled maintenance. The Qantas app and digital boarding pass system streamlines passenger processing, reducing labour costs at airports.\\n\\nApple's manufacturing technology at Foxconn includes extensive robotics and computer-controlled assembly, allowing precision and scale impossible with manual labour alone. Apple's response to technology has been to invest in proprietary chips (M-series, A-series silicon) designed in-house, giving competitive advantage in performance per watt.\\n\\nThe response to technology has been highly effective for both businesses. Technology investment has reduced costs and improved quality simultaneously, breaking the traditional cost-quality trade-off. However, technology investment is expensive — Apple's R&D exceeds $25 billion annually — meaning smaller competitors cannot match this response, creating barriers to entry.\\n\\nQUALITY EXPECTATIONS\\nRising consumer quality expectations have driven adoption of total quality management (TQM), Six Sigma, and quality assurance certifications. Qantas's commitment to safety — it has not had a fatal accident in the jet era — reflects rigorous TQM practices and continuous improvement. This quality response is critical because aviation customers are highly safety-sensitive.\\n\\nApple's response to quality expectations is its design-led, premium-quality positioning. Operations management ensures tight tolerances, high-quality materials (aerospace-grade aluminium, ceramic shields) and rigorous testing. The result is industry-leading customer satisfaction and brand loyalty, supporting premium pricing.\\n\\nThis response has been very effective. However, Apple has faced quality controversies including Batterygate (2017), where iPhones were intentionally slowed to manage ageing batteries — damaging trust and resulting in legal settlements. This shows even strong quality responses can fail when ethical considerations are neglected.\\n\\nENVIRONMENTAL SUSTAINABILITY AND CSR\\nEnvironmental sustainability has become a critical external influence, driven by consumer expectations, government regulation, and climate change. Apple has committed to carbon neutrality across its entire operations and supply chain by 2030, with all corporate operations already carbon neutral. It has redesigned products using recycled aluminium and rare earth elements, and removed chargers and earphones from iPhone packaging to reduce materials and shipping emissions.\\n\\nQantas has set a target of net zero emissions by 2050, invested in sustainable aviation fuel (SAF) partnerships, and operates one of the world's youngest, most fuel-efficient fleets. The retirement of older Boeing 747s in favour of A380s and Dreamliners reduces fuel consumption per passenger by around 25%.\\n\\nEvaluating these responses: they are substantial and credible but progress is slow. Aviation in particular faces a fundamental challenge — there is no scalable zero-carbon alternative to jet fuel currently. Therefore Qantas's sustainability response is constrained by technology, not commitment. Apple's response is more advanced because consumer electronics has more pathways to decarbonisation through renewable energy.\\n\\nGOVERNMENT POLICIES AND LEGAL REGULATION\\nBoth businesses face significant legal regulation. Qantas operates under Civil Aviation Safety Authority oversight, requiring extensive compliance operations. Apple faces data privacy regulations (GDPR in Europe, Australian Privacy Act) requiring operational design around privacy by default — features like App Tracking Transparency demonstrate this response.\\n\\nThe response has been effective in maintaining licence to operate but adds cost and operational complexity.\\n\\nCONCLUSION\\nOperations management has responded to external influences with varying effectiveness. Apple's responses to globalisation, technology and quality have been highly successful, generating sustained competitive advantage and shareholder value, though supply chain concentration risks have been exposed. Qantas's responses are effective within the constraints of a heavily regulated, capital-intensive industry, but sustainability remains a long-term challenge. Overall, operations management is now defined by sophisticated, simultaneous responses to multiple external influences rather than addressing them in isolation — demonstrating that strategic, integrated operations management is essential for contemporary business success."
+            },
             {
               "id": "ops-infl-2017-q16",
               "year": 2017,
@@ -917,6 +979,68 @@
           "name": "Operations strategies",
           "questions": [
             {
+              "id": "ops-strat-2016-q24a",
+              "year": 2016,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Discuss ONE possible method of inventory management for this business.",
+              "stimulus": "A fruit shop has experienced strong growth in its sales of fresh organic fruit since it started to sell online.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly discusses arguments for and against one inventory management method, applied to a fresh organic fruit business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines an advantage or disadvantage of one inventory method with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches an inventory method in general terms."
+                }
+              ],
+              "exemplar": "Just-In-Time (JIT) inventory management is highly suitable for this fresh organic fruit business. JIT involves ordering stock to arrive only as it is needed for sale, minimising the time inventory is held. The major advantage for a fruit shop is that organic fresh fruit is highly perishable — holding large stocks risks spoilage, waste and financial loss. JIT also reduces storage costs and frees up working capital that would otherwise be tied up in inventory.\\n\\nHowever, JIT carries significant risks for this business. With strong online sales growth, demand can spike unpredictably, and JIT leaves little buffer stock to fulfil sudden online orders. Any supplier delay — caused by weather, transport disruption or poor harvests — could result in stockouts, lost online sales and damaged customer reputation, particularly damaging given the immediacy expectations of online buyers."
+            },
+            {
+              "id": "ops-strat-2016-q25",
+              "year": 2016,
+              "type": "short",
+              "marks": 6,
+              "prompt": "With reference to a business you have studied, analyse the relationship between cost and quality in the operations of the business.",
+              "suggested_words": 250,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out clear implications of the cost-quality relationship with detailed reference to a specific business, demonstrating sophisticated understanding."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides links between cost and quality with reference to a business and outlines key features."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to cost and/or quality in general terms with limited business application."
+                }
+              ],
+              "exemplar": "Cost and quality in operations typically have a direct positive relationship — higher quality requires greater investment in inputs, technology and labour, increasing costs. However, strategic operations management can also break this trade-off through efficiency.\\n\\nQantas illustrates the traditional positive relationship. As Australia's full-service flag carrier, Qantas invests heavily in quality: a young fleet of Airbus A380 and Boeing 787 Dreamliner aircraft, extensive crew training, premium in-flight meals, and award-winning lounges. These inputs significantly increase operational costs, which Qantas recovers through premium ticket pricing. Customers willingly pay more because they perceive higher quality and reliability — Qantas's safety record and on-time performance are central to this brand promise.\\n\\nIn contrast, Qantas's subsidiary Jetstar deliberately positions on lower cost and lower quality. Jetstar uses a single fleet of Airbus A320 aircraft to reduce maintenance and training costs, charges separately for meals, baggage and seat selection, and operates from secondary terminals. This drives costs down dramatically, allowing budget pricing that targets price-sensitive customers.\\n\\nHowever, total quality management (TQM) practices at Qantas show that quality and cost can be aligned. By preventing defects and improving processes — such as predictive maintenance using data analytics — Qantas reduces costly delays and rework while maintaining high quality, demonstrating that strategic operations management can deliver both improved quality and lower long-run costs simultaneously."
+            },
+            {
+              "id": "ops-strat-2016-q6",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A global business has adopted a strategy which aims to lower the average cost of its product by increasing output. What is this strategy called?",
+              "options": [
+                "Outsourcing",
+                "Global pricing",
+                "Global sourcing",
+                "Economies of scale"
+              ],
+              "correct": "D",
+              "explanation": "Economies of scale refers to the cost advantage gained as output increases — fixed costs are spread over more units, reducing the average cost per unit. Outsourcing involves contracting work to third parties, global sourcing involves obtaining inputs from global suppliers, and global pricing is a pricing approach."
+            },
+            {
               "id": "ops-proc-2017-q2",
               "year": 2017,
               "type": "mcq",
@@ -1507,6 +1631,21 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-perf-2016-q9",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which performance objective measures how well a product meets the prescribed design specifications?",
+              "options": [
+                "Cost",
+                "Flexibility",
+                "Quality",
+                "Speed"
+              ],
+              "correct": "C",
+              "explanation": "Quality is the performance objective measuring how well a product conforms to design specifications and meets customer expectations. Cost relates to price, flexibility to adaptability, and speed to time-to-market."
+            },
+            {
               "id": "ops-perf-2018-q9",
               "year": 2018,
               "type": "mcq",
@@ -1785,6 +1924,21 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2016-q7",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A person purchases his clothing from a discount store because he is a low-income earner. What factor is influencing his consumer choice?",
+              "options": [
+                "Economic",
+                "Legal",
+                "Psychological",
+                "Sociocultural"
+              ],
+              "correct": "D",
+              "explanation": "Sociocultural factors include socioeconomic status (income, education, occupation), which directly influences purchasing power and shopping choices. Although income relates to economic conditions broadly, in the marketing syllabus 'sociocultural' captures social class and lifestyle factors driving consumer behaviour."
+            },
             {
               "id": "mkt-infl-2017-q22a",
               "year": 2017,
@@ -2123,6 +2277,45 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2016-q22a",
+              "year": 2016,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Why is this information an important part of the marketing process?",
+              "stimulus": "A business develops video games. It had three different games for sale last year. Forecast vs Actual sales: Game A forecast $500,000 / actual $495,000; Game B forecast $200,000 / actual $100,000; Game C forecast $300,000 / actual $800,000.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly identifies the role of this information in monitoring and controlling the marketing plan and adjusting strategies."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines the importance of comparing forecast and actual results for marketing decisions."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic statement about the data without linking to the marketing process."
+                }
+              ],
+              "exemplar": "This information is critical to the monitoring and controlling stage of the marketing process. By comparing forecast and actual sales, the business can evaluate the effectiveness of its current marketing plan, identify which games are underperforming (Game B) and which are exceeding expectations (Game C), and then adjust its marketing strategies accordingly to either correct problems or capitalise on opportunities."
+            },
+            {
+              "id": "mkt-proc-2016-q3",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "While developing a new marketing plan a business discovers that many customers think its website is boring and confusing. At what stage in the marketing process should this have been identified?",
+              "options": [
+                "Identifying target markets",
+                "Developing marketing strategies",
+                "Conducting a situational analysis",
+                "Establishing marketing objectives"
+              ],
+              "correct": "C",
+              "explanation": "A situational analysis (SWOT) involves identifying internal strengths/weaknesses and external opportunities/threats. A poor website is an internal weakness that should be identified at this stage. The other stages occur after the situational analysis informs them."
+            },
             {
               "id": "mkt-proc-2017-q3",
               "year": 2017,
@@ -2528,6 +2721,99 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strat-2016-q13",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A beauty company sends samples of its new lip balm to members of its loyalty program and to online beauty bloggers. What strategies is the company using?",
+              "options": [
+                "Publicity and global branding",
+                "Global branding and opinion leaders",
+                "Customisation and relationship marketing",
+                "Relationship marketing and opinion leaders"
+              ],
+              "correct": "D",
+              "explanation": "Sending samples to loyalty members is relationship marketing (building long-term customer relationships). Sending to bloggers leverages opinion leaders, who influence others' purchasing decisions. There is no global branding or customisation occurring."
+            },
+            {
+              "id": "mkt-strat-2016-q15",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A confectionery company used to sell its chocolate bars direct to the public. Now its products will only be available in supermarkets. How has the market for the product changed?",
+              "options": [
+                "From a resource market to an industrial market",
+                "From a consumer market to an industrial market",
+                "From a consumer market to an intermediate market",
+                "From an intermediate market to a consumer market"
+              ],
+              "correct": "C",
+              "explanation": "Originally selling direct to the public is a consumer market. Selling to supermarkets (who resell) makes them an intermediate market, where buyers purchase to resell rather than for personal consumption."
+            },
+            {
+              "id": "mkt-strat-2016-q17",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A small business has developed a new piece of gym equipment that it wants to sell to gyms throughout Sydney. What would be the most appropriate marketing strategy for this?",
+              "options": [
+                "Advertising on billboards on main roads",
+                "Placing its logo on a sporting team's uniform",
+                "Sales representatives visiting gyms to demonstrate the product",
+                "Advertising on television during football games throughout the season"
+              ],
+              "correct": "C",
+              "explanation": "Personal selling via sales representatives is the most appropriate strategy when targeting a small, defined B2B market (gyms in Sydney). Mass advertising would be wasteful and expensive for such a niche audience."
+            },
+            {
+              "id": "mkt-strat-2016-q22b",
+              "year": 2016,
+              "type": "short",
+              "marks": 3,
+              "prompt": "With reference to the information, recommend a strategy for promoting game B.",
+              "stimulus": "A business develops video games. Game B had forecast sales of $200,000 but actual sales of only $100,000.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Recommends a specific, appropriate promotion strategy with clear justification linked to Game B's underperformance."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a promotion strategy with some reasoning or describes features of one."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Outlines a promotion strategy in general terms with limited application."
+                }
+              ],
+              "exemplar": "Game B's actual sales were only 50% of the forecast, indicating that current promotional efforts are not reaching or persuading the target market effectively. I recommend a sales promotion strategy combining price discounts with social media advertising on platforms popular with gamers, such as Twitch and YouTube. Price discounts provide immediate purchasing incentive to recover lost sales, while targeted digital advertising — including sponsored gameplay videos from gaming influencers — builds awareness and credibility within the gaming community, addressing the likely cause of underperformance: low product visibility."
+            },
+            {
+              "id": "mkt-strat-2016-q22c",
+              "year": 2016,
+              "type": "short",
+              "marks": 3,
+              "prompt": "With reference to the information, recommend a strategy for distributing game C.",
+              "stimulus": "A business develops video games. Game C had forecast sales of $300,000 but actual sales of $800,000.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Recommends a specific, appropriate distribution strategy with clear justification linked to Game C's strong demand."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a distribution strategy with some reasoning or describes features of one."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Outlines a distribution strategy in general terms with limited application."
+                }
+              ],
+              "exemplar": "Game C's sales were over 2.5 times the forecast, indicating that demand has far exceeded supply capacity through current distribution channels. I recommend adopting an intensive distribution strategy combined with a shift toward digital distribution via platforms such as Steam, the PlayStation Store and Xbox Live. Digital distribution eliminates physical stock constraints, allowing immediate global delivery to meet the surge in demand, while intensive distribution through additional retailers maximises product availability. This ensures the business captures the full revenue opportunity rather than losing sales to stockouts caused by the unexpected demand."
+            },
             {
               "id": "mkt-strat-2017-q10",
               "year": 2017,
@@ -3131,6 +3417,45 @@
           "name": "Role of financial management",
           "questions": [
             {
+              "id": "fin-role-2016-q21a",
+              "year": 2016,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Explain a potential conflict between a short-term and a long-term financial objective for Sue.",
+              "stimulus": "Sue is a sole trader whose business is growing rapidly as sales are increasing. As a result of the growth, she needs to purchase stock worth $10,000.",
+              "suggested_words": 90,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly shows how and why a short-term and long-term financial objective may conflict, with explicit reference to Sue's situation."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Names both a short-term and long-term objective, or outlines a reason a conflict might occur, with some application to context."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names one financial objective with minimal explanation or application."
+                }
+              ],
+              "exemplar": "Sue's long-term financial objective is likely to be increased profitability, achieved through growing sales by maintaining sufficient stock levels to meet rising customer demand. However, in the short term, this requires her to outlay $10,000 on inventory, which directly reduces her liquidity — her ability to meet short-term financial commitments such as paying suppliers, wages and rent. This creates a clear conflict: pursuing long-term profitability through stock investment compromises her short-term liquidity, potentially leaving her unable to cover immediate obligations until the stock is sold and converted back into cash."
+            },
+            {
+              "id": "fin-role-2016-q4",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Solvency is the ability of a business to",
+              "options": [
+                "maximise its profits.",
+                "increase its market share.",
+                "meet its long-term financial commitments.",
+                "meet its short-term financial commitments."
+              ],
+              "correct": "C",
+              "explanation": "Solvency refers to the ability of a business to meet its long-term financial commitments. Liquidity (option D) refers to short-term commitments. Profitability and market share are different financial concepts."
+            },
+            {
               "id": "fin-role-2017-q4",
               "year": 2017,
               "type": "mcq",
@@ -3200,6 +3525,36 @@
           "id": "fin-influences",
           "name": "Influences on financial management",
           "questions": [
+            {
+              "id": "fin-infl-2016-q1",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A red leather lounge was purchased from Lounge Ltd. After only two weeks of use, the legs of the couch fell off. What is the law that enforces the warranty in this situation?",
+              "options": [
+                "Corporations Act 2001 (Cth)",
+                "Fair Trading Act 1987 (NSW)",
+                "Trade Practices Act 1974 (Cth)",
+                "Competition and Consumer Act 2010 (Cth)"
+              ],
+              "correct": "D",
+              "explanation": "The Competition and Consumer Act 2010 (Cth) is the current Commonwealth legislation that enforces consumer guarantees and warranties, having replaced the Trade Practices Act 1974. The Corporations Act regulates companies, the Fair Trading Act is state-based, and the Trade Practices Act has been superseded."
+            },
+            {
+              "id": "fin-infl-2016-q14",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an example of a unit trust?",
+              "options": [
+                "An investor purchases shares in a public company.",
+                "Investors lend money directly to businesses and receive interest in return.",
+                "Investors pool their money together and it is invested in the property market.",
+                "An investor deposits money with a financial institution and receives a fixed rate of interest."
+              ],
+              "correct": "C",
+              "explanation": "A unit trust pools investors' money to invest in assets such as property, shares, or fixed interest. Option A is share investment, option B is debentures, and option D is a term deposit."
+            },
             {
               "id": "fin-infl-2017-q18",
               "year": 2017,
@@ -3560,6 +3915,90 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2016-q10",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The cash flow table shows: Jan opening balance $4,000; Cash in $20,000 (Jan), $20,000 (Feb), $20,000 (March), $24,000 (April); Cash out $14,000 (Jan), $50,000 (Feb), $24,000 (March), $26,000 (April). What is the opening cash balance for April?",
+              "options": [
+                "–$24,000",
+                "–$18,000",
+                "–$16,000",
+                "–$12,000"
+              ],
+              "correct": "A",
+              "explanation": "Jan close = 4,000 + 20,000 – 14,000 = $10,000. Feb close = 10,000 + 20,000 – 50,000 = –$20,000. March close = –20,000 + 20,000 – 24,000 = –$24,000. This is the opening balance for April."
+            },
+            {
+              "id": "fin-proc-2016-q11",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the balance sheet for Steve's Lawn Services (Current assets: Cash $15,000, Accounts receivable $3,000, Stock ?; Current liabilities: Accounts payable $5,000, Overdraft $5,500; Non-current assets: Plant and equipment $40,000, Goodwill $85,000; Non-current liabilities: Long-term loan $100,000; Total equity: Capital $22,700, Net profit $12,800). If Steve is a sole trader, how much equity does he have in the business?",
+              "options": [
+                "$12,800",
+                "$35,500",
+                "$135,500",
+                "$146,000"
+              ],
+              "correct": "B",
+              "explanation": "For a sole trader, equity = Capital + Net profit = $22,700 + $12,800 = $35,500. Goodwill and assets are not added to equity directly; equity represents the owner's claim on the business."
+            },
+            {
+              "id": "fin-proc-2016-q12",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using Steve's balance sheet data (industry standard current ratio 1.9:1), the current ratio (current assets ÷ current liabilities) for this business is",
+              "options": [
+                "too high.",
+                "acceptable.",
+                "dangerously low.",
+                "unable to be calculated."
+              ],
+              "correct": "B",
+              "explanation": "Total equity = 35,500. Total liabilities = 5,000 + 5,500 + 100,000 = 110,500. Total assets must equal liabilities + equity = 146,000. Non-current assets = 125,000, so current assets = 21,000, which includes stock of $3,000. Current ratio = 21,000 ÷ 10,500 = 2:1, which is close to the industry standard of 1.9:1 and therefore acceptable."
+            },
+            {
+              "id": "fin-proc-2016-q19",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Business A: Annual sales $1,600,000, Net profit $400,000, Accounts receivable $200,000. Business B: Annual sales $2,800,000, Net profit $400,000, Accounts receivable $250,000. Which statement is correct?",
+              "options": [
+                "Business A is more profitable but less efficient than Business B.",
+                "Business B is more profitable but less efficient than Business A.",
+                "Business A is more profitable and more efficient than Business B.",
+                "Business B is more profitable and more efficient than Business A."
+              ],
+              "correct": "A",
+              "explanation": "Net profit ratio: A = 400/1600 = 25%; B = 400/2800 = 14.3%. A is more profitable. Accounts receivable turnover: A = 1600/200 = 8; B = 2800/250 = 11.2. B collects receivables more frequently, so B is more efficient. Therefore A is more profitable but less efficient."
+            },
+            {
+              "id": "fin-proc-2016-q26",
+              "year": 2016,
+              "type": "report",
+              "marks": 20,
+              "prompt": "The potential new partner has asked you to write a business report in which you: explain possible limitations of the financial reports; recommend appropriate working capital management strategies for the business; evaluate a pricing strategy the business could use.",
+              "stimulus": "Lee's Catering is a small business with a high profile chef and excellent quality food, with many future bookings. Financial extract: Cash $1,000; Accounts receivable $10,000; Inventory $50; Accounts payable $11,050; Goodwill $200,000. Current ratio 100% (industry average 150%); Gross profit ratio 30% (industry average 50%); Expense ratio 60% (industry average 30%). A potential new partner is concerned about the accuracy of the financial reports and the effectiveness of current management.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Comprehensively explains limitations of financial reports; provides justified working capital strategies; makes a clear evaluative judgement on a pricing strategy. Uses the stimulus effectively, integrates business terminology, and presents as a sustained, cohesive business report."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines some limitations of financial reports; describes working capital strategies; identifies reasons for/against a pricing strategy. Uses some stimulus data and business report format with relevant terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to financial reports, working capital or pricing in general terms with basic business terminology and limited report structure."
+                }
+              ],
+              "exemplar": "TO: Potential New Partner\\nFROM: Business Analyst\\nRE: Financial Analysis and Strategic Recommendations for Lee's Catering\\nDATE: [Current Date]\\n\\n1.0 INTRODUCTION\\nThis report addresses concerns regarding the accuracy of Lee's Catering's financial reports and the effectiveness of current management. It examines limitations of the financial information, recommends working capital strategies to address the business's liquidity concerns, and evaluates an appropriate pricing strategy to leverage the chef's high profile and strong forward bookings.\\n\\n2.0 LIMITATIONS OF FINANCIAL REPORTS\\nSeveral limitations may affect the reliability of Lee's Catering's financial reports. Firstly, the valuation of intangible assets, particularly goodwill at $200,000, is highly subjective. Goodwill is recorded based on past acquisition costs or management estimates of brand value and customer relationships — it may not reflect current market value, especially if the high-profile chef were to leave the business.\\n\\nSecondly, the reports may suffer from timing issues. The accounts receivable of $10,000 represents revenue recognised but not yet collected, while accounts payable of $11,050 represents obligations not yet paid. The snapshot nature of financial reports does not reveal when these cash flows will occur, masking liquidity pressure. Significant forward bookings are also not reflected on the balance sheet, understating future revenue.\\n\\nThirdly, normalised earnings adjustments may be required. One-off events such as catering contracts for celebrity events may have inflated or deflated current ratios, making them unrepresentative of ongoing performance. Notes to the financial reports should be reviewed for any accounting policy changes, depreciation methods, or related-party transactions that distort comparability.\\n\\n3.0 WORKING CAPITAL MANAGEMENT STRATEGIES\\nLee's Catering has a serious working capital problem. The current ratio of 100% (1:1) is well below the industry average of 150% and indicates the business cannot comfortably meet its short-term obligations. With current assets of $11,050 exactly matching current liabilities, there is no liquidity buffer.\\n\\nFirstly, accounts receivable management should be tightened. The business should offer early payment discounts (e.g., 2% for payment within 7 days), reduce credit terms from 30 to 14 days for new customers, and require deposits of 25-50% for large catering events. This accelerates cash inflow and reduces the receivables balance.\\n\\nSecondly, accounts payable management should be optimised by negotiating extended payment terms with suppliers (e.g., 45 days) without forfeiting early payment discounts where beneficial. This preserves cash within the business longer.\\n\\nThirdly, sale and leaseback of kitchen equipment could be explored to immediately release cash tied up in non-current assets while retaining operational use of the equipment under a lease arrangement. This injects working capital without disrupting operations.\\n\\n4.0 EVALUATION OF A PRICING STRATEGY\\nGiven the high expense ratio (60% vs industry 30%) and low gross profit ratio (30% vs industry 50%), Lee's Catering is significantly underpricing relative to its costs. I evaluate a price skimming strategy as the most appropriate response.\\n\\nPrice skimming involves setting high initial prices to capture customers willing to pay a premium. Strengths: Lee's Catering has the foundations to support premium pricing — a high-profile chef provides perceived prestige, excellent food quality justifies higher prices, and strong forward bookings demonstrate existing demand exceeds capacity to some degree. Raising prices would directly improve the gross profit ratio toward the industry benchmark of 50%, addressing the core profitability problem.\\n\\nWeaknesses: Skimming risks pricing out existing loyal customers and may reduce booking volume, which is dangerous given working capital is already constrained. There is also a risk that competitors with similar quality undercut prices.\\n\\nOn balance, price skimming is justified because the business's premium positioning is underutilised. A staged price increase of 15-20% across services, complemented by price points (e.g., $99 per head, $149 per head packages) to anchor customer perception, should improve margins without dramatically losing volume given strong demand. This must be paired with the working capital strategies above to ensure short-term survival while profitability recovers.\\n\\n5.0 CONCLUSION\\nLee's Catering is profitable on paper but financially fragile due to poor liquidity, weak margins, and potentially overstated asset values. By addressing financial report limitations through better disclosure, implementing working capital strategies to restore liquidity, and adopting price skimming to leverage the chef's premium brand, the business can move from precarious to sustainable. A new partner should proceed only if these recommendations are implemented as conditions of investment."
+            },
             {
               "id": "fin-proc-2017-q12",
               "year": 2017,
@@ -4313,6 +4752,30 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2016-q21b",
+              "year": 2016,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Discuss ONE internal and ONE external source of finance for Sue's purchase of stock.",
+              "stimulus": "Sue is a sole trader whose business is growing rapidly as sales are increasing. As a result of the growth, she needs to purchase stock worth $10,000.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed points for and against both one internal and one external source of finance, with clear application to Sue's stock purchase."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Discusses one source with points for and against, and outlines another source in general terms."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names or briefly describes one or two sources of finance with limited evaluation."
+                }
+              ],
+              "exemplar": "An internal source of finance Sue could use is retained profits — undistributed earnings reinvested in the business. The advantage is that this avoids interest costs and does not increase her gearing or financial risk, which is particularly important for a growing sole trader. However, using retained profits significantly reduces her cash reserves, leaving her vulnerable if unexpected expenses arise or if the stock takes longer than expected to sell.\\n\\nAn external source Sue could use is a short-term bank overdraft. This is appropriate because the $10,000 is being used to purchase stock that will be sold within months, so the finance term matches the asset's life. An overdraft is flexible — Sue only pays interest on the amount drawn — and is relatively quick to arrange. The disadvantage is that overdraft interest rates are typically higher than other forms of debt, and the bank can recall the facility at short notice, which could cause cash flow problems. Overall, an overdraft is better matched to a short-term stock purchase than retained profits, which Sue may want to preserve for emergencies."
+            },
+            {
               "id": "fin-strat-2017-q13",
               "year": 2017,
               "type": "mcq",
@@ -4742,6 +5205,104 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2016-q16",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business needs to reduce its workforce for financial reasons. All its employees are equally skilled and have 3 years of service. Which staff member should be dismissed first?",
+              "options": [
+                "A casual employee",
+                "A pregnant employee",
+                "A part-time employee",
+                "A 66-year-old employee"
+              ],
+              "correct": "A",
+              "explanation": "Casual employees have fewer legal protections and entitlements regarding termination. Dismissing the pregnant employee or 66-year-old would breach anti-discrimination laws. Part-time employees have similar protections to full-time."
+            },
+            {
+              "id": "hr-infl-2016-q18",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Hannah is a permanent employee at XYZ Ltd who has been injured in a workplace accident. Who is ultimately responsible for paying Hannah's medical expenses for this injury?",
+              "options": [
+                "Hannah",
+                "Medicare",
+                "WorkCover NSW",
+                "XYZ Ltd's insurance company"
+              ],
+              "correct": "D",
+              "explanation": "Employers must carry workers compensation insurance. The employer's insurance company (workers compensation insurer) pays the medical expenses for workplace injuries. WorkCover regulates the scheme but does not directly pay claims."
+            },
+            {
+              "id": "hr-infl-2016-q2",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Ruth observed that a work colleague was stealing and reported the theft to her supervisor. As a result, Ruth's employment was terminated. What is this an example of?",
+              "options": [
+                "Performance management",
+                "Redundancy",
+                "Retrenchment",
+                "Unfair dismissal"
+              ],
+              "correct": "D",
+              "explanation": "Unfair dismissal occurs when an employee is terminated for reasons that are harsh, unjust, or unreasonable. Ruth was dismissed for whistleblowing, which is not a valid reason. Redundancy and retrenchment relate to the role no longer being required, and performance management addresses employee performance."
+            },
+            {
+              "id": "hr-infl-2016-q20",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An independent web designer has a legal agreement with a department store to improve its online shopping site in time for the Christmas sales. The web designer's working conditions are specified in",
+              "options": [
+                "an award.",
+                "the contract for service.",
+                "an enterprise agreement.",
+                "the National Employment Standards."
+              ],
+              "correct": "B",
+              "explanation": "An independent contractor works under a contract for service (not a contract of service which covers employees). Awards, enterprise agreements, and the National Employment Standards apply to employees, not contractors."
+            },
+            {
+              "id": "hr-infl-2016-q28",
+              "year": 2016,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate the response of human resource management to legal and ethical influences.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Makes a well-reasoned, criteria-based judgement on how effectively HRM has responded to legal and ethical influences. Applies relevant case study/studies and contemporary issues. Sustained, logical and cohesive response with sophisticated terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes some judgement on HRM responses to legal and ethical influences with case study support. Logical and cohesive with appropriate terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches HRM and/or influences in general terms with limited case study reference and basic terminology."
+                }
+              ],
+              "exemplar": "Human resource management (HRM) — the management of people at work — operates within a complex framework of legal and ethical influences that shape every stage of the employment cycle. Legal influences include the Fair Work Act 2009, Work Health and Safety Act 2011, Sex Discrimination Act 1984, and Racial Discrimination Act 1975, along with the National Employment Standards and modern awards. Ethical influences extend beyond legal compliance to encompass corporate social responsibility, workplace culture, and broader societal expectations. This response evaluates HRM responses at Qantas and Woolworths against criteria of legal compliance, ethical performance, and business outcomes.\\n\\nTHE CURRENT LEGAL FRAMEWORK AND EMPLOYMENT CONTRACT\\nThe Fair Work Act 2009 establishes the legal framework governing employment in Australia, including modern awards, enterprise agreements, and the National Employment Standards. HRM at Qantas has responded by maintaining numerous enterprise agreements covering different employee classifications — pilots, cabin crew, engineers, and ground staff — each negotiated through the Fair Work Commission.\\n\\nHowever, Qantas's response has been controversial. In November 2020, Qantas outsourced 1,700 ground handling jobs during COVID-19. The Federal Court ruled in 2021, and the High Court confirmed in September 2023, that this was illegal because it was partly motivated by preventing workers from exercising their right to bargain collectively under the Fair Work Act. This case demonstrates that legal compliance is not optional and that HRM strategies designed to circumvent industrial laws can result in substantial penalties, reputational damage, and ordered compensation potentially exceeding $200 million.\\n\\nEvaluation: Qantas's HRM response to industrial relations law has been deeply flawed, prioritising short-term cost reduction over legal and ethical obligations. The judgement is that this response failed all three criteria — legal compliance, ethical performance, and long-term business outcomes.\\n\\nWORK HEALTH AND SAFETY (WHS)\\nThe Work Health and Safety Act 2011 imposes a duty of care on employers to provide a safe workplace. HRM responds through safety training, incident reporting systems, employee assistance programs, and risk management.\\n\\nWoolworths has invested significantly in WHS programs, including manual handling training to reduce back injuries in warehouses, mental health first aid training, and the SafetyMate program. During COVID-19, Woolworths rapidly implemented social distancing protocols, perspex screens at registers, contactless delivery, and PPE for staff — going beyond minimum legal requirements to ethically protect workers in a hazardous environment.\\n\\nEvaluation: Woolworths's WHS response has been effective. Lost-time injury rates have declined over the past decade, demonstrating measurable outcomes. The ethical extension of WHS during COVID built employee trust and customer confidence, illustrating that ethical HRM can deliver business benefits beyond compliance.\\n\\nANTI-DISCRIMINATION AND EQUAL EMPLOYMENT OPPORTUNITY (EEO)\\nLegislation including the Sex Discrimination Act 1984, Racial Discrimination Act 1975, Age Discrimination Act 2004 and Disability Discrimination Act 1992 prohibits discrimination on protected attributes. HRM responses include EEO policies, diverse recruitment practices, anti-harassment training, and unconscious bias programs.\\n\\nWoolworths has set public diversity targets including 50% women in management roles, increased Indigenous employment through partnerships with Career Trackers and Supply Nation, and refugee employment programs. Qantas has similarly committed to gender pay equity, with women now comprising over 40% of senior management, and runs the Yindyamarra reconciliation action plan.\\n\\nHowever, Qantas faced a significant ethical failure when in 2023 reports emerged of bullying and harassment claims being inadequately handled, and historical complaints of sex discrimination contributed to executive turnover. This shows that policies alone are insufficient — culture and accountability are critical.\\n\\nEvaluation: HRM responses to EEO have been mixed. Public commitments and policies are strong, but implementation quality varies. Where culture supports the policies (Woolworths increasingly), outcomes improve; where culture lags (parts of Qantas historically), policies fail.\\n\\nETHICS AND CORPORATE SOCIAL RESPONSIBILITY\\nEthical HRM extends beyond legal minimums. Key ethical issues include fair wages, work-life balance, mental health, and treatment during organisational change.\\n\\nDuring COVID-19, Woolworths kept staff employed and recruited an additional 20,000 workers from hospitality and tourism industries hit by lockdowns — demonstrating ethical leadership and meeting social need. Qantas, by contrast, stood down 20,000 staff with limited pay, despite receiving over $2 billion in JobKeeper subsidies. This contrast illustrates how ethical decisions during crises define organisational reputation for years.\\n\\nWage theft scandals across Australian businesses — including Woolworths admitting in 2019 that it had underpaid 5,700 salaried managers by approximately $300 million — show ethical failures often arise from poor payroll systems and inadequate oversight rather than malicious intent. Woolworths's response — full back-payment, system review, and independent audit — demonstrates the appropriate ethical recovery. The HRM judgement here is that proactive ethical systems are far cheaper than reactive remediation.\\n\\nCONCLUSION\\nHRM responses to legal and ethical influences have been variable. Where businesses have integrated legal compliance with proactive ethical leadership — as Woolworths demonstrated during COVID-19 WHS responses and Reconciliation Action Plans — the outcomes have been strong, improving employee engagement, customer trust, and financial performance. Where compliance has been treated narrowly or circumvented for cost reduction — as in Qantas's illegal outsourcing of ground handling — the consequences have been severe legal penalties, reputational damage, and shareholder value destruction. The overall judgement is that contemporary HRM effectiveness now depends on integrating legal, ethical and business considerations as a single strategic framework, with ethical leadership the determining factor in long-term success."
+            },
+            {
+              "id": "hr-infl-2016-q5",
+              "year": 2016,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An employee is treated unfairly because she is pregnant. What legislation prohibits this behaviour?",
+              "options": [
+                "Trade Practices Act 1974 (Cth)",
+                "Affirmative Action (Equal Employment Opportunity for Women) Act 1986 (Cth)",
+                "Sex Discrimination Act 1984 (Cth)",
+                "Competition and Consumer Act 2010 (Cth)"
+              ],
+              "correct": "C",
+              "explanation": "The Sex Discrimination Act 1984 (Cth) prohibits discrimination on the basis of sex, marital status, pregnancy, and family responsibilities. The Affirmative Action Act promotes equal opportunity but does not prohibit specific discriminatory acts. The other Acts relate to trade and consumer protection."
+            },
             {
               "id": "hr-infl-2017-q11",
               "year": 2017,
@@ -5776,6 +6337,78 @@
           "id": "hr-strategies",
           "name": "Strategies in human resource management",
           "questions": [
+            {
+              "id": "hr-strat-2016-q23a",
+              "year": 2016,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Heather outsources the cleaning of her Sydney office. Explain ONE advantage of this strategy.",
+              "stimulus": "Heather owns a financial planning business with offices in four countries, including Australia.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Identifies a relevant advantage of outsourcing and clearly explains why it benefits Heather's business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies an advantage with some explanation."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic relevant statement about outsourcing."
+                }
+              ],
+              "exemplar": "One advantage of outsourcing cleaning is cost reduction. By contracting an external cleaning company, Heather avoids the on-costs of employing cleaners directly — including superannuation, workers compensation insurance, leave entitlements and equipment purchases. She pays only for the hours of service required, allowing her to focus financial resources on her core financial planning activities, which generate the business's revenue."
+            },
+            {
+              "id": "hr-strat-2016-q23b",
+              "year": 2016,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Heather also outsources all her financial record keeping. Explain TWO disadvantages of this strategy.",
+              "stimulus": "Heather owns a financial planning business with offices in four countries, including Australia.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Identifies two relevant disadvantages of outsourcing record keeping and explains clearly why each is a problem for Heather's business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies one disadvantage with explanation and outlines another in general terms."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names one or two disadvantages with limited explanation."
+                }
+              ],
+              "exemplar": "Firstly, outsourcing financial record keeping exposes Heather to security and confidentiality risks. Financial records contain highly sensitive client information, and once handed to a third party, Heather loses direct oversight of how that data is stored, accessed and protected. A data breach by the outsourced provider could damage client trust and breach privacy laws, severely harming Heather's reputation and exposing her to legal liability.\\n\\nSecondly, outsourcing reduces Heather's control over the quality and accuracy of record keeping. If the provider makes errors, processes records slowly, or has poor communication — particularly if located offshore where language and time-zone differences exist — Heather cannot easily intervene. Financial records are critical to compliance with tax law and regulatory reporting, so any inaccuracy could result in penalties or misinformed business decisions."
+            },
+            {
+              "id": "hr-strat-2016-q23c",
+              "year": 2016,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Heather's workforce is diverse and culturally competent. What are the advantages of this for Heather's business?",
+              "stimulus": "Heather owns a financial planning business with offices in four countries, including Australia.",
+              "suggested_words": 130,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Explains two clear reasons how a diverse, culturally competent workforce benefits Heather's international financial planning business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Explains one benefit clearly and outlines another in general terms."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Outlines one benefit of workforce diversity in general terms."
+                }
+              ],
+              "exemplar": "Firstly, a culturally diverse workforce enables Heather to communicate effectively with clients across her four international offices. Employees who speak multiple languages and understand local business customs can build stronger relationships with clients in each country, increase client acquisition and retention, and navigate cultural nuances around financial decision-making — which is critical in the sensitive area of financial planning.\\n\\nSecondly, a diverse workforce brings a wider range of perspectives, training backgrounds and problem-solving approaches. Employees from different countries may identify investment opportunities, regulatory frameworks or financial products in their home markets that Heather can leverage for clients globally. This diversity of thought drives innovation in service delivery and gives Heather a competitive advantage over less culturally diverse competitors, supporting business growth across all four international locations."
+            },
             {
               "id": "hr-strat-2018-q22b",
               "year": 2018,
