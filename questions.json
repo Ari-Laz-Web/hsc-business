@@ -10,6 +10,30 @@
           "name": "Role of operations management",
           "questions": [
             {
+              "id": "ops-role-2017-q21a",
+              "year": 2017,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the role of operations management in this business.",
+              "stimulus": "A recently established bank has branches in Australian capital cities and online customers across Australia. The management of this bank wants to focus on improving operations processes.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear general description of the role of operations management within the banking context, referencing strategic aspects such as cost leadership or differentiation."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes a relevant statement about operations management with some link to the business scenario."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes a basic or general statement about operations with limited application."
+                }
+              ],
+              "exemplar": "Operations management in this bank involves the strategic coordination of the transformation processes that convert inputs (customer deposits, staff labour, IT infrastructure) into outputs (loans, financial advice, transaction services). Its role is to support the bank's strategic direction by either achieving cost leadership through efficient branch and online processes, or differentiating the bank's services from competitors through superior customer experience across both physical branches and digital channels."
+            },
+            {
               "id": "ops-role-2018-mcq1",
               "year": 2018,
               "type": "mcq",
@@ -239,6 +263,44 @@
           "id": "ops-influences",
           "name": "Influences",
           "questions": [
+            {
+              "id": "ops-infl-2017-q16",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following actions is an example of corporate social responsibility?",
+              "options": [
+                "Sponsoring a sporting event",
+                "Opening a manufacturing plant",
+                "Introducing a community health program",
+                "Paying compensation for a work-related injury"
+              ],
+              "correct": "C",
+              "explanation": "Corporate social responsibility (CSR) involves voluntarily exceeding legal obligations to benefit society. A community health program is voluntary and benefits society. Sponsoring sport is usually marketing, opening a plant is operational, and paying compensation is a legal obligation, not voluntary CSR."
+            },
+            {
+              "id": "ops-infl-2017-q27",
+              "year": 2017,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse the effect of globalisation on operations management.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and clearly relates globalisation to operations management with depth. Applies relevant case studies and contemporary business issues. Sustained, logical and cohesive response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes evident the relationship between globalisation and operations management with relevant case studies and terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches globalisation or operations management in general terms with limited application."
+                }
+              ],
+              "exemplar": "Operations management involves the strategic coordination of the transformation processes that convert inputs into outputs, with the goal of supporting cost leadership or differentiation. Globalisation — the removal of barriers to trade, capital flows and information across national borders — has profoundly reshaped operations management in Australian businesses, affecting strategy, processes and performance objectives.\\n\\nSTRATEGIC ROLE OF OPERATIONS MANAGEMENT IN A GLOBAL CONTEXT\\n\\nThe strategic role of operations management is to align production processes with the business's overall strategy of cost leadership or differentiation. Globalisation has intensified competition, forcing operations managers to pursue these strategies more aggressively. Aldi's global cost leadership relies on standardised store layouts, limited product ranges and centralised buying across 19 countries — a strategy only viable because globalisation enables cross-border supply chains. Conversely, Apple pursues differentiation through globally coordinated design (California), manufacturing (China, India), and distribution, delivering products perceived as premium.\\n\\nGoods and services differentiation has been amplified by globalisation as consumers compare offerings against international benchmarks. Australian wine producers like Penfolds differentiate through provenance and quality controls calibrated to global premium standards, while Qantas differentiates its airline service against Singapore Airlines and Emirates through cabin design, route networks and loyalty partnerships.\\n\\nThe interdependence of operations with finance, marketing and HR is heightened in a global context: a decision to source from overseas affects exchange rate risk (finance), brand image (marketing) and workforce composition (HR).\\n\\nGLOBAL SOURCING\\n\\nGlobal sourcing — procuring inputs from the most cost-effective international suppliers — is perhaps the most visible effect of globalisation on operations. Australian businesses can access cheaper raw materials, components and labour, lowering input costs and supporting cost leadership.\\n\\nKmart Australia's transformation under former CEO Guy Russo from 2008 onward rebuilt the business around global sourcing — designing products in Melbourne but manufacturing in Bangladesh, China and Vietnam — enabling everyday low prices that revitalised the retailer. Similarly, Cotton On sources 65% of its garments from Asia, leveraging global production capacity to maintain low prices across 1,500 stores worldwide.\\n\\nHowever, global sourcing creates supply chain risk. The 2020-2022 COVID-19 disruptions exposed Australian operations to factory closures in Asia, shipping bottlenecks at the Port of Long Beach, and a sixfold increase in container costs. Operations managers responded by diversifying suppliers, increasing inventory buffers (reversing JIT principles), and nearshoring some production. Ethical risks have also emerged — the 2013 Rana Plaza collapse in Bangladesh, which killed 1,134 garment workers, forced businesses including Kmart and Target to publish supplier lists and join the Bangladesh Accord, embedding ethical sourcing in operations management.\\n\\nECONOMIES OF SCALE\\n\\nGlobalisation enables economies of scale by expanding the addressable market beyond domestic borders. Larger production volumes spread fixed costs across more units, lowering average cost per unit and improving competitiveness.\\n\\nBlackmores grew from a domestic vitamin business into an exporter to China, scaling its Warriewood manufacturing operations to meet demand from Chinese consumers buying via daigou channels. CSL operates plasma collection and biotechnology manufacturing across Australia, the US and Germany at scales unattainable in any single market — its 2020 acquisition of Vifor Pharma further expanded global scale.\\n\\nEconomies of scale also benefit service operations: Atlassian's Jira and Confluence software development costs are spread across millions of users in 200+ countries, supporting low subscription prices. However, scale operations are vulnerable to overcapacity in downturns, and globalised operations face the challenge of managing complexity across time zones, languages and regulations.\\n\\nSCANNING AND LEARNING\\n\\nGlobalisation makes scanning and learning — observing and adopting best practices from global competitors and benchmarks — a continuous operations management activity. Australian businesses no longer benchmark only locally; they study global leaders.\\n\\nWoolworths studied UK retailer Tesco's data analytics in the 2000s to develop its Everyday Rewards program and supply chain efficiencies. BHP scans mining operations in Chile, Brazil and Canada to optimise extraction techniques. Toyota Production System principles — including kaizen and JIT — have been adopted by Australian manufacturers like Bluescope Steel to lift productivity.\\n\\nDigital connectivity has accelerated scanning: operations managers attend virtual industry conferences, subscribe to global analytics platforms, and benchmark performance against international standards such as ISO 9001 (quality) and ISO 14001 (environmental management). However, blind adoption of foreign practices without local adaptation can fail — Bunnings Group's costly attempt to replicate its Australian hardware model in the UK as Bunnings UK led to its 2018 exit after $1.5 billion in losses, demonstrating that scanning must be paired with local insight.\\n\\nRESEARCH AND DEVELOPMENT\\n\\nGlobalisation expands R&D possibilities through international collaboration, access to global talent and dispersed innovation hubs. CSL conducts R&D across Melbourne, Bern and the US, drawing on diverse scientific expertise to develop vaccines and therapies — its rapid COVID-19 vaccine partnership with AstraZeneca demonstrated globalised R&D capability.\\n\\nResMed develops sleep and respiratory devices in Sydney, San Diego and global software hubs, integrating IoT and cloud capabilities sourced from global tech ecosystems. Smaller Australian firms increasingly tap global R&D through accelerators like Tech Stars and partnerships with universities like MIT.\\n\\nHowever, globalised R&D raises IP protection concerns, particularly in markets with weaker enforcement, and requires substantial coordination investment.\\n\\nCONCLUSION\\n\\nGlobalisation has transformed operations management from a domestically-focused function into a globally integrated strategic capability. Through global sourcing, economies of scale, scanning and learning, and globalised R&D, Australian businesses access lower costs, larger markets and superior practices. However, globalisation simultaneously increases exposure to supply chain disruption, ethical risk, and complexity. The success of businesses like Aldi, Kmart, CSL and Atlassian shows that operations managers who strategically harness globalisation while building resilience and ethical foundations achieve sustainable competitive advantage, while those who fail to adapt — as Australian car manufacturers found in 2017 — face decline. Globalisation is therefore both the greatest opportunity and the greatest challenge facing contemporary operations management."
+            },
             {
               "id": "ops-inf-2019-q24c",
               "year": 2019,
@@ -492,6 +554,45 @@
           "id": "ops-processes",
           "name": "Operations processes",
           "questions": [
+            {
+              "id": "ops-proc-2017-q21b",
+              "year": 2017,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain how improving operations processes may lead to better customer service.",
+              "stimulus": "A recently established bank has branches in Australian capital cities and online customers across Australia. The management of this bank wants to focus on improving operations processes.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear and developed explanation of how and/or why improvements to operations processes (inputs, transformation, outputs) lead to enhanced customer service in the banking context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides some explanation linking operations processes to customer service outcomes with relevant terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches or states ideas about operations processes or customer service in general terms."
+                }
+              ],
+              "exemplar": "Operations processes consist of inputs (transforming resources like staff and facilities, and transformed resources like customer information and money), the transformation process, and outputs. Improving these processes directly enhances customer service.\\n\\nImproving transforming resources, such as training tellers and upgrading branch facilities, means customers receive faster, more knowledgeable service. Improving the transformation process through technology — for example, deploying mobile banking apps, contactless ATMs and AI chatbots — reduces wait times and provides 24/7 access for online customers across Australia. Improving outputs such as loan products and account features ensures services better meet customer needs.\\n\\nLayout improvements within branches and streamlining of online banking workflows reduce errors and processing time. Together, these improvements lift customer satisfaction, build loyalty, and differentiate the new bank from established competitors, driving long-term profitability."
+            },
+            {
+              "id": "ops-proc-2017-q9",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which operations process uses a Gantt chart?",
+              "options": [
+                "Customisation",
+                "Input",
+                "Output",
+                "Transformation"
+              ],
+              "correct": "D",
+              "explanation": "A Gantt chart is a scheduling tool used in the transformation process to plan and monitor the sequence and timing of tasks. Inputs are the resources entering the process, outputs are the finished goods/services, and customisation is a feature of outputs, not a process."
+            },
             {
               "id": "ops-proc-2018-q16",
               "year": 2018,
@@ -815,6 +916,45 @@
           "id": "ops-strategies",
           "name": "Operations strategies",
           "questions": [
+            {
+              "id": "ops-proc-2017-q2",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In which aspect of a business does continuous improvement occur?",
+              "options": [
+                "Quality assurance",
+                "Legal compliance",
+                "Just-in-time management",
+                "Total quality management"
+              ],
+              "correct": "D",
+              "explanation": "Total quality management (TQM) is built on the philosophy of continuous improvement (kaizen) across all areas of the business. Quality assurance focuses on meeting set standards, JIT is about inventory minimisation, and legal compliance is about meeting laws."
+            },
+            {
+              "id": "ops-strat-2017-q21c",
+              "year": 2017,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Assess ONE operations strategy this business could use to improve its long-term success.",
+              "stimulus": "A recently established bank has branches in Australian capital cities and online customers across Australia. The management of this bank wants to focus on improving operations processes.",
+              "suggested_words": 250,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Makes a clear, well-supported judgement about the value of one specific operations strategy for the bank's long-term success, integrating positives, negatives and business application."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies an operations strategy and explains its relationship to the bank's long-term success with relevant features."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names or sketches an operations strategy in general terms with limited application."
+                }
+              ],
+              "exemplar": "One operations strategy the bank could use to improve long-term success is technology, specifically the adoption of new digital and AI-driven banking systems. Technology is highly suitable given that the bank already has online customers across Australia and competes with established banks like the Commonwealth Bank, which has invested heavily in its NetBank platform.\\n\\nImplementing mobile banking apps, AI-powered chatbots and biometric authentication transforms inputs into outputs more efficiently, reducing processing times and labour costs. This supports both a cost leadership position and differentiation through superior customer experience. The strategy also enables 24/7 service availability, removing the limitation of branch opening hours and allowing the bank to scale nationally without proportional increases in branch infrastructure.\\n\\nHowever, technology adoption involves significant upfront capital expenditure, ongoing cybersecurity risks, and the need for continuous staff retraining. There is also a risk of alienating older customers who prefer face-to-face service in branches, as seen when major banks faced backlash over branch closures.\\n\\nOn balance, technology is an effective long-term operations strategy because it addresses both efficiency and quality objectives simultaneously. Provided the bank balances digital investment with maintaining a strong branch presence in capital cities and invests in cybersecurity, technology will improve productivity, customer service and competitiveness. This positions the bank for sustainable long-term growth in an industry increasingly dominated by fintech disruptors such as Afterpay and digital-only banks like Up, making technology the most effective strategy for long-term success."
+            },
             {
               "id": "ops-strat-2018-q13",
               "year": 2018,
@@ -1478,6 +1618,21 @@
           "name": "Role of marketing",
           "questions": [
             {
+              "id": "mkt-role-2017-q14",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In which type of market would a large scale manufacturer of pasta purchase flour for its products?",
+              "options": [
+                "Consumer",
+                "Industrial",
+                "Mass",
+                "Resource"
+              ],
+              "correct": "B",
+              "explanation": "An industrial market is where businesses buy goods to use in producing other goods. The pasta manufacturer buys flour as an input. Consumer markets sell to end users, resource markets typically refer to raw materials like minerals, and mass market refers to a marketing approach."
+            },
+            {
               "id": "mkt-role-2018-q10",
               "year": 2018,
               "type": "mcq",
@@ -1630,6 +1785,84 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2017-q22a",
+              "year": 2017,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Why is ethical behaviour important in the marketing of this business?",
+              "stimulus": "An Australian company sells educational toys for pre-school aged children.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed and well-developed reasons why ethical behaviour matters in marketing for this specific business, applying context of children and parents."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides clear reasons or examples linking ethical behaviour to marketing outcomes."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies ethical behaviour or gives a basic example with limited reasoning."
+                }
+              ],
+              "exemplar": "Ethical behaviour is critical for this business because its target market is parents and carers purchasing toys for vulnerable pre-school children. Parents trust marketing claims about safety, durability and educational value, so any deception could cause physical harm and undermine consumer confidence.\\n\\nEthical marketing — accurate claims about learning outcomes, transparent labelling of materials and age-suitability, and avoiding manipulative advertising directed at children — protects the wellbeing of young consumers and respects parents as the decision-makers. This goes beyond mere compliance with Australian Consumer Law.\\n\\nEthical behaviour also builds brand reputation and customer loyalty in a category where word-of-mouth among parent networks drives sales. Businesses like LEGO have built premium positioning on ethical marketing, while toy makers caught misleading consumers face damaging media coverage and ACCC action. Ethical marketing therefore drives sales, increases profitability and protects the business's long-term market position."
+            },
+            {
+              "id": "mkt-infl-2017-q22b",
+              "year": 2017,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Explain the influence of consumer laws on this company's promotion strategies.",
+              "stimulus": "An Australian company sells educational toys for pre-school aged children.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains how and why specific consumer law provisions influence the company's promotion strategies, with applied examples."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides relevant features of consumer law and promotion strategies with some explanation of influence."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to promotion strategies or consumer laws with limited connection."
+                }
+              ],
+              "exemplar": "Consumer laws, particularly the Australian Consumer Law administered by the ACCC, significantly shape how this company promotes its educational toys. The Competition and Consumer Act 2010 prohibits misleading or deceptive conduct, false representations and bait advertising. This means the company's TV commercials, social media posts, brochures and parenting magazine ads must accurately represent what the toy does.\\n\\nFor example, if the company claims a toy 'develops literacy skills by 20%', it must be able to substantiate that claim with research evidence. Vague or exaggerated educational benefits risk ACCC investigation, fines of up to $10 million for companies, and forced corrective advertising. Heinz was famously fined $2.25 million in 2018 for misleading claims on its Shredz toddler snacks, illustrating the consequences for businesses targeting young children.\\n\\nConsumer laws also restrict promotion to children directly, encouraging the company to target parents through educational content marketing and influencer partnerships with parenting bloggers rather than aggressive child-focused advertising. Pricing promotions like 'was/now' claims must reflect genuine prior prices. Overall, consumer laws push the company toward evidence-based, transparent promotion strategies that build trust with parents and protect the brand from costly legal action."
+            },
+            {
+              "id": "mkt-infl-2017-q7",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Vinh's friends tell him that a particular brand makes poor quality jeans. He does not buy this brand due to his friends' opinions. Which factor is influencing his choice?",
+              "options": [
+                "Economic",
+                "Government",
+                "Sociocultural",
+                "Psychological"
+              ],
+              "correct": "C",
+              "explanation": "Sociocultural factors include the influence of peers, family, and reference groups on buying decisions. Psychological factors are internal to the consumer (motivation, perception), economic factors relate to income and the economy, and government factors involve regulations."
+            },
+            {
+              "id": "mkt-infl-2017-q8",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A customer returns a chainsaw to the place of purchase as it does not cut branches. On what basis must the business refund the cost of the chainsaw?",
+              "options": [
+                "Implied conditions",
+                "Ethical considerations",
+                "Relationship marketing",
+                "Accuracy in advertising"
+              ],
+              "correct": "A",
+              "explanation": "Implied conditions under Australian Consumer Law require that goods be of merchantable quality and fit for their intended purpose. A chainsaw that does not cut breaches this implied condition. Ethical considerations are voluntary, relationship marketing is about retention, and accuracy in advertising relates to promotion claims."
+            },
             {
               "id": "mkt-infl-2018-q14",
               "year": 2018,
@@ -1890,6 +2123,21 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2017-q3",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "As a result of a SWOT analysis, a gym operator finds that a new larger gym is opening nearby. The operator then decides to extend its opening hours. The aim of this strategy is to use",
+              "options": [
+                "a strength to overcome a threat.",
+                "a strength to overcome a weakness.",
+                "an opportunity to overcome a threat.",
+                "an opportunity to overcome a weakness."
+              ],
+              "correct": "A",
+              "explanation": "A competing gym opening nearby is an external threat. The ability to extend opening hours is an internal strength. The gym is therefore using a strength to overcome a threat. Opportunities are external positives, not internal capabilities."
+            },
             {
               "id": "mkt-proc-2018-q23a",
               "year": 2018,
@@ -2280,6 +2528,36 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strat-2017-q10",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Salty Sunscreens sells two sunscreens with identical ingredients: Salty Sunscreen for Teenagers (200 mL) at $15, and Salty Sunscreen for Adults (200 mL) at $10. This is an example of which of the following?",
+              "options": [
+                "Price leading",
+                "Price skimming",
+                "Price penetration",
+                "Price discrimination"
+              ],
+              "correct": "D",
+              "explanation": "Price discrimination involves charging different prices to different market segments for essentially the same product. Price leading is following a market leader's pricing, price skimming sets high initial prices for new products, and price penetration sets low prices to gain market share."
+            },
+            {
+              "id": "mkt-strat-2017-q5",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A manufacturer sells her organic meals only to major supermarkets. Which distribution channel has the manufacturer chosen?",
+              "options": [
+                "Exclusive",
+                "Intensive",
+                "Selective",
+                "Warehousing"
+              ],
+              "correct": "C",
+              "explanation": "Selective distribution uses a limited number of outlets in a geographic area to sell products. Exclusive uses only one outlet (e.g. luxury cars), intensive uses as many outlets as possible (e.g. soft drinks), and warehousing is a storage function, not a distribution channel."
+            },
             {
               "id": "mkt-strat-2018-q17",
               "year": 2018,
@@ -2853,6 +3131,21 @@
           "name": "Role of financial management",
           "questions": [
             {
+              "id": "fin-role-2017-q4",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business ensures all its debts are paid as they fall due. Which financial objective is the business satisfying?",
+              "options": [
+                "Efficiency",
+                "Growth",
+                "Liquidity",
+                "Solvency"
+              ],
+              "correct": "C",
+              "explanation": "Both C (liquidity) and D (solvency) were accepted by NESA. Liquidity is the ability to pay short-term debts as they fall due, while solvency is the ability to pay all debts (short and long term). The question phrasing fits both definitions, hence both answers were accepted."
+            },
+            {
               "id": "fin-role-2018-q24a",
               "year": 2018,
               "type": "short",
@@ -2907,6 +3200,45 @@
           "id": "fin-influences",
           "name": "Influences on financial management",
           "questions": [
+            {
+              "id": "fin-infl-2017-q18",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which organisation ensures that Barb's Batteries Pty Ltd operates in a financially responsible manner?",
+              "options": [
+                "Australian Securities and Investments Commission",
+                "Australian Prudential Regulation Authority",
+                "Australian Securities Exchange",
+                "Reserve Bank of Australia"
+              ],
+              "correct": "A",
+              "explanation": "ASIC regulates companies (including Pty Ltd companies) to ensure they meet financial reporting and conduct standards. APRA regulates banks and insurers, the ASX is the stock exchange (and Pty Ltd companies are not listed), and the RBA sets monetary policy."
+            },
+            {
+              "id": "fin-infl-2017-q24a",
+              "year": 2017,
+              "type": "short",
+              "marks": 2,
+              "prompt": "How will an appreciation of the Australian dollar affect the competitive position of this business?",
+              "stimulus": "A business imports computers from China and sells them to customers in Australia.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains that appreciation of the AUD reduces import costs and improves the business's competitive position."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes a general statement about the effect of AUD appreciation on the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to exchange rates or competitiveness in basic terms."
+                }
+              ],
+              "exemplar": "An appreciation of the Australian dollar means each AUD buys more Chinese yuan, so the cost of importing computers from China falls. The business can either pass on lower prices to Australian customers to gain market share against competitors, or maintain prices and earn higher profit margins. Either way, the business's competitive position in the Australian market improves significantly."
+            },
             {
               "id": "fin-infl-2018-q24c",
               "year": 2018,
@@ -3228,6 +3560,81 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2017-q12",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The efficiency of a business can best be determined by which of the following?",
+              "options": [
+                "Gross profit ratio",
+                "Value of current assets",
+                "Value of current liabilities",
+                "Accounts receivable turnover ratio"
+              ],
+              "correct": "D",
+              "explanation": "The accounts receivable turnover ratio measures how efficiently a business collects debts, making it an efficiency ratio. Gross profit ratio measures profitability, while raw values of current assets/liabilities alone do not measure efficiency."
+            },
+            {
+              "id": "fin-proc-2017-q15",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Mick is deciding whether to purchase Business A or Business B. Business A has $10 million in assets and $4 million in total sales. Business B has $1 million in assets and $2 million in total sales. Which of the following will help Mick make the best decision?",
+              "options": [
+                "Total sales",
+                "Industry averages",
+                "The value of assets",
+                "Comparative ratio analysis"
+              ],
+              "correct": "D",
+              "explanation": "Comparative ratio analysis allows Mick to evaluate both businesses across multiple dimensions (profitability, efficiency, liquidity) relative to each other and benchmarks. Looking at any single figure in isolation, such as total sales or assets, does not give the full picture."
+            },
+            {
+              "id": "fin-proc-2017-q17",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The expense ratio (total expenses ÷ sales) is always",
+              "options": [
+                "the difference between the net profit ratio and the gross profit ratio.",
+                "the difference between sales and the gross profit ratio.",
+                "greater than the gross profit ratio.",
+                "greater than the net profit ratio."
+              ],
+              "correct": "A",
+              "explanation": "Gross profit minus expenses equals net profit. Expressed as ratios of sales: gross profit ratio minus expense ratio equals net profit ratio. Therefore the expense ratio equals the gross profit ratio minus the net profit ratio — the difference between them."
+            },
+            {
+              "id": "fin-proc-2017-q20",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business reports a gross profit of $400 000, a gross profit ratio of 66.7%, and a net profit ratio of 50%. Which row shows the sales and net profit for this business?",
+              "options": [
+                "Sales $66 700 / Net profit $50 000",
+                "Sales $200 000 / Net profit $100 000",
+                "Sales $600 000 / Net profit $200 000",
+                "Sales $600 000 / Net profit $300 000"
+              ],
+              "correct": "D",
+              "explanation": "Sales = gross profit ÷ gross profit ratio = $400 000 ÷ 0.667 = $600 000. Net profit = sales × net profit ratio = $600 000 × 0.5 = $300 000. Option D matches both calculations."
+            },
+            {
+              "id": "fin-proc-2017-q6",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A sole trader invests $500 000 into her business. What is this an example of?",
+              "options": [
+                "An overdraft",
+                "Retained profits",
+                "Internal debt finance",
+                "Internal equity finance"
+              ],
+              "correct": "D",
+              "explanation": "Owner's contribution is internal equity finance — it comes from within the business (the owner) and does not need to be repaid. Retained profits are accumulated past profits, an overdraft is external debt, and internal debt finance is not a standard category."
+            },
             {
               "id": "fin-proc-2018-q12",
               "year": 2018,
@@ -3906,6 +4313,69 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2017-q13",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Why would a business factor its accounts receivables?",
+              "options": [
+                "To improve cash flow",
+                "To increase owner's equity",
+                "To increase the value of current assets",
+                "To improve the value of the business"
+              ],
+              "correct": "A",
+              "explanation": "Factoring is the sale of accounts receivable to a third party at a discount to receive cash immediately, improving short-term cash flow. It actually reduces current assets (receivables become cash, minus the fee) and does not directly affect owner's equity or overall business value."
+            },
+            {
+              "id": "fin-strat-2017-q24b",
+              "year": 2017,
+              "type": "short",
+              "marks": 5,
+              "prompt": "Justify the method of payment that would be most effective in reducing the business's financial risk.",
+              "stimulus": "A business imports computers from China and sells them to customers in Australia.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Supports in detail a specific method of payment as reducing financial risk for the importer, with clear argument and conclusion."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Explains how a method of payment reduces the business's financial risk."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a method of payment with limited justification."
+                }
+              ],
+              "exemplar": "The most effective method of payment for reducing financial risk for this Australian importer is clean payment, where the Chinese exporter ships the computers first and the importer pays only after receiving and inspecting them.\\n\\nFinancial risk in international trade arises from receiving faulty, damaged or incorrect goods, currency fluctuations, and supplier dishonesty. Clean payment minimises these risks for the importer because payment is withheld until physical inspection confirms the computers match the specifications and quantities ordered. If a shipment of 500 laptops arrives with defects or shortages, the business can negotiate a price reduction, refuse payment, or reject the shipment entirely — protecting its cash flow and reputation with Australian customers.\\n\\nIn contrast, payment in advance places all risk on the importer (paying before receipt), while a letter of credit, although secure for both parties, locks funds with the bank and incurs significant fees. A bill of exchange offers middle-ground security but still commits the importer to payment based on documentation alone.\\n\\nClean payment does require trust in the Chinese supplier, so it works best with established trading partners. For a business importing computers — high-value goods where defects are costly — clean payment is justified as the most effective method because it ensures the business only pays for satisfactory goods, directly reducing financial risk and protecting profitability."
+            },
+            {
+              "id": "fin-strat-2017-q25",
+              "year": 2017,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Write a business report in which you: outline ONE strategic role of financial management; recommend TWO strategies to improve financial performance; explain the importance of monitoring and controlling the business's marketing strategy.",
+              "stimulus": "Sportyz Goodz Ltd is a retailer that has been operating for the past 20 years in Australia. The directors have provided the following information: in 2013 the business issued new shares on the ASX and expanded its retail activities internationally; the business is facing increasing competition; the directors are concerned about the positioning of their product in the market; the directors want the business to operate for the benefit of shareholders in the long term. Financial data shows sales and profit trending downward across 2012-2017 despite international expansion.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Sketches a strategic role of financial management, provides detailed reasoning for two financial performance strategies, and explains in depth the importance of monitoring and controlling marketing strategy. Sustained, logical business report integrating extensive use of stimulus and accurate terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a strategic role of financial management, provides characteristics of strategies and marketing monitoring, with some use of business report format and terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to finance and/or marketing strategies in basic terms with limited report structure."
+                }
+              ],
+              "exemplar": "EXECUTIVE SUMMARY\\n\\nThis report addresses the financial and marketing challenges faced by Sportyz Goodz Ltd following its 2013 ASX listing and international expansion. With sales and profit in decline and competition intensifying, the report outlines the strategic role of financial management, recommends two strategies to improve financial performance, and explains the importance of monitoring and controlling the marketing strategy to restore shareholder value.\\n\\n1. STRATEGIC ROLE OF FINANCIAL MANAGEMENT\\n\\nThe strategic role of financial management at Sportyz Goodz is to set long-term financial objectives that maximise shareholder wealth, ensuring decisions about capital structure, investment and dividend policy align with the directors' stated goal of long-term shareholder benefit. Since the 2013 float, the business has acquired new obligations to shareholders and ASIC, including transparent reporting and consistent returns. The declining trend in both sales and profit shown in the financial data threatens dividend payments and share price, so financial management must now strategically realign the capital structure post-float, navigate falling profitability, and maintain competitiveness against rivals. This long-term orientation distinguishes strategic financial management from short-term, day-to-day operational finance.\\n\\n2. RECOMMENDED STRATEGIES TO IMPROVE FINANCIAL PERFORMANCE\\n\\nStrategy 1: Cost Controls through Expense Minimisation\\n\\nGiven that profit is declining faster than sales — indicated by the widening gap between the two lines on the graph — costs are rising disproportionately. Sportyz Goodz should implement cost centre analysis to identify which international stores, product lines or functional areas are generating losses. Fixed costs such as rent on unprofitable overseas stores should be reduced through lease renegotiation, sale-and-leaseback arrangements, or store closures, while variable costs such as inventory can be reduced through bulk purchasing agreements with suppliers and just-in-time inventory systems. Aldi's relentless expense minimisation through limited product lines and efficient store layouts is a benchmark example. Cost controls would directly lift the net profit margin and restore profit growth, benefiting shareholders.\\n\\nStrategy 2: Working Capital Management\\n\\nSportyz Goodz should improve working capital management to free up cash for reinvestment in growth areas. Control of current assets — particularly inventory — through stock turnover analysis would reduce capital tied up in slow-moving sporting goods. Tighter management of accounts receivable, including offering discounts for early payment, would accelerate cash inflows. On the liabilities side, negotiating extended payment terms with suppliers and considering leasing rather than buying store fit-outs would preserve cash. Improved working capital strengthens liquidity, enabling Sportyz Goodz to fund marketing repositioning without taking on more debt — a key concern given international expansion may have already increased gearing post-2013.\\n\\n3. IMPORTANCE OF MONITORING AND CONTROLLING THE MARKETING STRATEGY\\n\\nMonitoring and controlling marketing strategy is critical for Sportyz Goodz because the directors are concerned about product positioning and face increasing competition from rivals such as Rebel Sport, JB Hi-Fi sporting ranges, and online players like Amazon and Decathlon. Without continuous monitoring, the business cannot detect why sales have declined or whether its positioning resonates with target consumers.\\n\\nMonitoring involves developing a financial forecast — including sales targets and marketing budgets — and then comparing actual results to planned results. For Sportyz Goodz, sales variance analysis by store, product category and region would reveal whether the international expansion is failing or whether the Australian operations are losing share. Customer feedback, market research and social media analytics would test whether the brand's positioning still appeals.\\n\\nControlling allows management to revise the marketing strategy when monitoring reveals problems. If positioning research shows customers see Sportyz Goodz as outdated compared to Nike and Adidas-led competitors, the directors can reposition the brand through new product lines, repricing, store refurbishments or refreshed promotion. Lululemon's continuous monitoring of customer sentiment allows rapid product and store adjustments — a model Sportyz Goodz should adopt.\\n\\nImportantly, marketing and finance are interdependent: marketing revisions affect revenue and costs, which feed back into financial performance. Without monitoring and controlling marketing, the financial strategies above would be undermined by continued sales decline.\\n\\n4. CONCLUSION\\n\\nSportyz Goodz must align strategic financial management with active marketing oversight to reverse declining performance. Implementing cost controls and working capital management will lift profitability and free cash, while continuous monitoring and controlling of the marketing strategy will ensure the business's positioning, pricing and product offering respond to competitive pressures. Together, these actions will restore long-term shareholder value as the directors have requested."
+            },
+            {
               "id": "fin-strat-2018-q18",
               "year": 2018,
               "type": "mcq",
@@ -4272,6 +4742,59 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2017-q11",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Whose interests is an organisation most likely to be representing when it meets with government to discuss business flexibility, expansion and competitiveness?",
+              "options": [
+                "Employees",
+                "Employers",
+                "Society",
+                "Unions"
+              ],
+              "correct": "B",
+              "explanation": "Flexibility, expansion and competitiveness are concerns that align with employer associations (e.g. Australian Industry Group, Business Council of Australia). Unions advocate for employee wages and conditions, employees are individuals, and society is too broad and represented by community groups."
+            },
+            {
+              "id": "hr-infl-2017-q19",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business implements a new policy that limits the use of work-related email accounts before 8 am and after 8 pm. Which consideration has most likely led to the development of this policy?",
+              "options": [
+                "Economic",
+                "Legal",
+                "Social",
+                "Technological"
+              ],
+              "correct": "C",
+              "explanation": "This policy reflects social considerations around work-life balance, which is a growing social influence on HR management. While technology enables after-hours email, the motivation for restricting it is social, not technological. There is no specific legal requirement, nor is it economically driven."
+            },
+            {
+              "id": "hr-infl-2017-q26",
+              "year": 2017,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Analyse the response of human resource management to economic, technological and social influences.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and clearly relates HR management responses to economic, technological and social influences with depth. Applies relevant case studies and contemporary business issues. Sustained, logical and cohesive response using accurate business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes evident HR responses to the three influences with relevant case studies and business terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches influences in general terms with limited HR application."
+                }
+              ],
+              "exemplar": "Human resource management (HRM) involves the effective management of people to achieve business objectives, encompassing acquisition, development, maintenance and separation. As Australian businesses operate in an increasingly dynamic external environment, HRM must respond strategically to economic, technological and social influences to attract, retain and motivate the workforce required for competitive success.\\n\\nECONOMIC INFLUENCES\\n\\nEconomic influences include the economic cycle, structural change and globalisation. In economic downturns, businesses face reduced demand and tightening profits, forcing HRM to adjust workforce planning. During the 2020 COVID-19 recession, Qantas responded by standing down 20,000 workers and ultimately making 6,000 redundant, while accessing the JobKeeper subsidy to retain critical staff. In recovery and boom periods, HRM must compete for scarce talent, often through higher wages, signing bonuses and improved conditions, as seen in the 2022-2023 labour shortage when companies like Woolworths offered $3000 sign-on bonuses for warehouse workers.\\n\\nStructural change — the long-term shift away from manufacturing toward services and the knowledge economy — requires HRM to invest in retraining and redeployment. The closure of Ford, Holden and Toyota manufacturing in Australia between 2016 and 2017 led to large-scale outplacement programs, partnership with TAFE for reskilling, and significant redundancy packages. HRM responses include succession planning and lifelong learning programs.\\n\\nGlobalisation has opened both opportunities and pressures. Businesses like BHP and CSL recruit globally, with HRM managing cross-cultural training, expatriate assignments and global mobility policies. Conversely, the offshoring of services such as Telstra's customer service centres to the Philippines required HRM to manage redundancies in Australia while building HR capability internationally.\\n\\nTECHNOLOGICAL INFLUENCES\\n\\nTechnology has fundamentally restructured how work is performed and how HRM operates. Telecommuting and new communications technologies allow employees to work remotely, a trend dramatically accelerated by COVID-19. Atlassian formally adopted a 'Team Anywhere' policy in 2020, allowing employees to work from any location in Australia. HRM responded by redesigning job descriptions, performance management systems based on outputs rather than presence, and online onboarding programs.\\n\\nVirtual teams — geographically dispersed teams collaborating via platforms like Microsoft Teams, Slack and Zoom — require HRM to manage cultural differences, time zones and team cohesion. HRM has responded with virtual team-building activities, digital collaboration training, and revised leadership development for managing remote workers.\\n\\nDisruptive technologies such as artificial intelligence, automation and robotics have transformed roles. Commonwealth Bank's deployment of AI chatbots reduced demand for call-centre staff but increased demand for data scientists and AI specialists. HRM responses include workforce planning for skill obsolescence, large-scale reskilling programs (CBA committed $100 million to retraining), and revising recruitment criteria to prioritise digital literacy.\\n\\nHR itself has been transformed by technology: cloud-based HRIS platforms like Workday automate payroll and leave, AI-driven recruitment tools screen CVs, and people analytics inform retention strategies. This shift requires HR professionals themselves to be technologically capable.\\n\\nSOCIAL INFLUENCES\\n\\nSocial influences include changing work patterns, female participation, an ageing workforce, retirement age changes, living standards and work-life balance. HRM must respond to all of these to remain an employer of choice.\\n\\nChanging work patterns and career flexibility have made the traditional 9-to-5 model obsolete for many roles. HRM responses include flexible hours, compressed work weeks, job sharing and part-time options. The gig economy, exemplified by Uber and Menulog, has created entirely new HR challenges around worker classification, with the 2022 Fair Work amendments and recent High Court decisions affecting how HRM defines employees versus contractors.\\n\\nJob mobility — employees changing jobs every 3-5 years, particularly Millennials and Gen Z — has forced HRM to invest in retention strategies including career pathways, mentoring and culture initiatives. Atlassian's strong employer brand and equity programs are a deliberate response to job mobility.\\n\\nChanging female participation rates require HRM to support gender equality. Westpac's commitment to 50% female senior leadership representation, paid parental leave of up to 13 weeks for either parent, and anti-discrimination training reflect HR responses to social expectations and the Workplace Gender Equality Act 2012.\\n\\nThe ageing workforce and changing retirement age (now 67 from 2023) require HRM to retain older workers through phased retirement, ergonomic workplace design and respecting accumulated knowledge. Bunnings' deliberate hiring of older workers is a strategic response to demographic change.\\n\\nWork-life balance has become a defining social influence. HRM responses include the right to disconnect (legislated in Australia from August 2024), wellbeing programs, employee assistance programs and mental health initiatives. Medibank's mental health leave and Telstra's 'no email after 6pm' policy reflect this shift.\\n\\nLiving standards expectations mean employees demand competitive remuneration and meaningful work. HRM must continuously benchmark wages and provide intrinsic rewards such as purpose-driven work, particularly as ESG-conscious employees seek alignment with employer values.\\n\\nINTERDEPENDENCE AND CONCLUSION\\n\\nThese three influences interact: globalisation drives technology adoption, which enables remote work, which reshapes social expectations. Effective HRM must respond holistically. Atlassian exemplifies this — its global reach (economic), Team Anywhere policy (technological), and progressive parental leave (social) form a coherent HR strategy that has made it a global employer of choice.\\n\\nIn analysis, HRM that responds proactively to economic, technological and social influences enables business sustainability, while reactive HRM risks talent loss, legal exposure and competitive decline. The case studies of Qantas, Atlassian, CBA and Westpac demonstrate that responsive HRM is now a core driver of strategic business success, not merely an operational support function."
+            },
             {
               "id": "hr-infl-2018-q1",
               "year": 2018,
@@ -4877,6 +5400,93 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-proc-2017-q1",
+              "year": 2017,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A recruitment officer is employed by a business. In which specific business function are they most likely to be engaged?",
+              "options": [
+                "Finance",
+                "Human resources",
+                "Marketing",
+                "Operations"
+              ],
+              "correct": "B",
+              "explanation": "Recruitment is a core function of human resources, which manages the acquisition, development, maintenance and separation of employees. Finance handles money, marketing handles promotion and sales, and operations handles production processes."
+            },
+            {
+              "id": "hr-proc-2017-q23ai",
+              "year": 2017,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Describe ONE monetary reward that could be offered during the recruitment process.",
+              "stimulus": "A business has been rapidly expanding and requires additional staff.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides clear characteristics and features of one specific monetary reward in a recruitment context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows understanding of one monetary reward with limited detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a monetary reward in basic terms."
+                }
+              ],
+              "exemplar": "A signing bonus is a one-off monetary payment offered to a successful applicant when they accept the job offer. For a rapidly expanding business, a signing bonus of several thousand dollars helps attract skilled candidates quickly in a competitive labour market, signalling the value placed on the new employee and offsetting any income lost during the transition between roles."
+            },
+            {
+              "id": "hr-proc-2017-q23aii",
+              "year": 2017,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Describe ONE non-monetary reward that could be offered during the recruitment process.",
+              "stimulus": "A business has been rapidly expanding and requires additional staff.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides clear characteristics and features of one specific non-monetary reward in a recruitment context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows understanding of one non-monetary reward with limited detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies a non-monetary reward in basic terms."
+                }
+              ],
+              "exemplar": "Flexible working arrangements are a non-monetary reward where the business offers options such as working from home, flexible start and finish times, or compressed work weeks. For an expanding business, offering flexibility attracts quality candidates — particularly working parents or those seeking work-life balance — without significantly increasing wage costs, and is widely valued in the post-pandemic workforce."
+            },
+            {
+              "id": "hr-proc-2017-q23b",
+              "year": 2017,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline an issue that could arise during the acquisition process.",
+              "stimulus": "A business has been rapidly expanding and requires additional staff.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Sketches in general terms a clear issue that could arise during acquisition, with brief context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Makes a relevant statement about an acquisition issue."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Refers to acquisition in basic terms."
+                }
+              ],
+              "exemplar": "A skills shortage may arise during acquisition, where the rapidly expanding business cannot find applicants with the required qualifications and experience in the local labour market. This can delay filling critical roles, force the business to lower its selection criteria, or require costly use of recruitment agencies and sponsored overseas workers, slowing the business's expansion plans."
+            },
+            {
               "id": "hr-proc-2018-q22c",
               "year": 2018,
               "type": "short",
@@ -5424,6 +6034,30 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2017-q23c",
+              "year": 2017,
+              "type": "short",
+              "marks": 6,
+              "prompt": "The expansion of the business has led to conflict and uncertainty in the workplace. Recommend TWO indicators that could be used by the business to measure the effectiveness of human resource management.",
+              "stimulus": "A business has been rapidly expanding and requires additional staff. The expansion has led to conflict and uncertainty in the workplace.",
+              "suggested_words": 250,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed, well-reasoned recommendations of two indicators of HR effectiveness, with clear application to a business experiencing conflict and uncertainty."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides reasons in favour of one or two indicators with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies an indicator with limited reasoning."
+                }
+              ],
+              "exemplar": "Two indicators that would effectively measure the effectiveness of human resource management in this rapidly expanding business are the level of workplace disputation and the rate of staff turnover.\\n\\nThe level of disputation measures the frequency and severity of workplace conflicts, grievances and formal disputes. Given the scenario describes 'conflict and uncertainty' arising from rapid expansion, tracking the number of grievances lodged, days lost to industrial action and Fair Work Commission claims provides direct evidence of whether HR is managing change effectively. A rising disputation rate would indicate that staff feel unsupported through the expansion, signalling the need for better consultation, communication and training. Conversely, declining disputation suggests HR strategies such as employee involvement and grievance procedures are working. This indicator is highly recommended because it directly addresses the conflict identified in the scenario.\\n\\nThe rate of staff turnover measures the percentage of employees leaving the business over a period. High turnover during expansion is a serious warning sign, as it suggests dissatisfaction, poor onboarding of new hires, or culture clashes between long-standing and new staff. Turnover is costly — replacing an employee can cost up to 150% of their annual salary in recruitment, training and lost productivity. HR can use exit interviews to identify causes, then address them through induction programs, mentoring, and competitive rewards.\\n\\nTogether, these indicators provide both a 'conflict' lens (disputation) and a 'retention' lens (turnover), giving management a comprehensive view of HR effectiveness and clear data to refine strategies during expansion, similar to how Qantas tracks both metrics to manage its complex workforce."
+            },
             {
               "id": "hr-eff-2019-q17",
               "year": 2019,
