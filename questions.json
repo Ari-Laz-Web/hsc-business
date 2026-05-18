@@ -25,6 +25,38 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2018-q25",
+              "year": 2018,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Write a report for the directors of Fast Burgers Ltd in which you: describe the role of operations management for this business; demonstrate why corporate social responsibility should remain a key concern in the operation of this business; recommend THREE human resource strategies that Fast Burgers Ltd could use to maintain its record as an excellent employer.",
+              "stimulus": "Fast Burgers Ltd is a large fast food business that has been operating for 15 years in a market with high levels of competition. Recently Fast Burgers Ltd has offered its employees an extra day of annual leave in order to participate in charity work. This has been popular among staff, and the business publishes a short summary of these activities on its social media sites. Additionally Fast Burgers Ltd received an award for its services to its staff and to society. Similar businesses are now adopting this approach, so Fast Burgers Ltd is considering what else can be done to maintain its record as an excellent employer.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Provides detailed characteristics of the role of operations management, shows by example why CSR should remain a key concern, and provides detailed reasons for three HR strategies. Effectively integrates the stimulus and presents a sustained, cohesive business report using accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Provides characteristics of operations management, shows why CSR should remain a key concern, and provides reasons for three HR strategies. Uses stimulus and presents a logical business report."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Outlines operations management, CSR and some HR strategies with some report features and business terminology."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Identifies operations management, outlines CSR and HR strategies with basic terminology and limited report structure."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Refers to operations or HR management with basic terminology."
+                }
+              ],
+              "exemplar": "BUSINESS REPORT\nTo: Directors, Fast Burgers Ltd\nFrom: Business Consultant\nSubject: Operations management, CSR and HR strategies to maintain Fast Burgers Ltd's reputation as an excellent employer\n\n1. INTRODUCTION\nFast Burgers Ltd has operated successfully for 15 years in a highly competitive fast food market and has built a strong reputation through its CSR-focused approach to employees. As competitors adopt similar practices, this report describes the role of operations management at Fast Burgers Ltd, demonstrates why CSR must remain a key concern, and recommends three HR strategies to maintain its position as an excellent employer.\n\n2. ROLE OF OPERATIONS MANAGEMENT\nOperations management is responsible for the transformation of inputs into the finished burgers and services that customers purchase. At Fast Burgers Ltd, this includes sourcing ingredients, designing kitchen processes, ensuring food safety, managing inventory and producing consistent products quickly across many outlets.\n\nStrategically, operations is critical because it directly influences cost leadership and product/service differentiation — the two key sources of competitive advantage in fast food, similar to how McDonald's uses standardised processes to achieve scale while differentiating on speed and consistency. Operations management at Fast Burgers Ltd produces both goods (burgers, fries, drinks) and services (counter and drive-through service), meaning quality must be controlled across both tangible and intangible elements.\n\nOperations is also highly interdependent with other key business functions. It works with marketing to deliver the customer experience promised in promotions, with finance to manage food cost percentages and capital investment in kitchens, and with HR to ensure crew are recruited, trained and rostered effectively. The CSR initiative around charity leave is itself a joint operations–HR initiative, requiring rosters to accommodate absent staff.\n\n3. CORPORATE SOCIAL RESPONSIBILITY\nCSR must remain a key concern because it has become a major source of competitive differentiation for Fast Burgers Ltd. CSR goes beyond legal compliance — meeting minimum food safety, employment and environmental laws — and into ethical responsibility, where the business voluntarily acts in the interests of staff, the community and the environment.\n\nThe charity leave program demonstrates this. By publishing employees' charity work on social media and winning an award for services to staff and society, Fast Burgers Ltd has built positive brand equity that attracts socially conscious customers and high-quality employees. This is similar to how Patagonia has built customer loyalty through environmental activism, or how McDonald's uses Ronald McDonald House Charities to soften its corporate image.\n\nIf Fast Burgers Ltd abandoned CSR, it would risk reputational damage, loss of talented staff who value purpose, and being overtaken by competitors who are now imitating the approach. Environmental sustainability — such as reducing single-use plastics, sourcing free-range or local ingredients, and cutting food waste — should also be incorporated, as consumers in the fast food sector increasingly demand it.\n\n4. RECOMMENDED HR STRATEGIES\nThree HR strategies are recommended.\n\nFirst, performance management combined with rewards. Fast Burgers Ltd should implement a developmental performance management system that links performance reviews to both monetary rewards (bonuses, pay rises) and non-monetary rewards (employee of the month, additional charity leave, career development). This recognises high performers, reinforces values, and incentivises staff to stay loyal even as competitors copy the charity initiative.\n\nSecond, training and development. Fast Burgers Ltd should invest in both current-skills training (food safety, customer service) and future-skills development (leadership pathways, management training for crew members who aspire to become store managers). Like McDonald's Hamburger University, an internal training academy would create a clear career path, lift productivity, and signal genuine investment in staff.\n\nThird, flexible working conditions and job design. Many fast food workers are students or parents seeking work–life balance. Fast Burgers Ltd should offer flexible rostering, part-time options, job sharing and the ability to swap shifts via an app. Combined with job rotation across kitchen, counter and drive-through, this reduces monotony, accommodates personal needs and improves retention.\n\n5. CONCLUSION\nFast Burgers Ltd's reputation as an excellent employer rests on operations excellence, genuine CSR and proactive HR strategies. By strengthening these areas, the business can continue to attract and retain talented staff, differentiate itself from imitating competitors, and sustain its competitive position in the fast food market."
+            },
+            {
               "id": "ops-role-2019-q11",
               "year": 2019,
               "type": "mcq",
@@ -461,6 +493,45 @@
           "name": "Operations processes",
           "questions": [
             {
+              "id": "ops-proc-2018-q16",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following lists three examples of transformed resources?",
+              "options": [
+                "Customers, information, materials",
+                "Facilities, information, technology",
+                "Customers, human resources, materials",
+                "Facilities, human resources, technology"
+              ],
+              "correct": "A",
+              "explanation": "Transformed resources are inputs changed by the process — customers (in services), information and materials. Transforming resources (facilities, human resources, technology) are the means by which transformation occurs."
+            },
+            {
+              "id": "ops-proc-2018-q21a",
+              "year": 2018,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Describe TWO transformation processes that the business should implement.",
+              "stimulus": "A large business repairs trucks that transport heavy loads. The business struggles to complete many different types of repairs in an efficient manner. It has had difficulty meeting legal regulations and customer expectations.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides clear characteristics and features of two relevant transformation processes the business should implement, applied to the truck repair context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes one transformation process with features and outlines a second in general terms, with some application to the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies one or two transformation processes with limited or no description, or makes a general statement about transformation processes."
+                }
+              ],
+              "exemplar": "Two transformation processes the truck repair business should implement are sequencing and scheduling (using critical path analysis) and effective process layout.\n\nCritical path analysis is a scheduling tool that maps the sequence of tasks required to complete a repair and identifies which activities can be performed in parallel. The business could apply this to each truck repair so that, for example, panel work and engine diagnostics occur simultaneously rather than consecutively. This reduces total repair time, improves throughput and helps the business meet customer expectations for turnaround.\n\nProcess layout involves organising the workshop so that equipment, tools and bays are arranged in the logical order of repair. By grouping similar processes together (welding, painting, mechanical) and minimising movement of trucks between stations, the business reduces wasted time and labour costs while improving compliance with safety regulations."
+            },
+            {
               "id": "ops-proc-2019-q13",
               "year": 2019,
               "type": "mcq",
@@ -744,6 +815,75 @@
           "id": "ops-strategies",
           "name": "Operations strategies",
           "questions": [
+            {
+              "id": "ops-strat-2018-q13",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Sani works for a large manufacturing business. She organises the transport of raw materials and finished products across Australia. Which of the following describes her area of responsibility?",
+              "options": [
+                "Logistics",
+                "Service design",
+                "Global sourcing",
+                "Leading edge technology"
+              ],
+              "correct": "A",
+              "explanation": "Logistics involves the management of transportation, storage and distribution of materials and products. Service design relates to creating service offerings. Global sourcing is procurement from overseas. Leading edge technology is the latest available tech."
+            },
+            {
+              "id": "ops-strat-2018-q21b",
+              "year": 2018,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Recommend TWO quality management strategies that the business can use to overcome its problems.",
+              "stimulus": "A large business repairs trucks that transport heavy loads. The business struggles to complete many different types of repairs in an efficient manner. It has had difficulty meeting legal regulations and customer expectations.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5-6",
+                  "description": "Clearly recommends two quality management strategies with justified reasons in favour of each, applied to overcoming the business's specific problems."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes one or two quality management strategies with some application to the business, with limited justification."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies or outlines a feature of quality management with little application."
+                }
+              ],
+              "exemplar": "Two quality management strategies the truck repair business should adopt are quality control and quality assurance.\n\nQuality control involves the inspection of work at various stages of the repair process against predetermined standards. The business should introduce checkpoints with checklists at critical stages — for example, after welding, painting, brake testing and final road testing. A supervisor signs off on each stage before the next begins. This ensures defects are caught early, reducing costly rework and ensuring that repairs consistently meet customer expectations. It also creates documented evidence that legal regulations regarding heavy vehicle roadworthiness have been met.\n\nQuality assurance involves designing systems and processes that ensure quality is built in from the start, often through certification to external standards such as ISO 9001. The business should formally document procedures for each type of repair and pursue certification, which would require regular external audits. This is particularly valuable for heavy vehicle repairs where legal compliance is critical, as it provides assurance to customers and regulators that national standards are being met. It also differentiates the business from competitors, potentially attracting larger fleet customers and growing market share."
+            },
+            {
+              "id": "ops-strat-2018-q3",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Phil goes overseas to a photographic equipment trade fair where he sees other businesses using more efficient methods of taking passport photos. What is this an example of?",
+              "options": [
+                "Process layout",
+                "Economies of scale",
+                "Scanning and learning",
+                "Inventory management"
+              ],
+              "correct": "C",
+              "explanation": "Scanning and learning involves observing and adapting practices from other businesses to improve operations. Process layout concerns arrangement of equipment. Economies of scale relates to cost reductions from volume. Inventory management deals with stock levels."
+            },
+            {
+              "id": "ops-strat-2018-q6",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A cake manufacturer buys more sugar as its production output increases. This enables it to buy the sugar at a lower price per kilogram. What is this an example of?",
+              "options": [
+                "Logistics",
+                "Just-in-time",
+                "Global sourcing",
+                "Economies of scale"
+              ],
+              "correct": "D",
+              "explanation": "Economies of scale occur when increasing production volume reduces per-unit costs, often through bulk purchasing discounts. Logistics involves movement of goods. JIT minimises inventory. Global sourcing is about procurement from overseas suppliers."
+            },
             {
               "id": "ops-strat-2019-q27",
               "year": 2019,
@@ -1227,6 +1367,21 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-perf-2018-q9",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A soup manufacturer finds it difficult to cope with the increase in demand for soup in winter. Which performance objective could assist this business to meet the demand?",
+              "options": [
+                "Cost",
+                "Customisation",
+                "Dependability",
+                "Flexibility"
+              ],
+              "correct": "D",
+              "explanation": "Flexibility is the ability to adjust production volumes and respond to changes in demand. Cost concerns price competitiveness. Customisation is about tailoring products. Dependability is about reliable delivery."
+            },
+            {
               "id": "ops-perf-2020-q15",
               "year": 2020,
               "type": "mcq",
@@ -1322,6 +1477,21 @@
           "id": "mkt-role",
           "name": "Role of marketing",
           "questions": [
+            {
+              "id": "mkt-role-2018-q10",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which approach is being used when a business creates a focus group to evaluate a product?",
+              "options": [
+                "Marketing",
+                "Production",
+                "Selling",
+                "Standardisation"
+              ],
+              "correct": "A",
+              "explanation": "The marketing approach is consumer-oriented — using research like focus groups to understand customer needs and evaluate products. The production approach focuses on efficient manufacturing. The selling approach prioritises pushing existing products. Standardisation is a global marketing strategy."
+            },
             {
               "id": "mkt-role-2019-q21b",
               "year": 2019,
@@ -1460,6 +1630,21 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2018-q14",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Recently a business has removed one of its products from sale because it may contain toxic ingredients that could pose a health risk. What is the most likely influence on this marketing decision?",
+              "options": [
+                "Competitive fairness",
+                "Product differentiation",
+                "Government legislation",
+                "Economic considerations"
+              ],
+              "correct": "C",
+              "explanation": "Removing a product for health/safety reasons reflects compliance with government legislation such as consumer protection and product safety laws. Competitive fairness is about ethical competition. Product differentiation is a marketing strategy. Economic considerations relate to financial conditions."
+            },
             {
               "id": "mkt-inf-2019-q21a",
               "year": 2019,
@@ -1705,6 +1890,70 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2018-q23a",
+              "year": 2018,
+              "type": "short",
+              "marks": 1,
+              "prompt": "Identify ONE threat to this business.",
+              "stimulus": "A manufacturing business has conducted a situational analysis and determined the following:\n- It has loyal customers who make repeat purchases.\n- The size of the Australian market is shrinking.\n- Some staff need further training to use the factory machinery.\n- The owner has been invited to invest in similar factories in Europe.",
+              "suggested_words": 20,
+              "criteria": [
+                {
+                  "band": "1",
+                  "description": "Identifies one relevant threat from the stimulus."
+                }
+              ],
+              "exemplar": "A threat to this business is that the size of the Australian market is shrinking, which will reduce future sales opportunities for the business."
+            },
+            {
+              "id": "mkt-proc-2018-q23b",
+              "year": 2018,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Why could monitoring and controlling be an important part of the marketing process for this business?",
+              "stimulus": "A manufacturing business has conducted a situational analysis and determined the following:\n- It has loyal customers who make repeat purchases.\n- The size of the Australian market is shrinking.\n- Some staff need further training to use the factory machinery.\n- The owner has been invited to invest in similar factories in Europe.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "3",
+                  "description": "Clearly shows why monitoring and controlling are important to the marketing process for this business with application."
+                },
+                {
+                  "band": "2",
+                  "description": "Outlines why monitoring and controlling are used by this business."
+                },
+                {
+                  "band": "1",
+                  "description": "Refers to monitoring and controlling."
+                }
+              ],
+              "exemplar": "Monitoring and controlling are important because they allow the business to compare actual marketing outcomes against the planned objectives and identify any variance. Given the Australian market is shrinking, the business cannot rely on past performance — it must continuously track sales, customer retention rates and feedback from its loyal customer base to detect early warning signs of declining demand. By controlling the marketing strategy, the business can take corrective action such as adjusting pricing, repositioning, intensifying promotion to loyal customers, or shifting focus toward the European opportunity. Without monitoring and controlling, the business risks continuing with an ineffective strategy and losing market share in a contracting market."
+            },
+            {
+              "id": "mkt-proc-2018-q23c",
+              "year": 2018,
+              "type": "short",
+              "marks": 6,
+              "prompt": "How would the situational analysis change if the business decides to expand into Europe?",
+              "stimulus": "A manufacturing business has conducted a situational analysis and determined the following:\n- It has loyal customers who make repeat purchases.\n- The size of the Australian market is shrinking.\n- Some staff need further training to use the factory machinery.\n- The owner has been invited to invest in similar factories in Europe.",
+              "suggested_words": 220,
+              "criteria": [
+                {
+                  "band": "5-6",
+                  "description": "Clearly shows how each element of the SWOT situational analysis would change if the business expands into Europe."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of a changed situational analysis with some application."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies or outlines features of a situational analysis."
+                }
+              ],
+              "exemplar": "A SWOT situational analysis would shift substantially if the business expands into Europe.\n\nStrengths: The current strength of loyal Australian customers would no longer apply in Europe, where the business is unknown. New strengths would need to be drawn from its manufacturing experience, established quality systems and the financial backing of an existing profitable Australian operation.\n\nWeaknesses: The weakness that some staff need further training on factory machinery would expand significantly — an entirely new European workforce would need to be recruited and trained on the business's machinery and processes. A further weakness would be a lack of knowledge of European consumer preferences, regulations, languages and distribution networks.\n\nOpportunities: The opportunity to invest in similar factories in Europe would shift from being a potential option to being an active strategy. New opportunities would emerge, including access to a much larger consumer market, the EU single market, and potentially economies of scale from operating across multiple countries.\n\nThreats: The threat of a shrinking Australian market becomes less critical to overall performance but is replaced by new threats — established European competitors with stronger brand recognition, exposure to currency fluctuations between the AUD and EUR, and unfamiliar legal and regulatory environments such as GDPR and stricter EU product standards.\n\nOverall, the situational analysis becomes more complex, with both higher potential rewards and significantly greater risks."
+            },
             {
               "id": "mkt-proc-2019-q21c",
               "year": 2019,
@@ -2031,6 +2280,82 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strat-2018-q17",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Staff members at VAL's vegan restaurant wear uniforms with a large letter V on them. They are expected to greet customers with a smile and clean up any spills immediately. Which element of the marketing strategy are these requirements an example of?",
+              "options": [
+                "Packaging",
+                "Positioning",
+                "Promotion mix",
+                "Physical evidence"
+              ],
+              "correct": "D",
+              "explanation": "Physical evidence (one of the 7 Ps for services marketing) includes uniforms, cleanliness and the tangible aspects customers experience. Packaging refers to product wrapping. Positioning is market perception. Promotion mix is advertising and communication methods."
+            },
+            {
+              "id": "mkt-strat-2018-q2",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An entrepreneur uses social media to sell make-up to her friends and acquaintances. What marketing strategy is the entrepreneur using?",
+              "options": [
+                "E-marketing",
+                "Personal selling",
+                "Product differentiation",
+                "Intensive channel choice"
+              ],
+              "correct": "A",
+              "explanation": "E-marketing uses digital platforms such as social media to promote and sell products. Personal selling involves face-to-face interaction. Product differentiation distinguishes the product from competitors. Intensive distribution is about channel coverage."
+            },
+            {
+              "id": "mkt-strat-2018-q27",
+              "year": 2018,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain the influence of globalisation on the interaction of price and quality.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Makes clearly evident the relationship between globalisation and the interaction of price and quality, applying relevant case studies and contemporary business issues, with sustained, cohesive communication using accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Makes evident the relationship between globalisation and the interaction of price and quality, with relevant case studies and logical communication."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Gives characteristics and features of globalisation and its interaction with price and/or quality with some case study reference."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Outlines globalisation and/or price and/or quality with limited case study reference."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Makes limited reference to price and/or quality with basic terminology."
+                }
+              ],
+              "exemplar": "Globalisation — the increasing integration of national economies through trade, investment, technology and consumer markets — has fundamentally reshaped the way businesses use the interaction of price and quality in their marketing strategies. In the global marketplace, customers can compare products from around the world instantly, and businesses must position themselves carefully on the price–quality continuum to remain competitive. This response explains how globalisation influences the interaction of price and quality through global branding, standardisation versus customisation, global pricing, global sourcing and economies of scale, with reference to Aldi, Apple and Nike as contemporary case studies.\n\nFirst, globalisation has expanded the strategic options for the interaction of price and quality. The interaction can be high price/high quality (premium positioning), low price/high quality (value positioning), or low price/low quality (budget positioning). Apple is a leading example of high price/high quality global positioning — its iPhones command premium prices in over 175 countries based on perceived superior design, ecosystem and brand. Conversely, Aldi has used globalisation to deliver low price/high quality, leveraging its global private-label sourcing to undercut Australian competitors Coles and Woolworths while maintaining product quality, fundamentally disrupting the Australian grocery market.\n\nGlobal branding strengthens the price–quality interaction by building consistent brand equity across markets. A globally recognised brand allows businesses to charge premium prices because consumers associate the brand with reliable quality. Nike, for example, uses consistent global branding (the swoosh, the slogan 'Just Do It', celebrity endorsements such as Cristiano Ronaldo and Serena Williams) to position its products as high quality and justify premium pricing whether sold in Sydney, New York or Shanghai. Without global branding, Nike would be forced to compete on price alone in many markets. Apple similarly invests heavily in global branding so that consumers worldwide perceive its products as worth the premium.\n\nThe choice between standardisation and customisation directly affects the price–quality interaction. Standardisation — selling essentially the same product worldwide — enables economies of scale that lower per-unit costs, allowing businesses to either pass savings to consumers as lower prices or retain them as higher margins while maintaining consistent quality. Apple largely standardises the iPhone globally, with only minor adjustments for local regulations and language. This produces enormous economies of scale and consistent global quality perception. Customisation — adapting products to local tastes — generally raises costs and prices but improves perceived quality and relevance in each market. McDonald's customises its menu (McSpicy Paneer in India, McCafé focus in Australia) to suit local tastes, accepting higher complexity for stronger quality positioning in each country.\n\nGlobal pricing strategies are reshaped by globalisation. Businesses must decide between standardised global prices, market-customised prices and price discrimination across markets. Apple uses a market-customised pricing approach, charging more in countries with higher disposable incomes and lower in price-sensitive emerging markets, while maintaining premium positioning everywhere. However, the rise of e-commerce and global price transparency (consumers comparing prices on Amazon or Alibaba) has compressed pricing power — businesses can no longer hide significant price differences between markets, which forces them to compete more aggressively on the quality side of the equation.\n\nGlobal sourcing has had perhaps the most profound effect on the price–quality interaction. By sourcing inputs and manufacturing from the lowest-cost qualified producers worldwide — typically China, Vietnam, Bangladesh and India — businesses dramatically reduce production costs. This allows them to either lower prices to gain market share or maintain prices while expanding margins. Nike manufactures the vast majority of its footwear in Vietnam, Indonesia and China, enabling it to offer products at competitive prices while investing the savings in R&D, design and marketing that lift perceived quality. Aldi sources its private-label products globally from manufacturers that often also produce branded equivalents, achieving comparable quality at significantly lower cost — the foundation of its low price/high quality interaction. However, global sourcing has ethical risks: Nike has historically faced significant criticism over sweatshop conditions, and businesses must now invest in supply chain auditing to protect brand and quality reputation.\n\nEconomies of scale arising from access to global markets further strengthen the price–quality interaction. When a business sells to billions of consumers worldwide, it can spread fixed costs (R&D, marketing, tooling) over enormous volumes, dramatically lowering per-unit cost. Apple's massive R&D spending is justified by global sales volumes of over 200 million iPhones a year. This funds quality improvements that competitors with smaller markets cannot match, creating a virtuous cycle of higher quality at sustainable prices. Aldi's global scale similarly funds investment in efficient logistics and store design that smaller domestic chains cannot match.\n\nGlobalisation also increases competitive pressure, which intensifies the price–quality interaction. Australian businesses face competition from low-cost overseas producers selling directly via e-commerce platforms such as Amazon, eBay and Shein. This forces domestic producers either to drive down costs aggressively (often via global sourcing) or to differentiate on quality, service or sustainability. Many Australian fashion retailers have responded to Shein's ultra-low pricing by repositioning toward higher-quality, ethically produced ranges to defend margins.\n\nFinally, globalisation creates new ethical dimensions to the price–quality interaction. Consumers, particularly in developed markets, increasingly assess quality to include sustainability, fair labour and ethical sourcing. The rise of fast fashion brands such as Shein offering rock-bottom prices has triggered backlash, while businesses such as Patagonia successfully command premium prices by positioning quality as inseparable from environmental and social responsibility.\n\nIn conclusion, globalisation profoundly influences the interaction of price and quality by expanding strategic options, enabling global branding and economies of scale, lowering input costs through global sourcing, increasing price transparency and intensifying competition. Case studies of Apple, Nike and Aldi show that successful global businesses carefully manage this interaction — whether competing on premium quality, value or low cost — to build sustainable competitive advantage in an integrated world economy."
+            },
+            {
+              "id": "mkt-strat-2018-q5",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A landscaping business includes an image of a large purple coloured tree on its website and its vehicles. Which of the following is the most likely reason for this?",
+              "options": [
+                "Sales promotion",
+                "Niche marketing",
+                "Product branding",
+                "Competitive positioning"
+              ],
+              "correct": "C",
+              "explanation": "Using a consistent visual image across website and vehicles is product/business branding — creating a recognisable identity. Sales promotion involves short-term incentives. Niche marketing targets a narrow segment. Competitive positioning is about market perception relative to rivals."
+            },
             {
               "id": "mkt-strat-2019-q1",
               "year": 2019,
@@ -2528,6 +2853,25 @@
           "name": "Role of financial management",
           "questions": [
             {
+              "id": "fin-role-2018-q24a",
+              "year": 2018,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Why is liquidity an objective of financial management?",
+              "suggested_words": 70,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Shows why liquidity is an objective of financial management."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a general statement about liquidity or financial management."
+                }
+              ],
+              "exemplar": "Liquidity is an objective of financial management because it measures the ability of a business to meet its short-term financial obligations as they fall due. Maintaining liquidity ensures the business can pay suppliers, employees and creditors on time, which protects its credit rating, avoids penalty interest and late fees, and prevents the risk of insolvency."
+            },
+            {
               "id": "fin-role-2021-q1",
               "year": 2021,
               "type": "mcq",
@@ -2563,6 +2907,75 @@
           "id": "fin-influences",
           "name": "Influences on financial management",
           "questions": [
+            {
+              "id": "fin-infl-2018-q24c",
+              "year": 2018,
+              "type": "short",
+              "marks": 5,
+              "prompt": "A business has decided to expand into a larger factory and is now considering its financial options. Discuss the use of leasing and the use of mortgages as a source of long-term finance for this business.",
+              "suggested_words": 200,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed points for and against the use of both leasing and mortgages as long-term finance, applied to the factory expansion."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides characteristics and some points for or against leasing and/or mortgages."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Outlines or refers to leasing and/or mortgages."
+                }
+              ],
+              "exemplar": "A mortgage is a long-term loan secured against a property, typically repaid over 10–25 years. For this business, a mortgage would allow it to purchase the larger factory outright, building equity and ultimately owning a valuable asset that can be used as security for future borrowings. Advantages include fixed or variable repayment schedules, long repayment periods that improve cash flow, and the tax deductibility of interest payments. However, the business must provide a substantial deposit, pay establishment fees, and bear all maintenance and insurance costs. Interest costs over the life of the loan can be significant, and if the business cannot meet repayments the lender can repossess the property.\n\nLeasing involves renting the factory under a long-term contract, typically without owning the asset at the end. Advantages include no large upfront deposit, lower initial cash outflow, lease payments that are fully tax deductible, and the landlord generally handling major maintenance. This frees up capital for other expansion needs. Disadvantages include never owning the asset, exposure to rent increases at the end of each lease term, and restrictions on modifying the property.\n\nOverall, a mortgage suits a business with strong capital reserves seeking long-term asset growth, while leasing suits a business prioritising flexibility and cash flow during expansion."
+            },
+            {
+              "id": "fin-infl-2018-q26",
+              "year": 2018,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Explain the influence of global markets on financial management of businesses.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "17-20",
+                  "description": "Makes clearly evident the relationship between global market influences and financial management, applying relevant case studies and contemporary business issues, with sustained, cohesive communication using accurate terminology."
+                },
+                {
+                  "band": "13-16",
+                  "description": "Makes evident the relationship between global markets and financial management, with relevant case studies and logical communication."
+                },
+                {
+                  "band": "9-12",
+                  "description": "Gives characteristics and features of global markets and financial management with some reference to case studies and business terminology."
+                },
+                {
+                  "band": "5-8",
+                  "description": "Outlines global market influences and/or financial management with limited case study reference."
+                },
+                {
+                  "band": "1-4",
+                  "description": "Makes limited reference to financial management and basic terminology."
+                }
+              ],
+              "exemplar": "Global markets exert a significant influence on the financial management of businesses, shaping access to finance, the cost of capital, profitability and risk. Financial management — the strategic planning, sourcing, controlling and monitoring of financial resources — must increasingly account for global economic outlook, the availability of international funds, interest rate differentials, exchange rate volatility and global regulatory standards. This response explains these influences with reference to Qantas and Apple as case studies.\n\nThe first major global market influence is the economic outlook. Global business cycles directly affect demand, revenue and profitability planning. During the COVID-19 pandemic, Qantas saw international travel collapse, forcing its financial managers to dramatically revise budgets, defer capital expenditure on new aircraft, raise $1.4 billion through a share placement, and access government wage subsidies. Conversely, a strong global outlook allows businesses to plan for expansion, invest in growth and target higher profitability. Financial managers must therefore continuously monitor indicators such as global GDP growth, consumer confidence and trade flows when setting financial objectives and developing cash flow and profitability strategies.\n\nThe availability of funds in global capital markets is a second major influence. Global financial markets — including international bond markets, equity markets and syndicated bank loans — provide businesses with access to vastly larger pools of capital than domestic markets alone. Apple, for example, has issued tens of billions of dollars in corporate bonds in multiple currencies including USD, EUR and JPY, taking advantage of strong investor demand and historically low interest rates. This access reduces the cost of debt and supports massive capital returns to shareholders through buybacks. For Australian businesses, accessing offshore debt markets allows them to fund large infrastructure or expansion projects that would be too large for the domestic market alone. However, the global financial crisis (GFC) of 2008 demonstrated the risk of dependence on global funds — when liquidity dried up, even profitable businesses struggled to roll over short-term debt, forcing many to slash dividends and capital expenditure.\n\nInterest rates in global markets are a third critical influence. Businesses choose where to borrow based partly on interest rate differentials between countries. When US or European rates are lower than Australian rates, Australian businesses may borrow offshore to reduce financing costs. However, this introduces foreign exchange risk: if the AUD depreciates, the repayment of foreign-denominated debt becomes more expensive in AUD terms. Qantas, for example, holds significant USD-denominated debt related to aircraft purchases from Boeing, and uses hedging instruments (forward contracts, options) to manage this exposure. Financial managers therefore must integrate interest rate and exchange rate decisions, balancing potential interest savings against currency risk.\n\nExchange rate fluctuations themselves significantly affect financial management, particularly for exporters, importers and multinationals. An appreciation of the AUD reduces the AUD value of export revenue and foreign profits when repatriated, hurting profitability. Qantas's international division receives revenue in many currencies — USD, GBP, EUR, NZD — and its financial managers must hedge anticipated foreign currency cash flows up to 24 months ahead to provide certainty over earnings. Apple, as a US multinational, faces the opposite challenge: a strong USD reduces the USD value of its overseas sales, which represent over 50% of revenue. To manage this, Apple uses natural hedging (matching foreign currency revenues with foreign currency costs and debt), derivatives, and pricing strategies in different markets. The ethical issue of transfer pricing also arises here — multinationals such as Apple have been criticised for shifting profits to low-tax jurisdictions like Ireland, raising questions about ethical financial reporting.\n\nGlobal markets also influence working capital management. Longer global supply chains lengthen the cash cycle, as inventory in transit ties up capital for weeks. Apple's global supply chain — manufacturing largely in China and Vietnam, with components sourced worldwide — requires sophisticated inventory and accounts payable management to maintain liquidity. The COVID-19 disruption to global supply chains forced many businesses to reassess just-in-time inventory and hold more buffer stock, increasing working capital requirements. Financial managers must monitor and control these flows continuously and may use strategies such as factoring or supply chain finance to maintain liquidity.\n\nProfitability management is shaped by global cost structures and competition. Apple's high gross margins (around 40%+) are sustained partly through global sourcing of low-cost manufacturing while charging premium global prices. Conversely, global competition — for example from low-cost airlines on Qantas's international routes — compresses margins and forces tighter cost control. Financial managers must therefore use both cost controls (lean operations, global sourcing of cheaper inputs) and revenue controls (yield management, premium pricing) in response to global competitive dynamics.\n\nFinally, global markets bring ethical and regulatory influences. Compliance with international accounting standards (IFRS, adopted in Australia as AASB), anti-money-laundering rules, tax transparency requirements, and ESG reporting frameworks add complexity and cost to financial management. The Hayne Royal Commission and global scrutiny of corporate tax avoidance have raised expectations of transparent, ethical financial reporting. Businesses operating globally must invest in robust governance to maintain investor confidence.\n\nIn conclusion, global markets profoundly shape every aspect of financial management — from planning and sourcing finance, to managing cash flow, working capital, profitability and risk. Businesses such as Qantas and Apple show that effective global financial management requires sophisticated use of hedging, diversified funding sources, ethical reporting and continuous monitoring of global economic conditions. As globalisation continues, the financial managers who integrate these global influences into their strategy will deliver the strongest, most resilient outcomes for their businesses."
+            },
+            {
+              "id": "fin-infl-2018-q7",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In which of the following are both sources of funds appropriate for a business purchasing extra stock before a busy trading period?",
+              "options": [
+                "Debentures and factoring",
+                "Retained profits and unsecured notes",
+                "Debentures and bank overdraft",
+                "Retained profits and bank overdraft"
+              ],
+              "correct": "D",
+              "explanation": "Stock purchases are short-term needs requiring short-term finance. Retained profits (internal) and bank overdrafts (short-term external) are both appropriate. Debentures and unsecured notes are long-term sources unsuitable for short-term stock funding."
+            },
             {
               "id": "fin-inf-2019-q12",
               "year": 2019,
@@ -2815,6 +3228,51 @@
           "id": "fin-process",
           "name": "Processes of financial management",
           "questions": [
+            {
+              "id": "fin-proc-2018-q12",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Kevin is considering investing in a business. To help Kevin determine which business to invest in, he should consider comparative ratio analysis because",
+              "options": [
+                "cash flow is assessed.",
+                "market share is determined.",
+                "similar businesses are evaluated.",
+                "business sales growth is measured."
+              ],
+              "correct": "C",
+              "explanation": "Comparative ratio analysis compares a business's financial ratios with those of similar businesses (or industry benchmarks) to assess performance. It is not specifically about cash flow, market share or sales growth measurement."
+            },
+            {
+              "id": "fin-proc-2018-q19",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business provided the following financial information. Sales $600 000; Owner's equity $320 000; Accounts receivable $41 000; Cost of goods sold $200 000; Expenses $60 000. Gross profit ratio = gross profit ÷ sales. What is the gross profit ratio for the business?",
+              "options": [
+                "53%",
+                "67%",
+                "78%",
+                "90%"
+              ],
+              "correct": "B",
+              "explanation": "Gross profit = Sales − COGS = $600 000 − $200 000 = $400 000. Gross profit ratio = $400 000 ÷ $600 000 = 0.6667 = 67%."
+            },
+            {
+              "id": "fin-proc-2018-q20",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business provided the following financial information. Sales $600 000; Owner's equity $320 000; Accounts receivable $41 000; Cost of goods sold $200 000; Expenses $60 000. Accounts receivable turnover ratio = sales ÷ accounts receivable. What is the average number of days the business takes to collect its debts?",
+              "options": [
+                "15 days",
+                "25 days",
+                "29 days",
+                "30 days"
+              ],
+              "correct": "B",
+              "explanation": "Accounts receivable turnover = $600 000 ÷ $41 000 ≈ 14.63 times. Days = 365 ÷ 14.63 ≈ 25 days."
+            },
             {
               "id": "fin-proc-2019-q14",
               "year": 2019,
@@ -3448,6 +3906,44 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2018-q18",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Australian businesses export to Canada. What would happen if the value of the Australian dollar increased compared to the Canadian dollar?",
+              "options": [
+                "There would be no effect on Canadian businesses.",
+                "Australian imports from Canada would become more expensive.",
+                "Canadian businesses would find Australian products more affordable.",
+                "Australian products would become more expensive for Canadian businesses."
+              ],
+              "correct": "D",
+              "explanation": "An appreciation of the AUD means Canadians need more CAD to buy each AUD, making Australian exports more expensive for them. Canadian imports into Australia would become cheaper, not more expensive."
+            },
+            {
+              "id": "fin-strat-2018-q24b",
+              "year": 2018,
+              "type": "short",
+              "marks": 3,
+              "prompt": "How could a business improve management of its accounts receivable turnover?",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "3",
+                  "description": "Shows clearly how a business could improve its accounts receivable turnover with specific strategies."
+                },
+                {
+                  "band": "2",
+                  "description": "Outlines how accounts receivable turnover could be improved."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a general statement about accounts receivable turnover or working capital."
+                }
+              ],
+              "exemplar": "Accounts receivable turnover measures how quickly a business collects money from its debtors. To improve this, the business could shorten its credit terms — for example, reducing the interest-free period from 60 days to 30 days — which forces debtors to pay faster. Offering early payment discounts (such as 2% off if paid within 7 days) provides an incentive for prompt payment. The business could also tighten its credit policy by performing credit checks before extending credit, and use debt collection agencies or factoring (selling its debtors to a third party) to recover overdue amounts quickly. While factoring incurs a cost, all these strategies improve cash flow."
+            },
+            {
               "id": "fin-strat-2020-q24c",
               "year": 2020,
               "type": "short",
@@ -3734,12 +4230,78 @@
         {
           "id": "hr-role",
           "name": "Role of human resource management",
-          "questions": []
+          "questions": [
+            {
+              "id": "hr-role-2018-q15",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is a benefit to an Australian clothing company of outsourcing its manufacturing overseas?",
+              "options": [
+                "It can control the production costs.",
+                "It can lower human resource compliance costs.",
+                "It can decide which particular employees manufacture its products.",
+                "It can consider the foreign manufacturer's workers as its own employees."
+              ],
+              "correct": "B",
+              "explanation": "Outsourcing overseas typically reduces HR compliance costs because the business is not subject to Australian workplace laws for those workers. It does not give greater control over costs or employee selection, and outsourced workers are not the company's employees."
+            },
+            {
+              "id": "hr-role-2018-q22a",
+              "year": 2018,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the strategic role of human resources in this business.",
+              "stimulus": "The annual staff survey at a large retail store has revealed that employees are unmotivated and management does not listen to their suggestions and is unwilling to change. Management is concerned that many employees may leave the company and has brought in a consultant to manage change.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "2",
+                  "description": "Outlines the strategic role of HR as aligning HR practices with business objectives, applied to the retail store context."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a general statement about the role of HR management."
+                }
+              ],
+              "exemplar": "The strategic role of human resources in this retail store is to align the acquisition, development, maintenance and separation of staff with the long-term business objectives of profitability, growth and customer service. Strategically, HR should be working to build a positive culture, retain talented employees and ensure staff are motivated to meet customer expectations."
+            }
+          ]
         },
         {
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2018-q1",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Sarah works 40 hours per week. Her contract entitles her to sick leave, paid annual leave and superannuation. What type of employment is this?",
+              "options": [
+                "Casual full-time",
+                "Casual part-time",
+                "Permanent full-time",
+                "Permanent part-time"
+              ],
+              "correct": "C",
+              "explanation": "Permanent full-time employees work standard hours (typically 38-40 per week) and are entitled to leave benefits and superannuation. Casual employees do not receive paid leave entitlements. Part-time employees work fewer than full-time hours."
+            },
+            {
+              "id": "hr-infl-2018-q11",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "An increasing number of employees are seeking a better work–life balance. As a result, many businesses are adopting job sharing. This is an example of establishing",
+              "options": [
+                "communication systems in response to a social influence.",
+                "flexible working conditions in response to a social influence.",
+                "communication systems in response to an economic influence.",
+                "flexible working conditions in response to an economic influence."
+              ],
+              "correct": "B",
+              "explanation": "Job sharing is a form of flexible working condition. The desire for work-life balance reflects changing social values, making this a social influence on HR. It is not a communication system, nor primarily economic in nature."
+            },
             {
               "id": "hr-inf-2019-q23a",
               "year": 2019,
@@ -4315,6 +4877,45 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-proc-2018-q22c",
+              "year": 2018,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Justify the use of ONE human resource management process to improve the culture of this workplace.",
+              "stimulus": "The annual staff survey at a large retail store has revealed that employees are unmotivated and management does not listen to their suggestions and is unwilling to change. Management is concerned that many employees may leave the company and has brought in a consultant to manage change.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "3-4",
+                  "description": "Provides a clear argument with reasons in favour of using one HR process to improve workplace culture, with strong application."
+                },
+                {
+                  "band": "2",
+                  "description": "Outlines an HR process with limited justification."
+                },
+                {
+                  "band": "1",
+                  "description": "Makes a general statement about HR management."
+                }
+              ],
+              "exemplar": "The HR process of development is the most appropriate way to improve the culture of this retail store, because it directly addresses the survey findings of low motivation and a perception that management does not listen.\n\nDevelopment refers to building employees' skills, knowledge and capabilities beyond their immediate role, and importantly includes development of management. The consultant could design a program that trains store managers in participative leadership, active listening and change management, while also offering frontline staff opportunities to develop in areas such as customer service, communication and leadership pathways. Running joint workshops between managers and staff would help break down the existing communication barriers.\n\nThis is justified because development sends a clear signal that the business values its people and is genuinely willing to change — the very issue raised in the survey. As employees see managers behaving differently and as their own career prospects improve, motivation will rise, turnover will fall, and the culture will shift from one of disengagement to one of trust and collaboration, supporting long-term business performance."
+            },
+            {
+              "id": "hr-proc-2018-q4",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which of the following is an example of voluntary separation in the workplace?",
+              "options": [
+                "Dismissal",
+                "Promotion",
+                "Reinstatement",
+                "Resignation"
+              ],
+              "correct": "D",
+              "explanation": "Resignation is voluntary separation initiated by the employee. Dismissal is involuntary, initiated by the employer. Promotion is not a separation. Reinstatement is returning an employee to their role."
+            },
+            {
               "id": "hr-fin-2019-q25",
               "year": 2019,
               "type": "report",
@@ -4565,6 +5166,45 @@
           "id": "hr-strategies",
           "name": "Strategies in human resource management",
           "questions": [
+            {
+              "id": "hr-strat-2018-q22b",
+              "year": 2018,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Demonstrate how the leadership style of this business has affected employee performance.",
+              "stimulus": "The annual staff survey at a large retail store has revealed that employees are unmotivated and management does not listen to their suggestions and is unwilling to change. Management is concerned that many employees may leave the company and has brought in a consultant to manage change.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "3-4",
+                  "description": "Clearly demonstrates with a relevant example how the leadership style has affected employee performance in the retail store."
+                },
+                {
+                  "band": "2",
+                  "description": "Outlines a leadership style with some link to employee performance."
+                },
+                {
+                  "band": "1",
+                  "description": "Identifies a leadership style."
+                }
+              ],
+              "exemplar": "The retail store appears to operate under an autocratic leadership style, where management makes decisions unilaterally and does not listen to employee suggestions or consider change. This has had a significant negative effect on employee performance.\n\nBecause employees feel their input is dismissed, they are demotivated and disengaged from their work. This is evident from the survey results showing low motivation. On the shop floor, this translates into reduced productivity, poorer customer service, higher absenteeism and ultimately the risk of high staff turnover. For example, a sales assistant with ideas for improving the store layout who is repeatedly ignored will stop putting forward suggestions and become passive, doing only the minimum required.\n\nIn contrast, a more participative or democratic leadership style — where employees are consulted on decisions — would likely improve motivation, foster a positive culture and lift performance. The decision to bring in a consultant signals management's recognition that the current leadership approach is undermining performance."
+            },
+            {
+              "id": "hr-strat-2018-q8",
+              "year": 2018,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The Fair Work Commission has finalised a dispute between a large business and a union. Which strategy has been used to resolve this workplace dispute?",
+              "options": [
+                "Mediation",
+                "Arbitration",
+                "Negotiation",
+                "Common law action"
+              ],
+              "correct": "B",
+              "explanation": "When the Fair Work Commission finalises (decides) a dispute, this is arbitration — a third party makes a legally binding decision. Mediation involves a third party facilitating discussion without imposing a decision. Negotiation is direct discussion. Common law action involves court proceedings."
+            },
             {
               "id": "hr-strat-2019-q10",
               "year": 2019,
