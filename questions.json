@@ -25,6 +25,30 @@
               "explanation": "Cost leadership and product differentiation are strategic roles of operations management. The other options describe operational/tactical activities, not strategic ones."
             },
             {
+              "id": "ops-role-2020-q23a",
+              "year": 2020,
+              "type": "short",
+              "marks": 4,
+              "prompt": "How could the strategic role of operations management assist this business?",
+              "stimulus": "A denim jeans clothing store is concerned about declining sales. They have identified that the lower sales are a result of: outdated store presentation; increased foreign competition; a reluctance to adopt modern in-store payment methods.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides detailed ways in which the strategic role of operations management could assist the business, linked clearly to the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides features of operations management's strategic role with some application to the business."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches aspects of operations management with limited context."
+                }
+              ],
+              "exemplar": "The strategic role of operations management is to ensure the operations function effectively contributes to achieving the business's long-term goals and competitive position. For this denim jeans store, operations management can address declining sales in several ways.\n\nFirst, through cost leadership, the business could streamline supply chains and use global sourcing of denim fabric to reduce input costs, allowing competitive retail prices against foreign competitors such as Uniqlo. Second, through goods/services differentiation, operations could expand the product range beyond denim — adding accessories, non-denim apparel or in-store customisation services (e.g. embroidery, hemming). This attracts a broader customer base and creates a unique value proposition.\n\nFinally, operations management drives modernisation of processes — including refreshing store layout and adopting contactless and mobile payment systems (Apple Pay, Tap-to-Pay). This improves customer experience, speeds up transactions and signals that the business is current and competitive, ultimately reversing the decline in sales."
+            },
+            {
               "id": "ops-role-2022-q12",
               "year": 2022,
               "type": "mcq",
@@ -398,6 +422,21 @@
           "name": "Operations processes",
           "questions": [
             {
+              "id": "ops-proc-2020-q11",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A manager is concerned about ongoing theft and the cost of storing raw materials. Which inventory management strategy would best address the manager's concerns?",
+              "options": [
+                "Just-in-time",
+                "Warehousing",
+                "Last-in-first-out",
+                "First-in-first-out"
+              ],
+              "correct": "A",
+              "explanation": "Just-in-time minimises inventory held on site, reducing both storage costs and exposure to theft. Warehousing increases storage costs; LIFO and FIFO are accounting/inventory rotation methods that don't reduce holdings."
+            },
+            {
               "id": "ops-processes-2021-q10",
               "year": 2021,
               "type": "mcq",
@@ -573,6 +612,83 @@
           "id": "ops-strategies",
           "name": "Operations strategies",
           "questions": [
+            {
+              "id": "ops-strat-2020-q13",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "In order to achieve best practice, a mobile phone company examines global trends in phone technology before designing and producing their phones. What operations strategy is this business using?",
+              "options": [
+                "Standardisation",
+                "Global sourcing",
+                "Scanning and learning",
+                "Inventory management"
+              ],
+              "correct": "C",
+              "explanation": "Scanning and learning involves monitoring global developments and adapting to best practice. Standardisation refers to uniform products; global sourcing relates to procurement of inputs; inventory management concerns stock levels."
+            },
+            {
+              "id": "ops-strat-2020-q23b",
+              "year": 2020,
+              "type": "short",
+              "marks": 6,
+              "prompt": "Analyse operations strategies that could be used to address TWO operations influences affecting this business.",
+              "stimulus": "A denim jeans clothing store is concerned about declining sales. They have identified that the lower sales are a result of: outdated store presentation; increased foreign competition; a reluctance to adopt modern in-store payment methods.",
+              "suggested_words": 220,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Draws out and relates the implications of using operations strategies to address two specific operations influences affecting this business."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides features of operations strategies that could address two operations influences, with some link."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Sketches a strategy or influence in general terms with limited connection."
+                }
+              ],
+              "exemplar": "Two key operations influences affecting this denim store are technology and cost-based competition (a globalisation influence). Operations strategies can address both.\n\nTo address technology, the business should invest in leading-edge in-store payment systems such as EFTPOS contactless terminals, Apple Pay, Google Pay and Tap-to-Pay smartphone/smartwatch acceptance. This technology strategy reduces transaction times, modernises the customer experience and signals that the business is current. Additionally, technology can be applied through self-service kiosks and a refreshed point-of-sale system that integrates with inventory management. The implication is improved customer satisfaction, higher throughput and increased repeat purchases — reversing the sales decline. Failure to adopt these technologies risks losing customers to digitally savvy competitors like Cotton On.\n\nTo address cost-based competition from foreign businesses, the store could implement supply chain management combined with global sourcing. Sourcing denim from lower-cost manufacturers (e.g. in Bangladesh, Vietnam) reduces input costs, enabling more competitive retail pricing. Tightening supplier relationships, optimising logistics, and improving inventory turnover further lower costs. The performance objective of cost is enhanced. The implication is that the business can match or undercut foreign competitors' pricing while maintaining margin. This is the approach used by Kmart Australia, which leverages global sourcing to deliver low prices.\n\nTogether, these operations strategies modernise the store, improve competitiveness, and restore declining sales."
+            },
+            {
+              "id": "ops-strat-2020-q25",
+              "year": 2020,
+              "type": "report",
+              "marks": 20,
+              "prompt": "Icecreams R Us exclusively delivers ice-cream to homes in Newcastle. To increase market share, they are negotiating with a major service station chain, Eucafuels Ltd, to sell their brand of ice-cream throughout NSW. Before they agree to sell the ice-cream, Eucafuels Ltd have a number of concerns over the ability of Icecreams R Us to: deliver ice-cream to their outlets in NSW in a timely manner; create an awareness that the ice-cream will be sold at Eucafuels Ltd outlets; produce an increased volume of ice-cream while maintaining a quality product. To address these concerns, you have been hired as a consultant by Icecreams R Us to write a report to their directors. In your report: describe TWO physical distribution issues that the business needs to consider in the delivery of their product; justify ONE promotional strategy the business could use; recommend possible changes the business could make to their operations processes to address the volume and quality concerns of Eucafuels Ltd.",
+              "suggested_words": 800,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Sustained, logical and cohesive business report integrating two detailed physical distribution issues, a clearly justified promotional strategy, and detailed recommendations for operations process changes. Extensive use of business terminology and effective application of the scenario."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Logical report covering two physical distribution issues, one promotional strategy and operations process changes, with some application to the scenario and use of business terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to operations and/or marketing with basic terminology and minimal application to the scenario."
+                }
+              ],
+              "exemplar": "BUSINESS REPORT\nTo: Directors, Icecreams R Us\nFrom: Marketing and Operations Consultant\nSubject: Strategies to address Eucafuels Ltd's concerns and support NSW expansion\n\n1.0 INTRODUCTION\nIcecreams R Us is transitioning from a Newcastle-based home delivery business to a state-wide supplier through Eucafuels Ltd service stations. This report outlines two physical distribution issues, justifies a promotional strategy, and recommends changes to operations processes to address Eucafuels Ltd's volume and quality concerns.\n\n2.0 PHYSICAL DISTRIBUTION ISSUES\n2.1 Transport\nTransport is a critical physical distribution issue because ice-cream is a perishable, temperature-sensitive product. Icecreams R Us must invest in a fleet of refrigerated trucks (reefer trucks) capable of maintaining temperatures below −18°C from the manufacturing facility to Eucafuels Ltd outlets across NSW. The business should consider whether to operate its own fleet (giving control over scheduling and quality) or outsource to a specialist cold-chain logistics provider such as Linfox or Toll. Given the scale of state-wide delivery, a hybrid model — owning trucks for Newcastle and contracting third-party logistics for regional NSW — would balance cost and control. Failure to manage transport effectively would cause melting, product spoilage and damage to brand reputation, similar to issues faced by Streets when distributing premium products.\n\n2.2 Warehousing\nWarehousing is the second issue. Icecreams R Us will require centrally located cold-storage warehouses to enable rapid distribution. A primary frozen warehouse near Sydney (with secondary facilities in regional NSW such as Wagga Wagga or Coffs Harbour) would minimise delivery time to outlets. Warehouses must be equipped with industrial-grade freezer rooms maintaining consistent sub-zero temperatures and have inventory management systems to ensure stock rotation using FIFO (first-in-first-out), preventing product quality decline. Adequate warehouse capacity is essential for buffering against demand variation and ensuring outlets are never out of stock during peak summer months.\n\n3.0 PROMOTIONAL STRATEGY\nThe most appropriate promotional strategy is an integrated advertising campaign combined with sales promotions at the point of sale. Television, radio and digital advertising (Facebook, Instagram, TikTok) should communicate the launch of Icecreams R Us at Eucafuels Ltd outlets across NSW. This is justified because Icecreams R Us is currently only known in Newcastle — wide-reach advertising is essential to build state-wide brand awareness rapidly. Geo-targeted digital advertising can direct consumers to the nearest Eucafuels Ltd outlet stocking the product, mirroring the successful launch strategy used by Connoisseur ice-cream. Sales promotions such as a \"$2 cone with any fuel purchase\" or buy-one-get-one-free offers in the first month would drive trial and convert awareness into sales. Public relations activity — media releases and product sampling events at flagship Eucafuels Ltd sites — would generate publicity at lower cost than advertising alone. Combined, these elements address Eucafuels Ltd's awareness concern effectively and cost-efficiently.\n\n4.0 OPERATIONS PROCESS CHANGES\nTo address volume and quality concerns, several changes to transformation processes are recommended.\n\n4.1 Technology and process layout\nIcecreams R Us should invest in automated production technology — high-capacity continuous freezers, automated filling and packaging lines, and CAD-designed factory layout to maximise throughput. This replicates the approach used by Bulla Dairy Foods, which uses automation to scale volume without compromising quality.\n\n4.2 Sequencing and scheduling\nGantt charts and critical path analysis should be used to coordinate production runs across multiple flavours and pack sizes, ensuring delivery deadlines to Eucafuels Ltd are met. This addresses variation in demand, with higher production scheduled before summer peaks.\n\n4.3 Monitoring, control and improvement\nA Total Quality Management (TQM) framework should be introduced, including statistical process control of temperature, weight, and texture at each stage. Quality circles involving production staff would identify continuous improvements. ISO 22000 (food safety) certification would formalise quality assurance — providing Eucafuels Ltd with documented confidence.\n\n4.4 Influence of volume and variety\nManaging the four V's (volume, variety, variation and visibility) is critical. Standardising the core product range (e.g. 6–8 hero flavours) reduces complexity, allowing higher volume production at lower cost, while satisfying Eucafuels Ltd's volume requirements without compromising quality.\n\n5.0 CONCLUSION\nThrough careful management of transport and warehousing, an integrated promotional campaign, and modernisation of operations processes via technology, scheduling and TQM, Icecreams R Us can confidently meet Eucafuels Ltd's concerns and successfully expand into the NSW market."
+            },
+            {
+              "id": "ops-strat-2020-q6",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "The main advantage of economies of scale is that a business can achieve",
+              "options": [
+                "economic objectives.",
+                "industry benchmarks.",
+                "lower per unit input costs.",
+                "simplified supply chain management."
+              ],
+              "correct": "C",
+              "explanation": "Economies of scale occur when the per-unit cost of production falls as output volume rises, due to fixed costs being spread across more units and bulk purchasing power. The other options are unrelated outcomes."
+            },
             {
               "id": "ops-strat-2021-report",
               "year": 2021,
@@ -941,6 +1057,36 @@
           "name": "Performance objectives",
           "questions": [
             {
+              "id": "ops-perf-2020-q15",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A sandwich shop bakes a variety of breads throughout the day. Customers select their choice of bread and filling(s) and sandwiches are then made to order. Which pair of performance objectives would have influenced the development of this approach?",
+              "options": [
+                "Cost and efficiency",
+                "Efficiency and quality",
+                "Cost and customisation",
+                "Quality and customisation"
+              ],
+              "correct": "D",
+              "explanation": "Freshly baking breads daily addresses quality, while made-to-order sandwiches achieve customisation. The approach is unlikely to be the cheapest or most efficient option, ruling out cost and efficiency."
+            },
+            {
+              "id": "ops-perf-2020-q7",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "What is the most likely reason for an Australian clothing business choosing to manufacture locally?",
+              "options": [
+                "To achieve cost leadership",
+                "To maintain quality control",
+                "To focus on other key business functions",
+                "To take advantage of lower overseas wages"
+              ],
+              "correct": "B",
+              "explanation": "Manufacturing locally allows direct oversight of production processes, ensuring quality standards are maintained. Cost leadership (A) and lower wages (D) generally favour offshore manufacturing; focusing on other functions (C) suggests outsourcing, not local production."
+            },
+            {
               "id": "ops-perf-2022-q21a",
               "year": 2022,
               "type": "short",
@@ -1120,6 +1266,21 @@
           "id": "mkt-influences",
           "name": "Influences on marketing",
           "questions": [
+            {
+              "id": "mkt-infl-2020-q4",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Australian businesses are required by law to offer a refund if the product or service",
+              "options": [
+                "does not match the description.",
+                "is no longer required by the customer.",
+                "is damaged by the customer after purchase.",
+                "is available at a competitor's business for a cheaper price."
+              ],
+              "correct": "A",
+              "explanation": "Under Australian Consumer Law, refunds must be offered when goods do not match the description, are faulty, or are not fit for purpose. Change of mind (B), customer-caused damage (C), and competitor pricing (D) do not trigger refund obligations."
+            },
             {
               "id": "mkt-influences-2021-q24b",
               "year": 2021,
@@ -1311,6 +1472,60 @@
           "id": "mkt-process",
           "name": "Marketing process",
           "questions": [
+            {
+              "id": "mkt-proc-2020-q16",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A bathroom products business cannot sustain the production of their current range. A consultant has advised the business to reduce the product range. Actual and planned results for the year: Coconut Handwash (Jan-Jun actual 7500, planned 7500; Jul-Dec actual 10000, planned 9000); Lavender Bodywash (8000/8500; 8500/9500); Blueberry Handcream (7000/6000; 7500/8500); Peppermint Bath Salts (8000/7000; 10000/8000). By comparing actual and planned results, which product should be deleted?",
+              "options": [
+                "Coconut Handwash",
+                "Lavender Bodywash",
+                "Blueberry Handcream",
+                "Peppermint Bath Salts"
+              ],
+              "correct": "B",
+              "explanation": "Lavender Bodywash underperformed its plan in both halves of the year (8000 vs 8500, and 8500 vs 9500), making it the consistent underachiever. The other products met or exceeded plan in at least one period."
+            },
+            {
+              "id": "mkt-proc-2020-q22a",
+              "year": 2020,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Clarify the purpose of a SWOT analysis for this business.",
+              "stimulus": "A popular Australian guitar manufacturer is about to enter the US market using a standardised marketing strategy.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains the purpose of a SWOT analysis in the context of this business entering the US market, linking to the marketing process."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies SWOT elements and links them to the business's situation."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names elements of a SWOT analysis with limited contextual application."
+                }
+              ],
+              "exemplar": "A SWOT analysis is a situational analysis tool used in the marketing process to evaluate a business's internal Strengths and Weaknesses, and external Opportunities and Threats. For this Australian guitar manufacturer, the purpose of conducting a SWOT before entering the US market is to identify internal strengths (e.g. quality craftsmanship, established Australian brand reputation) and weaknesses (e.g. limited US distribution channels, smaller scale than competitors like Fender). It also identifies opportunities (e.g. large US guitar market) and threats (e.g. dominant US competitors, tariffs). The SWOT informs the marketing objectives and strategies, ensuring decisions about the standardised marketing approach are evidence-based."
+            },
+            {
+              "id": "mkt-proc-2020-q5",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business collects its own primary data through market research prior to developing a new product. Which of the following could this business have used to provide primary data?",
+              "options": [
+                "Customer survey",
+                "Published journal",
+                "Australian Bureau of Statistics catalogue",
+                "Australian Bureau of Statistics census data"
+              ],
+              "correct": "A",
+              "explanation": "Primary data is collected first-hand by the business — a customer survey designed and administered by the firm qualifies. Published journals and ABS data are secondary sources collected by others."
+            },
             {
               "id": "mkt-process-2021-q26",
               "year": 2021,
@@ -1559,6 +1774,84 @@
           "id": "mkt-strategies",
           "name": "Marketing strategies",
           "questions": [
+            {
+              "id": "mkt-strat-2020-q10",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A company has reduced the price of their current razor as a new model will be released soon. Which stage of the product life cycle for the current razor is indicated by this decision?",
+              "options": [
+                "Introduction",
+                "Growth",
+                "Maturity",
+                "Decline"
+              ],
+              "correct": "D",
+              "explanation": "Price reductions to clear stock as a replacement product is launched indicate the decline stage. Introduction and growth involve price skimming or competitive pricing for a new product; maturity involves stable pricing to maintain market share."
+            },
+            {
+              "id": "mkt-strat-2020-q22b",
+              "year": 2020,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Recommend a pricing method this business could adopt for the US market.",
+              "stimulus": "A popular Australian guitar manufacturer is about to enter the US market using a standardised marketing strategy.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Recommends a specific pricing method with clear reasons supporting its suitability for this business entering the US market."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Describes features of a pricing method or strategy with some link to the business context."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names a pricing method or strategy with limited justification."
+                }
+              ],
+              "exemplar": "I recommend that the Australian guitar manufacturer adopt competition-based pricing in the US market. This pricing method involves setting prices in line with established competitors such as Fender, Gibson and Taylor. As a new entrant, the business lacks brand recognition with US consumers, so pricing equal to or slightly below competitors will reduce the risk of being overlooked. This approach allows the business to penetrate the market while still covering production and shipping costs, and as brand awareness grows, the business can shift toward price points that reflect perceived quality. Competition-based pricing also avoids the high research costs associated with consumer-based pricing."
+            },
+            {
+              "id": "mkt-strat-2020-q22c",
+              "year": 2020,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Justify this business's decision to adopt a standardised marketing strategy.",
+              "stimulus": "A popular Australian guitar manufacturer is about to enter the US market using a standardised marketing strategy.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear, well-supported argument for the use of a standardised marketing strategy, with reasons related to the business context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides an argument for the use of a standardised marketing strategy with some development."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Makes general statements about standardised marketing with limited justification."
+                }
+              ],
+              "exemplar": "A standardised (global) marketing strategy involves using essentially the same product, price, promotion and distribution approach across all international markets. For this Australian guitar manufacturer entering the US, standardisation is justified for several reasons.\n\nFirst, guitars are a culturally universal product — musicians worldwide share similar preferences for tone, playability and aesthetics, meaning customisation is unnecessary. Second, standardisation achieves significant economies of scale: producing one consistent product line lowers per-unit input costs, and using one promotional campaign (e.g. consistent branding, packaging and advertising) avoids duplicated marketing expenditure. Coca-Cola is a well-known example of a brand that has succeeded using largely standardised global marketing.\n\nThird, a consistent global brand image builds international recognition and consumer trust. Customers travelling between countries, or watching international artists endorse the product, will encounter the same brand experience. Finally, standardisation simplifies supply chain management for spare parts, repairs and after-sales service. Overall, standardisation maximises efficiency and brand consistency, supporting successful US market entry."
+            },
+            {
+              "id": "mkt-strat-2020-q8",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Two boxes of oats are shown. Product A is a plain box labelled 'Fruit Oats 300g'. Product B is labelled 'Miller's Farm Fruit Oats 300g'. Which strategy is being used by Product B that is not being used by Product A?",
+              "options": [
+                "Branding",
+                "Labelling",
+                "Packaging",
+                "Trademarking"
+              ],
+              "correct": "A",
+              "explanation": "Product B uses a brand name ('Miller's Farm') to differentiate the product, which is branding. Both products use labelling and packaging. Trademarking would require evidence of a registered ™ or ® symbol."
+            },
             {
               "id": "mkt-strategies-2021-q24a",
               "year": 2021,
@@ -2123,6 +2416,153 @@
           "name": "Processes of financial management",
           "questions": [
             {
+              "id": "fin-proc-2020-q14",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A hairdresser includes proceeds of the sale of salon equipment in the business's income statement. Which limitation of financial reporting is evident?",
+              "options": [
+                "Timing issues",
+                "Valuing assets",
+                "Normalised earnings",
+                "Capitalising expenses"
+              ],
+              "correct": "C",
+              "explanation": "Normalised earnings refers to removing one-off, non-recurring items (like the sale of equipment) so that core profitability is shown accurately. Including a one-off sale inflates regular earnings and misrepresents ongoing performance."
+            },
+            {
+              "id": "fin-proc-2020-q17",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A business reported Sales of $275,000, Cost of goods sold of $145,000, and Expenses of $35,000 in 2020. Which of the following shows the gross profit and the net profit ratio for this business in 2020?",
+              "options": [
+                "Gross profit $105,000 / Net profit ratio 28.0%",
+                "Gross profit $105,000 / Net profit ratio 42.0%",
+                "Gross profit $130,000 / Net profit ratio 34.5%",
+                "Gross profit $130,000 / Net profit ratio 47.0%"
+              ],
+              "correct": "C",
+              "explanation": "Gross profit = Sales − COGS = $275,000 − $145,000 = $130,000. Net profit = $130,000 − $35,000 = $95,000. Net profit ratio = $95,000 ÷ $275,000 = 34.5%."
+            },
+            {
+              "id": "fin-proc-2020-q18",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the same business data — Sales: $250,000 (2019), $275,000 (2020); COGS: $145,000 both years; Expenses: $35,000 both years — which of the following describes the change in both the gross profit ratio and expense ratio from 2019 to 2020?",
+              "options": [
+                "Gross profit ratio: Improved / Expense ratio: Improved",
+                "Gross profit ratio: Improved / Expense ratio: Worsened",
+                "Gross profit ratio: Worsened / Expense ratio: Improved",
+                "Gross profit ratio: Worsened / Expense ratio: Worsened"
+              ],
+              "correct": "A",
+              "explanation": "GP ratio: 2019 = 105/250 = 42%; 2020 = 130/275 = 47.3% — improved. Expense ratio: 2019 = 35/250 = 14%; 2020 = 35/275 = 12.7% — improved (lower is better). Both ratios improved."
+            },
+            {
+              "id": "fin-proc-2020-q19",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Extract from balance sheet as at June 2020: Current assets $1,700; Non-current assets $8,650; Current liabilities $1,100; Non-current liabilities $6,500. 2019 data: Debt to equity 2:1 (200%); Current ratio 1.25:1 (125%). Industry averages 2019-2020: Debt to equity 1:1 (100%); Current ratio 2:1 (200%). The liquidity position of this business in 2020 indicates that it is",
+              "options": [
+                "better than the industry average and has improved since 2019.",
+                "better than the industry average and has worsened since 2019.",
+                "worse than the industry average and has improved since 2019.",
+                "worse than the industry average and has worsened since 2019."
+              ],
+              "correct": "C",
+              "explanation": "Current ratio 2020 = 1700 ÷ 1100 = 1.55:1 (155%). This is worse than industry average of 2:1 but improved from 2019's 1.25:1."
+            },
+            {
+              "id": "fin-proc-2020-q20",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Using the same balance sheet data — Current assets $1,700; Non-current assets $8,650; Current liabilities $1,100; Non-current liabilities $6,500; 2019 debt-to-equity 2:1; industry average 1:1 — the gearing for this business in 2020 indicates that it is",
+              "options": [
+                "better than the industry average and has improved since 2019.",
+                "better than the industry average and has worsened since 2019.",
+                "worse than the industry average and has improved since 2019.",
+                "worse than the industry average and has worsened since 2019."
+              ],
+              "correct": "D",
+              "explanation": "Total liabilities = $7,600; Total equity = Total assets − Total liabilities = $10,350 − $7,600 = $2,750. Debt-to-equity = 7600 ÷ 2750 ≈ 2.76:1 (276%). This is worse than the industry average of 1:1 and has worsened from 2019's 2:1."
+            },
+            {
+              "id": "fin-proc-2020-q24a",
+              "year": 2020,
+              "type": "short",
+              "marks": 1,
+              "prompt": "Calculate the accounts receivable turnover ratio (sales ÷ accounts receivable) for this business.",
+              "stimulus": "Financial information for robotics company: Sales $225,000; Cost of goods sold $105,000; Selling expenses $8,500; Administration expenses $6,000; Financial expenses $4,000; Accounts receivable $30,000; Credit policy 30 days; Industry expense ratio 10%.",
+              "suggested_words": 30,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly calculates the accounts receivable turnover ratio."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Mostly correct calculation with minor error."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Attempts calculation with significant error."
+                }
+              ],
+              "exemplar": "Accounts receivable turnover = Sales ÷ Accounts receivable = $225,000 ÷ $30,000 = 7.5 times per year. Expressed in days: 365 ÷ 7.5 = approximately 49 days."
+            },
+            {
+              "id": "fin-proc-2020-q24b",
+              "year": 2020,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Interpret this business's expense ratio (total expenses ÷ sales).",
+              "stimulus": "Financial information for robotics company: Sales $225,000; Cost of goods sold $105,000; Selling expenses $8,500; Administration expenses $6,000; Financial expenses $4,000; Accounts receivable $30,000; Credit policy 30 days; Industry expense ratio 10%.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Correctly calculates the expense ratio and interprets it in the business context."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Correctly calculates or interprets the expense ratio."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Attempts calculation or interpretation with errors."
+                }
+              ],
+              "exemplar": "Total expenses = $8,500 + $6,000 + $4,000 = $18,500. Expense ratio = $18,500 ÷ $225,000 = 8.2%. This means that for every $1 of sales generated, approximately 8.2 cents is absorbed by operating expenses. This is favourable compared to the industry expense ratio of 10%, indicating the business is managing its expenses more efficiently than its competitors."
+            },
+            {
+              "id": "fin-proc-2020-q24d",
+              "year": 2020,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain TWO ways in which comparative ratio analysis can be used by this business to assess its financial position.",
+              "stimulus": "Financial information for robotics company: Sales $225,000; Cost of goods sold $105,000; Selling expenses $8,500; Administration expenses $6,000; Financial expenses $4,000; Accounts receivable $30,000; Credit policy 30 days; Industry expense ratio 10%.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains two ways comparative ratio analysis can assess the business's financial position, with relevant application."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines two ways with some application, or one way in detail."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides general information about comparative ratio analysis."
+                }
+              ],
+              "exemplar": "Comparative ratio analysis allows a business to evaluate its financial position by benchmarking ratios against meaningful reference points. Two ways the robotics company can use this analysis are:\n\nFirst, comparison over different time periods (trend analysis). By calculating ratios such as the accounts receivable turnover, expense ratio, current ratio and gross profit ratio across multiple years, management can identify whether financial performance is improving or deteriorating. For example, if last year's accounts receivable turnover was 9 times but this year's is 7.5 times, this signals worsening debt collection — prompting strategies such as discounts for early payment.\n\nSecond, comparison against industry averages. The business has an expense ratio of 8.2%, which is below the industry standard of 10%, indicating superior expense management. Similar comparisons can be made for liquidity, gearing and profitability ratios to identify areas of competitive strength and weakness. This allows the robotics company to set realistic financial targets and identify where strategic changes are needed."
+            },
+            {
               "id": "fin-process-2021-q13",
               "year": 2021,
               "type": "mcq",
@@ -2509,6 +2949,53 @@
           "name": "Financial management strategies",
           "questions": [
             {
+              "id": "fin-strat-2020-q24c",
+              "year": 2020,
+              "type": "short",
+              "marks": 3,
+              "prompt": "Recommend ONE financial strategy this business could implement to improve efficiency in the collection of accounts receivable.",
+              "stimulus": "Financial information for robotics company: Sales $225,000; Cost of goods sold $105,000; Selling expenses $8,500; Administration expenses $6,000; Financial expenses $4,000; Accounts receivable $30,000; Credit policy 30 days; Industry expense ratio 10%.",
+              "suggested_words": 100,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Recommends one financial strategy with clear, supporting reasons relevant to improving accounts receivable efficiency."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Outlines a relevant strategy with some development."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names a strategy with limited explanation."
+                }
+              ],
+              "exemplar": "I recommend offering discounts for early payment as a cash-flow management strategy. The business currently collects receivables every 49 days, well beyond its 30-day credit policy, indicating customers are paying late. By offering a small discount (e.g. 2% off if paid within 10 days), the business creates a financial incentive for customers to pay quickly. This accelerates cash inflow, improving liquidity and reducing the risk of bad debts. Combined with penalties for late payment, the strategy strengthens debt collection efficiency. The reduced accounts receivable balance also lowers the need for short-term borrowing to cover working capital shortfalls."
+            },
+            {
+              "id": "fin-strat-2020-q26",
+              "year": 2020,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate the effectiveness of financial management strategies used to achieve profit and growth objectives.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a sustained, well-reasoned judgement on the effectiveness of financial management strategies in achieving profit and growth objectives, integrating relevant case studies and contemporary business issues with extensive use of business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Explains the relationship between financial management strategies and profit/growth objectives with reference to case studies, using relevant business terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to financial management strategies and objectives with basic terminology."
+                }
+              ],
+              "exemplar": "Financial management strategies are central to enabling a business to achieve its profit and growth objectives. By controlling cash flow, working capital, profitability and global financial exposure, businesses translate financial decisions into long-term sustainability. However, the effectiveness of these strategies depends on their alignment with the business's circumstances and external environment. This response evaluates the effectiveness of key financial management strategies in achieving profit and growth, with reference to Qantas and other contemporary examples.\n\nProfit objectives focus on maximising the difference between revenue and costs, typically measured through net profit, gross profit and return on equity. Growth objectives involve increasing market share, sales volume or business size, often requiring reinvestment. Financial strategies must therefore generate both short-term profit and long-term capacity.\n\nCash flow management is highly effective in supporting both objectives. A cash flow statement enables managers to forecast inflows and outflows and prevent liquidity crises. Strategies such as distribution of payments (timing outflows to match peak inflows), offering discounts for early payment, and factoring (selling receivables to a third party at a discount) accelerate cash inflow. During the COVID-19 pandemic, Qantas relied heavily on cash flow management to survive — deferring supplier payments, drawing on credit facilities, and selling property assets to maintain liquidity while revenue collapsed. While effective in preserving short-term solvency, aggressive use of factoring can erode profit through fees, so the strategy must be carefully balanced.\n\nWorking capital management is equally important. Controlling current assets (cash, receivables and inventories) and current liabilities (payables, loans and overdrafts) ensures the business can meet obligations while funding operations. Strategies such as leasing and sale-and-leaseback are particularly effective for growth, as they free up capital tied up in fixed assets and convert it into cash for reinvestment. Qantas's $802 million sale and leaseback of its Sydney and Melbourne airport terminals (and aircraft) is a clear example — capital was released for working capital and growth initiatives, including the Project Sunrise long-haul fleet. The strategy effectively supported growth, though it increased ongoing lease expenses, which can pressure profit margins if revenue is volatile.\n\nProfitability management directly targets profit objectives. Cost controls — distinguishing fixed and variable costs, identifying cost centres, and pursuing expense minimisation — are highly effective. Qantas's $15 billion cost-out program announced in 2020 included 6,000 redundancies, fleet retirement of Boeing 747s, and renegotiation of supplier contracts. These measures restored profitability post-pandemic, with Qantas reporting a record $2.47 billion underlying profit in FY23. Revenue controls (aligned to marketing objectives) — including price increases on premium routes, dynamic pricing of fares, and Qantas Loyalty's expansion — increased revenue alongside cost reductions. The combined effect demonstrates that profitability management is highly effective when cost and revenue strategies operate in tandem.\n\nHowever, profitability strategies can risk long-term growth. Excessive cost-cutting can damage product quality, customer service and employee morale — issues Qantas faced through illegal outsourcing of ground handlers (resulting in a High Court loss in 2023), reputational damage and customer complaints. This illustrates that short-term profit gains can undermine the brand and limit future growth if not balanced ethically and strategically.\n\nGlobal financial management strategies are critical for businesses operating internationally. Exchange rate fluctuations create transaction, translation and economic risks. Hedging strategies — including forward contracts, options and swaps — lock in exchange rates and protect profit margins. Qantas hedges its US dollar fuel purchases up to 80% of expected consumption, smoothing earnings volatility. Similarly, interest rate management through fixed-rate borrowing protects against rising rates. Methods of international payment (letter of credit, bill of exchange, payment in advance, clean payment) manage credit risk in offshore transactions. Derivatives, while complex, offer powerful risk management — though misuse (as in the 2008 GFC) shows that effectiveness depends on prudent use. For multinationals such as BHP, hedging commodity prices and currency has been essential in stabilising profit during cyclical downturns.\n\nWhilst these strategies are largely effective, several limitations must be considered. First, financial strategies cannot offset poor strategic direction — a business pursuing the wrong markets or products cannot \"financial-manage\" its way to growth. Second, over-reliance on debt to finance growth (high gearing) increases solvency risk. Many businesses, including Virgin Australia in 2020, collapsed due to unsustainable debt levels exposed by external shocks. Third, financial management is reactive to broader economic conditions — exchange rates, interest rates and consumer confidence are outside management's control. Fourth, ethical considerations matter: pursuing profit through tax minimisation or aggressive accounting (e.g. capitalising expenses to overstate profit, as alleged in the Tesco accounting scandal) can damage reputation and trigger regulatory penalties.\n\nIn evaluation, financial management strategies are highly effective in achieving profit and growth objectives when applied in an integrated, balanced and ethical manner. Cash flow and working capital management secure short-term solvency and free up capital for reinvestment. Profitability management directly drives net profit, while global financial management protects margins from international exposure. The Qantas case demonstrates that effective combinations of these strategies can return a business to record profit even after severe disruption — but also that single-minded pursuit of profit at the expense of stakeholders can undermine long-term growth. Effectiveness, ultimately, is contingent on alignment with the business's broader strategic objectives, sound implementation, and recognition that financial strategies are tools to enable strategy, not substitutes for it. Used wisely, they remain indispensable to achieving both profit and growth."
+            },
+            {
               "id": "fin-strategies-2021-q18",
               "year": 2021,
               "type": "mcq",
@@ -2754,6 +3241,74 @@
           "id": "hr-influences",
           "name": "Influences on human resource management",
           "questions": [
+            {
+              "id": "hr-infl-2020-q12",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A NSW employer develops a return to work plan in consultation with an insurer and an injured employee. Which legislation requires the employer to undertake this action?",
+              "options": [
+                "Fair Work Act 2009 (Cth)",
+                "Workers Compensation Act 1987 (NSW)",
+                "Work Health and Safety Act 2011 (NSW)",
+                "Australian Human Rights Commission Act 1986 (Cth)"
+              ],
+              "correct": "B",
+              "explanation": "The Workers Compensation Act 1987 (NSW) requires employers to develop return-to-work plans for injured employees. The WHS Act focuses on preventing injury, the Fair Work Act covers general employment conditions, and the AHRC Act addresses discrimination."
+            },
+            {
+              "id": "hr-infl-2020-q2",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Betty believes she is eligible to ask her employer for flexible working arrangements. Which of the following is a provision of the Fair Work Act 2009 (Cth) that gives Betty the right to make this request?",
+              "options": [
+                "A modern award",
+                "A common law contract",
+                "An enterprise agreement",
+                "Minimum employment standards"
+              ],
+              "correct": "D",
+              "explanation": "The right to request flexible working arrangements is one of the National Employment Standards (minimum employment standards) under the Fair Work Act 2009. Modern awards and enterprise agreements are separate instruments, and a common law contract is an individual arrangement."
+            },
+            {
+              "id": "hr-infl-2020-q21c",
+              "year": 2020,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Explain how technological influences and globalisation can lead to a company reducing staff numbers. Support your answer with relevant examples.",
+              "suggested_words": 150,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly explains both how technological influences and globalisation can lead to staff reductions, supported by relevant business examples."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Provides characteristics and features of how technology and/or globalisation lead to staff reductions, with at least one example."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Identifies basic features of technology or globalisation with limited link to staff reductions."
+                }
+              ],
+              "exemplar": "Technological influences refer to advances in equipment, software and automation that change how businesses operate. As technology improves productivity, it often replaces human labour. For example, Amazon's introduction of robotic warehouse systems and automated sorting has reduced its need for manual pickers, while Australian banks like CBA have closed branches and reduced teller numbers as digital banking apps replace face-to-face transactions.\n\nGlobalisation refers to the increased economic integration between nations, enabling businesses to access overseas markets, labour and resources. This often leads to offshoring of production to countries with lower labour costs, causing local retrenchments. For example, Bonds (Pacific Brands) moved its manufacturing offshore to China in 2009, resulting in approximately 1,800 Australian job losses. Similarly, Holden ceased Australian manufacturing in 2017, partly because it could not compete with cheaper global production.\n\nTogether, technology and globalisation reduce the demand for domestic labour, leading to retrenchments and workforce restructuring."
+            },
+            {
+              "id": "hr-infl-2020-q9",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "At which stage of the economic cycle is it most likely for a business to begin to reduce staff working hours?",
+              "options": [
+                "Boom",
+                "Downswing",
+                "Recession",
+                "Upswing"
+              ],
+              "correct": "B",
+              "explanation": "A downswing is the early stage of contraction when demand begins to fall — businesses respond by cutting hours before resorting to retrenchments. By recession (C), staff are more likely to be terminated. Boom and upswing involve growing demand."
+            },
             {
               "id": "hr-influences-2021-q23a",
               "year": 2021,
@@ -3192,6 +3747,44 @@
           "name": "Processes of human resource management",
           "questions": [
             {
+              "id": "hr-proc-2020-q21b",
+              "year": 2020,
+              "type": "short",
+              "marks": 4,
+              "prompt": "Distinguish between voluntary and involuntary separation.",
+              "suggested_words": 120,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Clearly distinguishes between voluntary and involuntary separation by identifying differences and providing examples of each."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Shows understanding of both types of separation, though differences may not be fully developed."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Provides general information about voluntary or involuntary separation with limited distinction between them."
+                }
+              ],
+              "exemplar": "Voluntary separation occurs when an employee chooses to leave the business of their own accord. Common examples include resignation (where an employee accepts a position elsewhere), retirement (when an employee leaves the workforce after reaching a certain age) and voluntary redundancy (where employees accept a financial package to leave).\n\nIn contrast, involuntary separation occurs when an employee is forced to leave against their wishes. This includes dismissal for serious misconduct (summary dismissal), termination at the end of a fixed-term contract, or involuntary redundancy when the position no longer exists due to restructuring. For example, when Qantas retrenched 6,000 staff during COVID-19, this was involuntary separation as employees did not choose to leave.\n\nThe key distinction is choice — voluntary separations are initiated by the employee, while involuntary separations are initiated by the employer."
+            },
+            {
+              "id": "hr-strat-2020-q1",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "Which row of the table shows benefits of both staff training and staff development?",
+              "options": [
+                "Staff training: Increase staff skills / Staff development: Increased staff turnover",
+                "Staff training: Increase staff skills / Staff development: Retain experienced staff",
+                "Staff training: Decrease in workplace accidents / Staff development: Increased staff turnover",
+                "Staff training: Decrease in workplace redundancies / Staff development: Retain experienced staff"
+              ],
+              "correct": "B",
+              "explanation": "Training increases current job-related skills while development prepares staff for future roles, helping retain experienced employees. Increased staff turnover (A, C) is a negative outcome, not a benefit. Reducing redundancies (D) is not a typical benefit of training."
+            },
+            {
               "id": "hr-processes-2021-q17",
               "year": 2021,
               "type": "mcq",
@@ -3381,6 +3974,44 @@
           "name": "Strategies in human resource management",
           "questions": [
             {
+              "id": "hr-proc-2020-q3",
+              "year": 2020,
+              "type": "mcq",
+              "marks": 1,
+              "prompt": "A firm has been hiring its own staff but due to growth no longer has time to satisfactorily manage this process. What could the firm's human resource manager use to resolve this issue?",
+              "options": [
+                "Acquisition",
+                "Outsourcing",
+                "Recruitment",
+                "Selection"
+              ],
+              "correct": "B",
+              "explanation": "Outsourcing involves contracting an external provider (such as a recruitment agency) to handle HR functions like hiring. Recruitment and selection are the activities themselves, not a solution to lacking time. Acquisition refers to buying another business."
+            },
+            {
+              "id": "hr-strat-2020-q21a",
+              "year": 2020,
+              "type": "short",
+              "marks": 2,
+              "prompt": "Outline the role of ONE external stakeholder who represents the interests of employees in workplace disputes.",
+              "suggested_words": 60,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a clear, accurate outline of one external stakeholder's role in representing employees in workplace disputes, using correct terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Identifies a relevant stakeholder and gives general information about how they support employees in disputes."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Names a stakeholder with limited or vague information about their role."
+                }
+              ],
+              "exemplar": "Trade unions are external stakeholders that represent employee interests in workplace disputes. They act on behalf of their members by negotiating with employers during collective bargaining for enterprise agreements, providing advice on legal entitlements, and representing employees in formal grievance procedures or before the Fair Work Commission. For example, the SDA represents retail workers in disputes with employers such as Coles over wage underpayments."
+            },
+            {
               "id": "hr-strategies-2021-q15",
               "year": 2021,
               "type": "mcq",
@@ -3531,6 +4162,29 @@
           "id": "hr-effectiveness",
           "name": "Effectiveness of human resource management",
           "questions": [
+            {
+              "id": "hr-eff-2020-q27",
+              "year": 2020,
+              "type": "extended",
+              "marks": 20,
+              "prompt": "Evaluate human resource strategies used to achieve THREE indicators of effective human resource management.",
+              "suggested_words": 1000,
+              "criteria": [
+                {
+                  "band": "5",
+                  "description": "Provides a sustained, well-reasoned judgement on the effectiveness of human resource strategies in achieving three indicators of effective HRM, integrating relevant case studies and contemporary business issues with extensive use of business terminology."
+                },
+                {
+                  "band": "3-4",
+                  "description": "Explains the relationship between HR strategies and three indicators of effective HRM with case study reference and use of relevant business terminology."
+                },
+                {
+                  "band": "1-2",
+                  "description": "Limited reference to HR strategies and/or indicators of effectiveness with basic terminology."
+                }
+              ],
+              "exemplar": "Effective human resource management (HRM) is essential to converting workforce potential into business performance. The effectiveness of HRM is measured through indicators such as corporate culture, levels of staff turnover and worker satisfaction. Human resource strategies — including leadership style, training and development, rewards, and workplace dispute resolution — directly shape these indicators. This response evaluates how HR strategies are used to achieve three indicators of effective HRM, with reference to Qantas and Atlassian as contemporary case studies.\n\nThe first indicator is corporate culture — the shared values, beliefs and norms that characterise a workplace. A strong, positive culture drives employee engagement, innovation and brand reputation. Leadership style is a key strategy influencing culture. A participative leadership style, where managers consult and empower employees, fosters collaboration and trust, while autocratic leadership creates compliance-oriented cultures that can suppress innovation. Atlassian, the Australian software company, has built a culture around its values \"open company, no bullshit\" and \"play, as a team\". CEO Mike Cannon-Brookes has used a participative, transparent leadership style — including monthly company-wide town halls and an annual ShipIt hackathon — that reinforces innovation and openness. Job design also influences culture: Atlassian's enrichment-based job design (giving employees autonomy over how they complete tasks, such as the \"20% time\" innovation program) reinforces creativity. The effectiveness of these strategies is evident in Atlassian's repeated ranking among the world's best places to work and its retention of top engineering talent globally. By contrast, Qantas's culture has been damaged by adversarial leadership during the COVID-19 outsourcing dispute, ultimately ruled illegal by the High Court in 2023, demonstrating that mismanagement of HR strategies erodes corporate culture.\n\nThe second indicator is staff turnover — the rate at which employees leave the business. High turnover is costly due to recruitment, onboarding and lost productivity expenses, and indicates underlying problems. Training and development strategies are highly effective in reducing turnover by demonstrating investment in employees' future. Atlassian invests heavily in development through its \"Atlassian University\", mentoring programs, and clear career pathways, contributing to industry-low turnover rates in a competitive tech labour market. Rewards strategies — both monetary (competitive salaries, performance pay, share schemes) and non-monetary (flexible working, recognition programs) — also reduce turnover by enhancing retention. Atlassian offers share-based compensation, generous parental leave (up to 6 months paid), and remote-work flexibility through its \"Team Anywhere\" policy. These strategies are highly effective because they address both extrinsic and intrinsic motivators. However, rewards alone are insufficient: if leadership and culture are poor, rewards are perceived as compensation for a bad workplace rather than as recognition, limiting their effectiveness. Recruitment strategy — using internal recruitment to fill senior roles — further reduces turnover by signalling career mobility. Qantas's COVID-era retrenchments of 6,000 staff created lasting damage to staff perceptions of job security, contributing to elevated voluntary turnover during the post-pandemic recovery and forcing the business to engage in costly re-hiring at premium wages.\n\nThe third indicator is worker satisfaction — measured through engagement surveys, exit interviews and absenteeism data. Satisfied workers are more productive, loyal and willing to advocate for the business. Performance management strategies that focus on development rather than purely administrative purposes are highly effective. Regular two-way feedback, coaching conversations and the use of 360-degree feedback build trust and growth, contrasted with one-way annual appraisals that damage morale. Atlassian replaced traditional annual reviews with continuous \"check-ins\" focused on coaching, contributing to high satisfaction scores. Workplace dispute resolution strategies — using negotiation, mediation and grievance procedures rather than escalating to courts and tribunals — also improve satisfaction by signalling fairness. Effective grievance handling and access to confidential employee assistance programs reduce the perception that conflict is suppressed. Qantas's adversarial approach to industrial disputes (including the 2011 fleet grounding and 2020 outsourcing) eroded satisfaction and produced significant industrial action. In contrast, businesses such as Bunnings have used negotiation-led enterprise agreements that have maintained relatively high satisfaction scores.\n\nIn evaluation, HR strategies are highly effective in achieving these three indicators when applied in an integrated, ethical and consistent manner. Leadership style and job design build corporate culture; training, development and rewards reduce staff turnover; and performance management and dispute resolution drive worker satisfaction. Atlassian demonstrates that aligned HR strategies create a mutually reinforcing system — strong culture supports retention, retention supports satisfaction, and satisfaction reinforces culture. Conversely, Qantas demonstrates that the effectiveness of HR strategies is fragile: short-term cost-cutting through retrenchment and outsourcing can damage culture, increase turnover and reduce satisfaction simultaneously, with reputational and financial consequences (including a $120 million penalty pool for the illegal outsourcing).\n\nLimitations exist. HR strategies cannot fully offset external pressures such as the economic cycle, technological disruption or skills shortages. Cultural change is slow, and rewards budgets are constrained by financial performance. Strategies must also balance the conflicting interests of stakeholders — shareholders demanding cost discipline, employees demanding fair treatment, and customers demanding service quality.\n\nUltimately, HR strategies are an indispensable lever for achieving effective HRM. Their effectiveness depends on alignment between strategy and culture, consistency between rhetoric and action, and the ethical treatment of employees. When implemented coherently — as at Atlassian — they produce measurable gains in corporate culture, retention and satisfaction. When neglected or implemented coercively, the resulting damage to indicators is severe and long-lasting."
+            },
             {
               "id": "hr-eff-2022-q8",
               "year": 2022,
